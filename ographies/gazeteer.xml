@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gazeteer>
+    <entity name="bukhara" fm_ref="loc_3">
+        <city id="bukhara_city" thuraya="" population=""/>
+        <polity id="bukhara_polity"/>
+    </entity>
+</gazeteer>

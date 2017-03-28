@@ -1,0 +1,12 @@
+
+<?xml-model href="../schemas/schema_roleography.rnc" type="application/relax-ng-compact-syntax"?>
+<roleography>
+<!-- Russian Ranks -->
+    <role ref="general" emic="генерал" type="rank" polity="russia"/>
+    <role ref="major_general" emic="генерал-майор" type="rank" polity="russia"/>
+    <role ref="nach_glav_shtab" emic="начальнику_главнаго_штаба" type="rank" polity="russia"/>
+    <role ref="stats-sekretar" emic="статс-секретарь" type="rank" polity="russia"/>
+<!-- Bukharan Ranks -->
+    <role ref="amir" emic="амир امیر" type="rank" polity="bukhara"/>
+    <role ref="beg" emic="бек бег بیگ بیک" type="title"/>
+</roleography>

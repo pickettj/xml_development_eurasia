@@ -1,0 +1,60 @@
+start = document
+document = element document {metadata, body}
+# document always refers to the entire textual unit in question, from a half page archival document to a 500 page manuscript
+
+#METADATA
+metadata = element metadata {archive, serial, entity, original, complete, cat_gloss, cat_date, gloss, keywords}
+archive = element archive {arc_name, call, fol}
+arc_name = element name {"NAI"|"RGVIA"|"RGIA"|"TsGARUz"|"USSR"}
+#Refers to Archive Acronym
+call = element call {text}
+fol = element fol {text}
+serial = element serial {xsd:int}
+#Internal reference number
+entity = element entity {"Bukhara"|"Britain"|"Hyderabad"|"Russia" | "USSR"}
+#The political entity that produced the document
+original = element original {original_type}
+original_type = attribute type {"original"|"scan"|"notes"|"photocopy"}
+#Copy of the document, scan, or just notes
+complete = element complete {complete_type}
+complete_type = attribute type {"yes" | "partial" | "errors"}
+#PROBLEM: need to make repeatable
+cat_gloss = element cat_gloss {text}
+#The actual catalog description (in original language of the catelog, but transcribed into Roman characters)
+cat_date = element cat_date {text}
+gloss = element gloss {text}
+#An ad-hoc description of the contents (in English)
+keywords = element keywords {text}
+#Misc keywords of possible interest; no attempt to standardize or limit
+
+#BODY TEXT
+#__Body__ contains the entire text of the 'document'
+body = element body {(doc_div* | pg?)*}
+#__Page number__ is a milestone element; attribute Folio refers to  internal pagination
+pg = element pg {folio}
+folio = attribute folio {text}
+#__DocDiv__ can refer to any kind of emic divider within a text: paragraph, invocatio, diagonal writing, etc.
+doc_div = element div {div_type, mixed {(individual|location|institution|emic_id|date|pg|flag|honorific)*}}
+div_type = attribute type {"heading" | "preamble" | "report" | "sentence"}
+individual = element individual {mixed {ind_id?, (role? | honorific? | location?)*}}
+ind_id = attribute id {text} #will eventually refer to an idref#
+#__Roles & Honorifics__: Ranks & Titles are conceptually distinguished from Honorifics; the former ar tracked in a Rankography, and the latter merely flag hortoric text
+role = element role {role_id, text}
+role_id = attribute id {text}
+honorific = element honorific {text}
+#__Location__ is a capacious element referring to physical locations (cities, provinces), as well as human institutions (governments, madrasas, etc.)
+location = element location {loc_id?, text}
+loc_id = attribute id {text} #will eventually be an idref#
+institution = element institution {text}
+emic_id = element emic_id {emic_type, text}
+emic_type = attribute type {text}
+date = element date {date_id, text}
+date_id = attribute id {text}
+flag = element flag {flag_type, text}
+flag_type = attribute type {"orthography" | "transcription" | "meaning"}
+
+
+
+
+
+

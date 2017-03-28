@@ -1,0 +1,13 @@
+start = roleography
+roleography = element roleography {(role* | ref? | type? | polity?)*}
+
+role = element role {(ref?, emic?, type?, polity?)}
+
+ref = attribute ref {text}
+
+emic = attribute emic {text}
+
+type = attribute type {"rank" | "title"}
+#If the role refers to a specific job with responsibilities, then it is a "rank"; if it refers only to an honorary designation, then it is a "title"
+
+polity = attribute polity {"britain" | "bukhara" | "hyderabad" | "russia"}
