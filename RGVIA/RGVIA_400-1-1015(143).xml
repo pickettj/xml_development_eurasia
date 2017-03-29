@@ -1,5 +1,4 @@
-
-<?xml-model href="../schemas/schema_RGVIA.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schemas/schema_coding_primary_texts.rnc" type="application/relax-ng-compact-syntax"?>
 <document>
     <metadata>
         <archive>
@@ -22,7 +21,7 @@
         <div type="heading">При сем поверается на Высочайшее воззрение <individual id="ind_947"><honorific>Вашего
                     Императорскаго Величества</honorific></individual></div>
         <div type="heading"> копия с тереграммы <individual><role id="major_general">Генерал
-                    Маиора</role> Гродекова</individual> от <date id="30/11/1885">12го сего Ноября <!-- add three different IDs for three calendars -->
+                    Маиора</role> Гродекова</individual> от <date jul_date="12/11/1885">12го сего Ноября <!-- add three different IDs for three calendars -->
                 1885 года</date>
             <emic_id type="telegram">№ 63704</emic_id>, о положении дел в <location
                 id="bukhara_city">Бухаре</location></div>
@@ -32,7 +31,7 @@
         <div type="heading">Копия с шифрованной телеграммы <individual><role id="general"
                     >Генерала</role> Гробекова</individual>
             <individual><role id="nach_glav_shtab">Начальнику Главнаго Штаба</role></individual> из
-                <location>Ташкента</location> от <date id="12/11/1885">12го Ноября 1885 года</date>
+                <location id="tashkent_city">Ташкента</location> от <date jul_date="12/11/1885">12го Ноября 1885 года</date>
             за <emic_id type="numb">№ 63704</emic_id></div>
         <div type="sentence"><individual>Карцов</individual> телеграфирует, что от <individual>брата
                 Бухарскаго эмира</individual>, <individual>гиссарскаго <role id="beg">

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gazeteer>
     <entity name="bukhara" fm_ref="loc_3">
-        <city id="bukhara_city" thuraya="" population=""/>
+        <city id="bukhara_city" uid_thurayya="BUKHARA_644N398E_C17BUKHARA_644N398E_C17"
+            population=""/>
         <polity id="bukhara_polity"/>
+    </entity>
+    <entity name="tashkent" fm_ref="loc_3">
+        <city id="tashkent_city" uid_thurayya=""/>
     </entity>
 </gazeteer>
