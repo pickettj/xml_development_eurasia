@@ -11,11 +11,11 @@
         <original type="notes"/>
         <complete type="partial"/>
         <cat_gloss>Ob otnosheniiakh k bukharskomu emiru</cat_gloss>
-        <cat_date/>
+        <cat_date jul_date="1885">1885</cat_date>
         <gloss>Report on the outlying provinces, and who is submitting to the new amir.</gloss>
         <keywords>Hisar</keywords>
-
     </metadata>
+    
     <body>
         <pg folio="84a"/>
         <div type="heading">При сем поверается на Высочайшее воззрение <individual id="ind_947"><honorific>Вашего
@@ -54,10 +54,10 @@
             <individual>Худай-Назару</individual> с известием о признании <individual><role
                     id="amir">Эмира</role></individual>
             <location>русским правительством</location>.</div>
-        <div>ll. 91-92: 28 Nov. 1885. <!-- div type = personal gloss --> Telegram from Tashkent, informing that the Hisar bek has sent
-            tribute to the Bukharan amir Telegram text (91): 17 ноября посланный гиссарскаго бека
+        <div type="gloss"><pg folio="91-92"/> <date greg_date="28/11/1885">28 Nov. 1885</date>. Telegram from Tashkent, informing that the Hisar bek has sent
+            tribute to the Bukharan amir Telegram text (91):</div> <div type="sentence">17 ноября посланный гиссарскаго бека
             поднес бухарскому емиру подарки пятдесят тысяч тенег емир посланнаго наградил и с ним
-            послал ответныя подарки гиссарскому тюряджану все благополучно 94- : 26 Nov. 1885.
+            послал ответныя подарки гиссарскому тюряджану все благополучно</div> <div type="gloss">94- : 26 Nov. 1885.
             Telegram on intra-Manghit dynamics (94-95b copy of 96-98)</div>
     </body>
 </document>

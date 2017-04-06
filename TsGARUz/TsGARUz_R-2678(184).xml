@@ -1,5 +1,4 @@
-
-<?xml-model href="../schemas/schema_RGVIA.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schemas/schema_coding_primary_texts.rnc" type="application/relax-ng-compact-syntax"?>
 <document>
     <metadata>
         <archive>
@@ -10,7 +9,7 @@
         <serial>184</serial>
         <entity>USSR</entity> <!-- may wish to set up schema to allow multiple entries, i.e. also USSSR in this case -->
         <original type="scan"/>
-        <complete type="partial errors"/>
+        <complete type="partial"/>
         <cat_gloss>Soobshchenie o prepodavatel'iakh bukharskikh medrese v epokhu pravleniia emirov
             Muzaffara i Abdulakhada. Rukopis' Kari Akhmada Mukhammedova. Perevod Chekhovich
             O.D.</cat_gloss>
@@ -24,42 +23,42 @@
         آنچه ملایان درس گوئی مشهوری بدوران <individual> <role id="amir">امیر</role> مظفر</individual> و <individual>امیر عبد الاحد</individual>
                 <!-- how to signal sections of a document? and that the 'first' section isn't the first one listed (e.g. w/ preamble)-->>
             <language type="tajiki grammar">گذشته گی</language> این است</div>
-        <line><individual><title>داملا حسن آخوند <location type="city nisbat">بخاری</location></title></individual> الاصل از گذر <location type="neighborhood guzar">کاکلهً خورد</location> بسیار ملا درس گو بوده در اخر عمر</line>
-        <line>حویلی خودرا مدرسه نموده بملا بچه گان تقسیم نموده داده
+        <div type="line"><individual><role>داملا حسن آخوند <location>بخاری</location></role></individual> الاصل از گذر <location type="neighborhood guzar">کاکلهً خورد</location> بسیار ملا درس گو بوده در اخر عمر</div>
+        <div type="line">حویلی خودرا مدرسه نموده بملا بچه گان تقسیم نموده داده
             اند<!--turned his own home into a madrasa--> باوجود <flag type="meaning orthography"
-                >مرجع کل</flag> بودن</line>
-        <line>پادشاهان بخارا علاقه نداشته اند که اگر امیر را براهی بینند نمیشناخته اند</line>
-        <line>چنانچه اتفاقاً <rank>امیر</rank> بخارا یکروز از تحت <institution type="madrasa">مدرسهً
-                کوکلتاش</institution> گذشته بهمان وقت</line>
-        <line><flag type="orthography">در شخص</flag> گفته که <rank>امیر</rank> را بمن نشان بده که
-            بامیر عرض دارم آن شخصی داده که</line>
-        <line><title>آخوند</title> مذکور بامیر سلام کرده گفته که من با شما عرض دارم خوب گفته امیر
-            ایستاده</line>
-        <line>گفته که <individual>نجم الدین مخدوم <title>صدر</title>
+                >مرجع کل</flag> بودن</div>
+        <div type="line">پادشاهان بخارا علاقه نداشته اند که اگر امیر را براهی بینند نمیشناخته اند</div>
+        <div type="line">چنانچه اتفاقاً <rank>امیر</rank> بخارا یکروز از تحت <institution type="madrasa">مدرسهً
+                کوکلتاش</institution> گذشته بهمان وقت</div>
+        <div type="line"><flag type="orthography">در شخص</flag> گفته که <rank>امیر</rank> را بمن نشان بده که
+            بامیر عرض دارم آن شخصی داده که</div>
+        <div type="line"><title>آخوند</title> مذکور بامیر سلام کرده گفته که من با شما عرض دارم خوب گفته امیر
+            ایستاده</div>
+        <div type="line">گفته که <individual>نجم الدین مخدوم <title>صدر</title>
                 <title>اعلم</title></individual>
-            <legal type="debt">پنجهزار تنگه قرض</legal> داده بوده چند مراتب</line>
-        <line>برای طلبش آدم <flag type="orthography"
+            <legal type="debt">پنجهزار تنگه قرض</legal> داده بوده چند مراتب</div>
+        <div type="line">برای طلبش آدم <flag type="orthography"
                 ><!--writing inserted above in purple pen, possibly by archivist-->؟؟ کر</flag> همان
             پل مرا دهند بجواب گفته که من <title>اعلم</title> بخارا <law type="fatwa"
-            >روایت</law></line>
-        <line>کرده میدهم که از من گرفته نمیتوانند بنابر آن امیر گرفته دادن <flag type="orthography"
+            >روایت</law></div>
+        <div type="line">کرده میدهم که از من گرفته نمیتوانند بنابر آن امیر گرفته دادن <flag type="orthography"
                 >شوند</flag>
-            <flag type="orthography">بعده</flag></line>
-        <line>مُهر اعلمی را گرفته میشود بعد از امر امیرد مذکور اعلم مذکور پُل اخوند داده</line>
-        <line>فرستاده گر اخوند مذکور پنجهزار تنگه گرفته بمدرسهً بناء <language
-                language="tajiki grammar">نموده گی</language> حرف</line>
-        <line>کرده اند در عصر <individual><title>امیر</title> مظفر</individual> وفات یافته گی</line>
+            <flag type="orthography">بعده</flag></div>
+        <div type="line">مُهر اعلمی را گرفته میشود بعد از امر امیرد مذکور اعلم مذکور پُل اخوند داده</div>
+        <div type="line">فرستاده گر اخوند مذکور پنجهزار تنگه گرفته بمدرسهً بناء <language
+                language="tajiki grammar">نموده گی</language> حرف</div>
+        <div type="line">کرده اند در عصر <individual><title>امیر</title> مظفر</individual> وفات یافته گی</div>
 
 
 
 
 
 
-        <line>خلیفه رحمت الله کرمنه گی از <individual>کرمینه</individual> بخارا آمده در خانقاه شاه اخسی استقامت نموده
-            بسیار</line>
-        <line>شیخ کلان بود مرید و مخلص بسیاری در نزد او جمع کردگی بود از مال خود از طرف بخارا
-            چند</line>
-        <line>مقدار زمین گرفته دهقانی مینمود و هم مدرس و درس گو بود در ایام امیر عالم فوتینده</line>
+        <div type="line">خلیفه رحمت الله کرمنه گی از <individual>کرمینه</individual> بخارا آمده در خانقاه شاه اخسی استقامت نموده
+            بسیار</div>
+        <div type="line">شیخ کلان بود مرید و مخلص بسیاری در نزد او جمع کردگی بود از مال خود از طرف بخارا
+            چند</div>
+        <div type="line">مقدار زمین گرفته دهقانی مینمود و هم مدرس و درس گو بود در ایام امیر عالم فوتینده</div>
     </body>
 
 </document>

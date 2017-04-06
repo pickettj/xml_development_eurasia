@@ -5,7 +5,7 @@ document = element document {metadata, body}
 #METADATA
 metadata = element metadata {archive, serial, entity, original, complete, cat_gloss, cat_date, gloss, keywords}
 archive = element archive {arc_name, call, fol}
-arc_name = element name {"NAI"|"RGVIA"|"RGIA"|"TsGARUz"|"USSR"}
+arc_name = element name {"IVANUz"|"NAI"|"RGVIA"|"RGIA"|"TsGARUz"|"USSR"}
 #Refers to Archive Acronym
 call = element call {text}
 fol = element fol {text}
@@ -21,7 +21,10 @@ complete_type = attribute type {"yes" | "partial" | "errors"}
 #PROBLEM: need to make repeatable
 cat_gloss = element cat_gloss {text}
 #The actual catalog description (in original language of the catelog, but transcribed into Roman characters)
-cat_date = element cat_date {text}
+cat_date = element cat_date {mixed {(jul_date? | greg_date? | hij_date?)*}}
+jul_date = attribute jul_date {text}
+greg_date = attribute greg_date {text}
+hij_date = attribute hij_date {text}
 gloss = element gloss {text}
 #An ad-hoc description of the contents (in English)
 keywords = element keywords {text}
@@ -34,28 +37,34 @@ body = element body {(doc_div* | pg?)*}
 pg = element pg {folio}
 folio = attribute folio {text}
 #__DocDiv__ can refer to any kind of emic divider within a text: paragraph, invocatio, diagonal writing, etc.
-doc_div = element div {div_type, mixed {(individual|location|institution|emic_id|date|pg|flag|honorific)*}}
-div_type = attribute type {"heading" | "preamble" | "report" | "sentence"}
+doc_div = element div {div_type, mixed {(individual|intertext|language|location|emic_id|date|pg|flag|honorific)*}}
+div_type = attribute type {"gloss" | "heading" | "invocatio" | "line" | "marginalia" | "preamble" | "report" | "sentence"}
+#gloss refers to extra-textual commentary added by me, and signifies a break in the actual text.
 #___Individual__: id refers to personography; currently using FileMaker system, with 'ind_' prefixed to the serial number.
 individual = element individual {mixed {ind_id?, (role? | honorific? | location?)*}}
 ind_id = attribute id {text} #will eventually refer to an idref#
 #__Roles & Honorifics__: Ranks & Titles are conceptually distinguished from Honorifics; the former ar tracked in a Rankography, and the latter merely flag hortoric text
 role = element role {role_id, text}
 role_id = attribute id {text}
-honorific = element honorific {text}
+honorific = element honorific {mixed {pg?}}
 #__Location__ is a capacious element referring to physical locations (cities, provinces), as well as human institutions (governments, madrasas, etc.)
+# note also that a location element inside of an Individual element is always a Nisbat
 location = element location {loc_id?, text}
 loc_id = attribute id {text} #will eventually be an idref#
-institution = element institution {text}
+#__Language__ tracks linguistic points of note within a text
+language = element langauge {language_type, text}
+language_type = attribute type {"grammar" | "vocab" | "Tajik" | "Turkic" | "Urdu"}*
 emic_id = element emic_id {emic_type, text}
 emic_type = attribute type {text}
 #__Date__ format is day/month/year for all three
 date = element date {mixed {jul_date | greg_date | hij_date}}
-jul_date = attribute jul_date {text}
-greg_date = attribute greg_date {text}
-hij_date = attribute hij_date {text}
 flag = element flag {flag_type, text}
 flag_type = attribute type {"orthography" | "transcription" | "meaning"}
+#__Intertextual Reference__ with separate ids for Qur'an, Hadith, and references to the Bibliography (text_id)
+intertext = element intertext {mixed {quran_id | hadith_id | text_id}}
+quran_id = attribute quran_id {text}
+hadith_id = attribute hadith_id {text}
+text_id = attribute text_id {text}
 
 
 

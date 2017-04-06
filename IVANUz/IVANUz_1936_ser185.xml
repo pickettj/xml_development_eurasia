@@ -1,0 +1,53 @@
+<?xml-model href="../schemas/schema_coding_primary_texts.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-stylesheet type="text/css" href="RTL.css"?>
+<document>
+    <metadata>
+        <archive>
+            <name>IVANUz</name>
+            <call>1936</call>
+            <fol>1a-178a</fol>
+        </archive>
+        <serial/>
+        <entity>Bukhara</entity>
+        <original type="scan"/>
+        <complete type="partial"/>
+        <cat_gloss>Proiavlenie (zhiznennyx) obstoiatel'stv (مظهر الاحوال)</cat_gloss>
+        <cat_date hij_date="1156" greg_date="1743"/>
+        <gloss/>
+        <keywords/>
+    </metadata>
+    <body>
+        <pg folio="1a"/>
+        <!-- misc. scribbling & poetry on inside page-->
+        <pg folio="1b"/>
+        <div type="invocatio"> بسم الله الرحمن الرحیم </div>
+        <div type="preamble">الحمد الله الذی وفقنا بذکر الصالحین و اشعاعة احوال الطالحین و الصلوة
+            علی رسوله و حبیبه محمد صاحب الصدق و الیقین و علی آله و اصحابه و خلفا الرشیدین الیوم
+            الدین</div>
+        <div type="heading">اما بعد</div>
+        <div type="sentence"> می گوید بنده مسکین بی عد <individual>محمد امین بن ملا نور
+                محمد</individual> که بعد از خروج از دبیرستان نزد <honorific>جامع الفضایل ذا الکملات
+                الموصوف بانواع الورع و العبادتات المرحوم المبرور</honorific>
+            <individual><role id="">ایشان</role>
+                <role id="">سید</role>
+                <role id="">خواجه</role>
+                <location>نسفی</location></individual> از کتب نزد ایشان گذرانیده و مشق خط را <flag
+                type="orthography">...<!-- page physically torn here --></flag> فتوی نموده </div>
+        <div type="sentence">بعد از ان در ورطۀ <flag type="orthography">...</flag>
+            <honorific>زبدة الکبر اعمدة الامرا<pg folio="2a"/><pg folio="2a"/> معین الفقرا ظهیر
+                بأسوادت</honorific>
+            <individual>رفیق محمد حکیم بی اتالیق</individual>
+            <honorific>ادام الله سلطنته و معدلته مع اولاده الی یوم المیعاد</honorific> بوده </div>
+        <div type="sentence">خواستم که ذکر محامد و مناقب هر دو بزرگوار<flag type="orthography">
+                را</flag> دیده ام </div>
+        <div type="sentence">در قید کتابت آورده شود بقدر وسع که آيت <intertext quran_id="2:233">لَا
+                تُكَلَّفُ نَفْسٌ إِلَّا وُسْعَهَالَا تُكَلَّفُ نَفْسٌ إِلَّا
+                وُسْعَهَا<!--"No human being shall be burdened with more than he is well able to bear"--></intertext><intertext quran_id="23:62">وَلَدَيْنَا
+                    كِتَابٌ يَنطِقُ بِالْحَقِّوَلَدَيْنَا كِتَابٌ يَنطِقُ بِالْحَقِّ <comment>"for with Us is a record that speaks the truth [about what men do and can do]"</comment></intertext> </div>
+        <div type="marginalia">تکلیف نمیکنیم <flag type="orthography">هیچ تمنی</flag> را مگر بگنجایش او یعنی بقدر طاقت و نزدیک ماست کتابی <flag type="orthography">سخن</flag> گویند براصتی تفصیر</div>
+
+
+
+
+    </body>
+</document>
