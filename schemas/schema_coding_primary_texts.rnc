@@ -37,8 +37,8 @@ body = element body {(doc_div* | pg?)*}
 pg = element pg {folio}
 folio = attribute folio {text}
 #__DocDiv__ can refer to any kind of emic divider within a text: paragraph, invocatio, diagonal writing, etc.
-doc_div = element div {div_type, mixed {(individual|intertext|language|location|emic_id|date|pg|flag|honorific)*}}
-div_type = attribute type {"gloss" | "heading" | "invocatio" | "line" | "marginalia" | "preamble" | "report" | "sentence"}
+doc_div = element div {div_type, mixed {(individual|intertext|language|location|emic_id|date|pg|flag|honorific|financial)*}}
+div_type = attribute type {"closing" | "gloss" | "heading" | "invocatio" | "line" | "marginalia" | "preamble" | "report" | "sentence"}
 #gloss refers to extra-textual commentary added by me, and signifies a break in the actual text.
 #___Individual__: id refers to personography; currently using FileMaker system, with 'ind_' prefixed to the serial number.
 individual = element individual {mixed {ind_id?, (role? | honorific? | location?)*}}
@@ -65,6 +65,9 @@ intertext = element intertext {mixed {quran_id | hadith_id | text_id}}
 quran_id = attribute quran_id {text}
 hadith_id = attribute hadith_id {text}
 text_id = attribute text_id {text}
+#__Financial__ data, e.g. prices, salaries, etc.
+financial = element financial {financial_type, text}
+financial_type = attribute type {"salary" | "price"}
 
 
 

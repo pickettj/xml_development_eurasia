@@ -1,0 +1,29 @@
+<?xml-model href="../schemas/schema_coding_primary_texts.rnc" type="application/relax-ng-compact-syntax"?>
+<document>
+    <metadata>
+        <archive>
+            <name>TsGARUz</name>
+            <call>i-126-1-1990</call>
+            <fol>20</fol>
+        </archive>
+        <serial>186</serial>
+        <entity>Bukhara</entity>
+        <original type="scan"/>
+        <complete type="yes"/>
+        <cat_gloss>(look up)</cat_gloss>
+        <cat_date>n/a</cat_date>
+        <gloss>Request for Shahrisabz madrasa appointment.</gloss>
+        <keywords>mudarris Shahrisabz</keywords>
+    </metadata>
+    
+    <body>
+        <div type="invocatio">بنده نوازا</div> 
+        <div type="line">تصدق عالی حضرتم شوم</div>
+        <div type="line"><individual><role id="qazi">قاضی</role> ملا منصور</individual> دعا گویشان <individual>ملا قمر الدین</individual> صلوات خوان</div>
+        <div type="line">مدرّس حجرات <location>مسجد گذر قوش</location> ولایت <location>شهرسبز</location> فوتیده جای مدرس</div>
+        <div type="line">و صلواتخوانی او را <individual><role id="mulla">ملا</role> ایش محمد نام ختم کردۀ <location>شهرسبزی</location></individual> امید کرده</div>
+        <div type="line"><individual>جناب عالی</individual> را دعا مینماید حصول مدرّسی او <financial type="salary">پنجاه تنگه</financial> می شده ست</div>
+        <div type="line">گفته عرض کرده اند <individual>جناب عالیً حضرتم</individual> بهتر میدانند</div>
+        <div type="closing">تقصیر تقصیر تقصیر</div>
+    </body>
+</document>

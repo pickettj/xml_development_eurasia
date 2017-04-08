@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- The Gazeteer tracks both geographic locations (e.g. Bukhara the city, Ferghana the region) and institutions (e.g. madrasas, mosques, the Russian government) -->
 <gazeteer>
     <entity name="bukhara" fm_ref="loc_3">
         <city id="bukhara_city" uid_thurayya="BUKHARA_644N398E_C17BUKHARA_644N398E_C17"
             population=""/>
         <polity id="bukhara_polity"/>
+        <district id="bukh_qush_dist" emic = "گذر قوش">
+            <mosque id="bukh_qush_dist_mosque" emic = "مسجد گذر قوش"</>
+        </district>
     </entity>
     <entity name="tashkent" fm_ref="loc_3">
         <city id="tashkent_city" uid_thurayya=""/>
