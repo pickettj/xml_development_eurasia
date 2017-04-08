@@ -9,5 +9,6 @@
 <!-- Bukharan Ranks -->
     <role ref="amir" emic="амир امیر" type="rank" polity="bukhara"/>
     <role ref="beg" emic="бек бег بیگ بیک" type="title"/>
+    <role ref="mulla" emic="ملا" type="title"/>
     <role ref="qazi" emic="قاضی" type="title"/>
 </roleography>

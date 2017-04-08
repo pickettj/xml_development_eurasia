@@ -3,7 +3,7 @@
     <metadata>
         <archive>
             <name>TsGARUz</name>
-            <call>i-126-1-1990</call>
+            <call><div><flag>i126-1-1990</flag></div></call>
             <fol>20</fol>
         </archive>
         <serial>186</serial>
