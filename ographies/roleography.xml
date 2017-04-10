@@ -1,5 +1,5 @@
 
-<?xml-model href="../schemas/schema_roleography.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schemas/schema_r<div<div<div></div>></div>></div>oleography.rnc" type="application/relax-ng-compact-syntax"?>
 <roleography>
 <!-- Russian Ranks -->
     <role ref="general" emic="генерал" type="rank" polity="russia"/>
