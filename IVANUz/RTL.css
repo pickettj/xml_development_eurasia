@@ -2,3 +2,11 @@ div {
     padding: 10px;
     direction: rtl;
 }
+div::before{
+    content:"*";
+    background-color:red;
+}
+location
+{
+    background-color:blue;
+}

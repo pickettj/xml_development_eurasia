@@ -34,11 +34,12 @@ keywords = element keywords {text}
 #__Body__ contains the entire text of the 'document'
 body = element body {(doc_div* | pg?)*}
 #__Page number__ is a milestone element; attribute Folio refers to  internal pagination
-pg = element pg {folio}
+pg = element pg {folio, empty}
 folio = attribute folio {text}
 #__DocDiv__ can refer to any kind of emic divider within a text: paragraph, invocatio, diagonal writing, etc.
-doc_div = element div {div_type, mixed {(div_type|individual|intertext|language|location|emic_id|date|pg|flag|honorific|financial)*}}
+doc_div = element div {div_type, mixed {(individual|intertext|language|lb|location|emic_id|date|pg|flag|honorific|financial)*}}
 div_type = attribute type {"closing" | "couplet" | "gloss" | "heading" | "invocatio" | "line" | "marginalia" | "preamble" | "report" | "sentence"}
+lb = element lb {empty}
 #gloss refers to extra-textual commentary added by me, and signifies a break in the actual text.
 #___Individual__: id refers to personography; currently using FileMaker system, with 'ind_' prefixed to the serial number.
 individual = element individual {mixed {ind_id?, (role? | honorific? | location?)*}}
@@ -52,7 +53,7 @@ honorific = element honorific {mixed {pg?}}
 location = element location {loc_id?, text}
 loc_id = attribute id {text} #will eventually be an idref#
 #__Language__ tracks linguistic points of note within a text
-language = element langauge {language_type, text}
+language = element language {language_type, text}
 language_type = attribute type {"grammar" | "vocab" | "Tajik" | "Turkic" | "Urdu"}*
 emic_id = element emic_id {emic_type, text}
 emic_type = attribute type {text}

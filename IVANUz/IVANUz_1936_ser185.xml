@@ -25,14 +25,16 @@
             علی رسوله و حبیبه محمد صاحب الصدق و الیقین و علی آله و اصحابه و خلفا الرشیدین الیوم
             الدین</div>
         <div type="heading">اما بعد</div>
-        <div type="sentence"> می گوید بنده مسکین بی عد <individual>محمد امین بن ملا نور
-                محمد</individual> که بعد از خروج از دبیرستان نزد <honorific>جامع الفضایل ذا الکملات
-                الموصوف بانواع الورع و العبادتات المرحوم المبرور</honorific>
+        <div type="sentence"> می گوید بنده مسکین بی عد
+            <individual>محمد امین بن ملا نور محمد</individual>
+             که بعد از خروج از دبیرستمیان نزد <honorific>جامع الفضایل ذا الکملات الموصوف بانواع
+                الورع و العبادتات المرحوم المبرور</honorific>
             <individual><role id="">ایشان</role>
                 <role id="">سید</role>
                 <role id="">خواجه</role>
-                <location>نسفی</location></individual> از کتب نزد ایشان گذرانیده و مشق خط را <flag
-                type="orthography">...<!-- page physically torn here --></flag> فتوی نموده </div>
+                <location>نسفی</location></individual>
+             از کتب نزد ایشان گذرانیده و مشق خط را <flag type="orthography"
+                >...<!-- page physically torn here --></flag> فتوی نموده </div>
         <div type="sentence">بعد از ان در ورطۀ <flag type="orthography">...</flag>
             <honorific>زبدة الکبر اعمدة الامرا<pg folio="2a"/> معین الفقرا ظهیر بأسوادت</honorific>
             <individual>رفیق محمد حکیم بی اتالیق</individual>
@@ -51,13 +53,14 @@
             تفصیر</div>
         <div type="sentence">ناطق این مدعا ست تا سبب یاداوری گردد</div>
         <div type="heading">بیت</div>
-        <div type="couplet"><div type="couplet">یادگاری که ز او می زاد است</div>
-            <div type="couplet">سخن است دو گر همه یاد است</div></div>
+        <div type="couplet">یادگاری که ز او می زاد است <lb/>
+            سخن است دو گر همه یاد است</div>
         <!-- revisit: how to code poetry -->
         <div type="sentence">و از ایشان مذکور بعد از وفات سه پسر مانده که از ولد کبیر کبایر افعال که
-                <individual>خواجه نظام الدین</individual> نام دارد شمۀ از اوصاف نا پسندیده و اطوار
-            ناگزیده او ایراد می یابد</div>
-        <div type="sentence">و <individual><role>عمدة الملک</role></individual>
+            <individual>خواجه نظام الدین</individual>
+             نام دارد شمۀ از اوصاف نا پسندیده و اطوار ناگزیده او ایراد می یابد</div>
+        <div type="sentence">و
+            <individual><role>عمدة الملک</role></individual>
             <honorific>صاحب الحلم و التمکین</honorific> در بارۀ ولد کبیر ایشان بنهایت مهر؟؟ نموده
             اند که بدولت عمدة الملک منصوب <pg folio="2b"/> بمناصب عالی گردید که تا خشت ایجاد در قلعً
                 <location>نسف</location> گذاشته اند</div>
@@ -68,15 +71,18 @@
             نموده در حق عمدة الملک غذر و مکر و کور نمکی نموده</div>
         <div type="sentence">خواست که فتنه انگیزد چون دولت عمدة الملک قوی بود نتوانست کاری کرد و
             بمراد خود نرسید</div>
-        <div type="setnence">در خاطر این محقر بود که ذکر احوال خیر مآل عمدة الملک و ایشان گردیده
+        <div type="sentence">در خاطر این محقر بود که ذکر احوال خیر مآل عمدة الملک و ایشان گردیده
             احال مشار الیه در پرده اختفا باشد</div>
         <div type="sentence">چون در کتاب لمحات مغفوری عالم شیخ عزیزان صدیقی دیدم در واقعه ذکر جهر
-            نوشته اند که <pg folio="3a"/> درین آیت کریمه</div>ً </body>
-        <div type="sentence">
-            <intertext><!-- God does not like any evil to be mentioned openly, unless it be by him who has been wronged --> لَّا يُحِبُّ اللَّـهُ
-            الْجَهْرَ بِالسُّوءِ مِنَ الْقَوْلِ إِلَّا مَن ظُلِمَلَّا يُحِبُّ اللَّـهُ الْجَهْرَ
-            بِالسُّوءِ مِنَ الْقَوْلِ إِلَّا مَن ظُلِمَ</intertext>
-        </div>
-        <div type="sentence">چنان نوشته است که مستحب است از شخصی که ظلم رسد او را اظهار سازند تا سبب توفیق او گردد</div>
-        <div type="sentence">در تفسیر جناب مرحمت مآب اخوند ملا حسین واعظ آیت مذکورا چنین معنی داده اند که لا یحب الله اظهر دوست نمیدارد خدای تعالی اشکارا کردن</div>
+            نوشته اند که <pg folio="3a"/> درین آیت کریمه</div>
+    <div type="sentence">
+        <intertext><!-- God does not like any evil to be mentioned openly, unless it be by him who has been wronged -->
+            لَّا يُحِبُّ اللَّـهُ الْجَهْرَ بِالسُّوءِ مِنَ الْقَوْلِ إِلَّا مَن ظُلِمَلَّا يُحِبُّ
+            اللَّـهُ الْجَهْرَ بِالسُّوءِ مِنَ الْقَوْلِ إِلَّا مَن ظُلِمَ</intertext>
+    </div>
+    <div type="sentence">چنان نوشته است که مستحب است از شخصی که ظلم رسد او را اظهار سازند تا سبب
+        توفیق او گردد</div>
+    <div type="sentence">در تفسیر جناب مرحمت مآب اخوند ملا حسین واعظ آیت مذکورا چنین معنی داده اند
+        که لا یحب الله اظهر دوست نمیدارد خدای تعالی اشکارا کردن</div>
+    ً</body>
 </document>
