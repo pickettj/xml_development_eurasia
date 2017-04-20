@@ -1,43 +1,48 @@
-<!-- note that the Text view gets the Arabic word order mixed up; Author view gets the Arabic text in the right order, but messes up the tags -->
+<?xml-model href="../schemas/schema_coding_primary_texts.rnc" type="application/relax-ng-compact-syntax"?>
 <document>
     <metadata>
-        <archive>TsGARUZ</archive>
-        <call>i126-1-1971-1</call>
-        <fol>1</fol>
+        <archive>
+            <name>TsGARUz</name>
+            <call>i126-1-1971-1</call>
+            <fol>1</fol>
+        </archive>
         <serial>183</serial>
         <entity>Bukhara</entity>
-        <original>yes</original>
-        <complete/>
-        <cat_gloss/>
+        <original type="scan"/>
+        <complete type="errors"/>
+        <cat_gloss>TBD</cat_gloss>
+        <cat_date>TBD</cat_date>
         <gloss>Report on the conversion of an Indian (هندی) to Islam</gloss>
-        <keywords> conversion</keywords>
+        <keywords>indian conversion</keywords>
     </metadata>
-    <text>
-        <line type="1">
-            <!-- if the lines are going to be marked by type, the schema should make sure they go in proper order -->
-            <formula>تصدق سر عزیز مبارک <honorific>جناب عالیملایم</honorific> شوم</formula>
-        </line>
-        <line type="2"><formula type="author">بنده نواز</formula>
-            <formula>تصدق شوم</formula>
-            <name>دانیال</name> نام <flag type="orthography"
-                    ><ethnonym><!--unclear from the orthography, but from the context this is likely "Hindī"-->هندیً</ethnonym></flag></line>
-        <!-- need another way of taking notes of other possibilites when the identity of a word is unclear; e.g. here هندی -->
-        <line type="3">درینولایت <location type="city wilayat province">بلجوان</location> بوده است
-            که از <honorific type="monarch">دولت پر شرافت جناب عالی</honorific></line>
-        <line type="4">کلمه <flag type="meaning"
-            >تلقین</flag><!-- here is a good example of a word appearing in the text that I need to flag, analyze, write notes to myself, etc. -->
-            کرده بدولت اسلام شرف گردیده <honorific type="monarch">جنابعالی</honorific> را</line>
-        <line type="5"><term type="prayer">دعا</term> نمود که <formula type="author">غلام
-                دعاگوی</formula> از جهت رضا جوی و شکرانهً</line>
-        <line type="6">کثرة کلمه گوی معلوم <honorific type="monarch">جناب عالیمولایم</honorific> شود
-            گفته</line>
-        <line type="7"><honorific type="monarch">جناب عالیملایم</honorific> همیشه الاوقات سلامت
-            باشند آمین</line>
-        <line type="8">
-            <formula type="closing">التقصیر التقصیر التقصیر التقصیر التقصیر</formula>
-        </line>
-
-    </text>
-
-
+    <body>
+        <div type="invocatio">
+            <honorific>تصدق سر عزیز مبارک جناب عالیملایم شوم</honorific>
+        </div>
+        <div type="line">بنده نواز تصدق شوم
+            <individual>دانیال نام
+                <role id="indian">هندیً</role>
+            </individual>
+        </div>
+        <div type="line">درینولایت
+            <location id="baljuvan_prov">بلجوان</location>
+             بوده است که از
+            <honorific>دولت پر شرافت جناب عالی</honorific>
+        </div>
+        <div type="line">کلمه
+            <flag type="meaning">تلقین</flag>
+             کرده بدولت اسلام شرف گردیده
+            <honorific>جنابعالی</honorific>
+             را</div>
+        <div type="line">دعا نمود که غلام دعاگوی از جهت رضا جوی و شکرانهً</div>
+        <div type="line">کثرة کلمه گوی معلوم
+            <honorific>جناب عالیمولایم</honorific>
+             شود گفته</div>
+        <div type="line">
+            <honorific>جناب عالیملایم</honorific>
+             همیشه الاوقات سلامت باشند آمین</div>
+        <div type="line">
+            التقصیر التقصیر التقصیر التقصیر التقصیر
+        </div>
+    </body>
 </document>

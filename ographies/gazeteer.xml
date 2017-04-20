@@ -14,4 +14,9 @@
     <entity name="tashkent" fm_ref="loc_3">
         <city id="tashkent_city" uid_thurayya=""/>
     </entity>
+    <entity name='baljuvan' fm_ref="loc_72">
+        <city id='baljuvan_city'/>
+        <province id='baljuvan_prov' internal="wilayat"/>
+        
+    </entity>
 </gazeteer>

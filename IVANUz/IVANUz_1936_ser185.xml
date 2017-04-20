@@ -27,20 +27,27 @@
         <div type="heading">اما بعد</div>
         <div type="sentence"> می گوید بنده مسکین بی عد
             <individual>محمد امین بن ملا نور محمد</individual>
-             که بعد از خروج از دبیرستمیان نزد <honorific>جامع الفضایل ذا الکملات الموصوف بانواع
-                الورع و العبادتات المرحوم المبرور</honorific>
-            <individual><role id="">ایشان</role>
-                <role id="">سید</role>
+             که بعد از خروج از دبیرستمیان نزد
+            <honorific>جامع الفضایل ذا الکملات الموصوف بانواع الورع و العبادتات المرحوم
+                المبرور</honorific>
+            <individual>
+                <role id="eshan">ایشان</role>
+                <role id="sayyid">سید</role>
                 <role id="">خواجه</role>
-                <location>نسفی</location></individual>
-             از کتب نزد ایشان گذرانیده و مشق خط را <flag type="orthography"
-                >...<!-- page physically torn here --></flag> فتوی نموده </div>
-        <div type="sentence">بعد از ان در ورطۀ <flag type="orthography">...</flag>
+                <location>نسفی</location>
+            </individual>
+             از کتب نزد ایشان گذرانیده و مشق خط را
+            <flag type="orthography">...<!-- page physically torn here --></flag>
+             فتوی نموده </div>
+        <div type="sentence">بعد از ان در ورطۀ
+            <flag type="orthography">...</flag>
             <honorific>زبدة الکبر اعمدة الامرا<pg folio="2a"/> معین الفقرا ظهیر بأسوادت</honorific>
             <individual>رفیق محمد حکیم بی اتالیق</individual>
-            <honorific>ادام الله سلطنته و معدلته مع اولاده الی یوم المیعاد</honorific> بوده </div>
-        <div type="sentence">خواستم که ذکر محامد و مناقب هر دو بزرگوار<flag type="orthography">
-                را</flag> دیده ام </div>
+            <honorific>ادام الله سلطنته و معدلته مع اولاده الی یوم المیعاد</honorific>
+             بوده </div>
+        <div type="sentence">خواستم که ذکر محامد و مناقب هر دو بزرگوار
+            <flag type="orthography"> را</flag>
+             دیده ام </div>
         <div type="sentence">در قید کتابت آورده شود بقدر وسع که آيت <intertext quran_id="2:233">لَا
                 تُكَلَّفُ نَفْسٌ إِلَّا وُسْعَهَالَا تُكَلَّفُ نَفْسٌ إِلَّا
                 وُسْعَهَا<!--"No human being shall be burdened with more than he is well able to bear"--></intertext><intertext
@@ -48,25 +55,34 @@
                 بِالْحَقِّ
                 <!--"for with Us is a record that speaks the truth [about what men do and can do]"!--></intertext>
         </div>
-        <div type="marginalia">تکلیف نمیکنیم <flag type="orthography">هیچ کسی</flag> را مگر بگنجایش
-            او یعنی بقدر طاقت و نزدیک ماست کتابی <flag type="orthography">سخن</flag> گویند براصتی
-            تفصیر</div>
+        <div type="marginalia">تکلیف نمیکنیم
+            <flag type="orthography">هیچ کسی</flag>
+             را مگر بگنجایش او یعنی بقدر طاقت و نزدیک ماست کتابی
+            <flag type="orthography">سخن</flag>
+             گویند براصتی تفصیر</div>
         <div type="sentence">ناطق این مدعا ست تا سبب یاداوری گردد</div>
         <div type="heading">بیت</div>
-        <div type="couplet">یادگاری که ز او می زاد است <lb/>
-            سخن است دو گر همه یاد است</div>
+        <div type="couplet">یادگاری که ز او می زاد است <lb/> سخن است دو گر همه یاد است</div>
         <!-- revisit: how to code poetry -->
         <div type="sentence">و از ایشان مذکور بعد از وفات سه پسر مانده که از ولد کبیر کبایر افعال که
             <individual>خواجه نظام الدین</individual>
              نام دارد شمۀ از اوصاف نا پسندیده و اطوار ناگزیده او ایراد می یابد</div>
         <div type="sentence">و
-            <individual><role>عمدة الملک</role></individual>
-            <honorific>صاحب الحلم و التمکین</honorific> در بارۀ ولد کبیر ایشان بنهایت مهر؟؟ نموده
-            اند که بدولت عمدة الملک منصوب <pg folio="2b"/> بمناصب عالی گردید که تا خشت ایجاد در قلعً
-                <location>نسف</location> گذاشته اند</div>
-        <div type="sentence">باهل اینولایت عمل <location>صدارت</location> ولایت <location>فاخره
-                بخارا</location> نرسیده است که مشار الیه بمنصب <location>صدارت بخارا</location>
-            منصوب گردید و دنیای بسیار رویداد</div>
+            <individual>
+                <role id="umdat_al-mulk">عمدة الملک</role>
+            </individual>
+            <honorific>صاحب الحلم و التمکین</honorific>
+             در بارۀ ولد کبیر ایشان بنهایت مهر؟؟ نموده اند که بدولت عمدة الملک منصوب <pg folio="2b"
+            /> بمناصب عالی گردید که تا خشت ایجاد در قلعً
+            <location>نسف</location>
+             گذاشته اند</div>
+        <div type="sentence">باهل اینولایت عمل
+            <location>صدارت</location>
+             ولایت
+            <location>فاخره بخارا</location>
+             نرسیده است که مشار الیه بمنصب
+            <location>صدارت بخارا</location>
+             منصوب گردید و دنیای بسیار رویداد</div>
         <div type="sentence">اما او بفقرا ضرر از وجه مال رسانیده بناحق اموال مردم را به تظلم جمع
             نموده در حق عمدة الملک غذر و مکر و کور نمکی نموده</div>
         <div type="sentence">خواست که فتنه انگیزد چون دولت عمدة الملک قوی بود نتوانست کاری کرد و
@@ -75,14 +91,15 @@
             احال مشار الیه در پرده اختفا باشد</div>
         <div type="sentence">چون در کتاب لمحات مغفوری عالم شیخ عزیزان صدیقی دیدم در واقعه ذکر جهر
             نوشته اند که <pg folio="3a"/> درین آیت کریمه</div>
-    <div type="sentence">
-        <intertext><!-- God does not like any evil to be mentioned openly, unless it be by him who has been wronged -->
-            لَّا يُحِبُّ اللَّـهُ الْجَهْرَ بِالسُّوءِ مِنَ الْقَوْلِ إِلَّا مَن ظُلِمَلَّا يُحِبُّ
-            اللَّـهُ الْجَهْرَ بِالسُّوءِ مِنَ الْقَوْلِ إِلَّا مَن ظُلِمَ</intertext>
-    </div>
-    <div type="sentence">چنان نوشته است که مستحب است از شخصی که ظلم رسد او را اظهار سازند تا سبب
-        توفیق او گردد</div>
-    <div type="sentence">در تفسیر جناب مرحمت مآب اخوند ملا حسین واعظ آیت مذکورا چنین معنی داده اند
-        که لا یحب الله اظهر دوست نمیدارد خدای تعالی اشکارا کردن</div>
-    ً</body>
+        <div type="sentence">
+            <intertext quran_id="qur_4:148"
+                ><!-- God does not like any evil to be mentioned openly, unless it be by him who has been wronged -->
+                لَّا يُحِبُّ اللَّـهُ الْجَهْرَ بِالسُّوءِ مِنَ الْقَوْلِ إِلَّا مَن ظُلِمَلَّا
+                يُحِبُّ اللَّـهُ الْجَهْرَ بِالسُّوءِ مِنَ الْقَوْلِ إِلَّا مَن ظُلِمَ</intertext>
+        </div>
+        <div type="sentence">چنان نوشته است که مستحب است از شخصی که ظلم رسد او را اظهار سازند تا سبب
+            توفیق او گردد</div>
+        <div type="sentence">در تفسیر جناب مرحمت مآب اخوند ملا حسین واعظ آیت مذکورا چنین معنی داده
+            اند که لا یحب الله اظهر دوست نمیدارد خدای تعالی اشکارا کردن</div>
+    </body>
 </document>

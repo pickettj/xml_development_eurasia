@@ -1,0 +1,6 @@
+start = gazeteer
+gazeteer = element gazeteer {(entity* | city? | district? | madrasa? | mosque? | polity? | province?)*}
+
+entity = element entity {(city?, district?, province?, polity?, mosque?, madrasa?)}
+
+city = element city {id, uid_thurayya, madrasa

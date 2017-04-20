@@ -1,14 +1,22 @@
-
-<?xml-model href="../schemas/schema_r<div<div<div></div>></div>></div>oleography.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schemas/schema_roleography.rnc" type="application/relax-ng-compact-syntax"?>
 <roleography>
-<!-- Russian Ranks -->
-    <role ref="general" emic="генерал" type="rank" polity="russia"/>
-    <role ref="major_general" emic="генерал-майор" type="rank" polity="russia"/>
-    <role ref="nach_glav_shtab" emic="начальнику_главнаго_штаба" type="rank" polity="russia"/>
-    <role ref="stats-sekretar" emic="статс-секретарь" type="rank" polity="russia"/>
-<!-- Bukharan Ranks -->
-    <role ref="amir" emic="амир امیر" type="rank" polity="bukhara"/>
-    <role ref="beg" emic="бек бег بیگ بیک" type="title"/>
-    <role ref="mulla" emic="ملا" type="title"/>
-    <role ref="qazi" emic="قاضی" type="title"/>
+<!-- RUSSIA -->
+    <role xml:id="general" emic="генерал" type="rank" polity="russia"/>
+    <role xml:id="major_general" emic="генерал-майор" type="rank" polity="russia"/>
+    <role xml:id="nach_glav_shtab" emic="начальнику_главнаго_штаба" type="rank" polity="russia"/>
+    <role xml:id="stats-sekretar" emic="статс-секретарь" type="rank" polity="russia"/>
+<!-- BUKHARA -->
+<!-- 1. Royalty -->
+    <role xml:id="amir" emic="амир امیر" type="rank title" polity="bukhara"/>
+    <role xml:id="umdat_al-mulk" emic="عمدة المرک" type="title" polity="bukhara"/>
+<!-- 2. Turkic Nobility -->
+    <role xml:id="beg" emic="бек бег بیگ بیک" type="title"/>
+<!-- 3. Ulama -->
+    <role xml:id="eshan" emic="ишан ایشان" type="title"/>
+    <role xml:id="khwaja" emic="خواجه" type="title"/>
+    <role xml:id="mulla" emic="ملا" type="title"/>
+    <role xml:id="qazi" emic="قاضی" type="title"/>
+    <role xml:id="sayyid" emic="سید" type="title"/>
+ <!-- Ethnoynms -->
+    <role xml:id="indian" emic="هندی" type="ethnonym" polity="bukhara"/>
 </roleography>
