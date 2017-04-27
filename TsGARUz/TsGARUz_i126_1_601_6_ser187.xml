@@ -49,13 +49,13 @@
              دولتخانه عالی
             <flag type="orthography">درویم بدخل</flag>
             <individual>
-                <role>قاضی</role>
+                <role id="qazi">قاضی</role>
                  مذکور</individual>
         </div>
         <div type="line">سه هزار تنگه ؟؟ بخذمت فرستاده شدگی از شرف ؟؟ شرف دولت عالی</div>
         <div type="line">نوشته شود الحال همراه
             <individual>عبد الرحمان
-                <role>قراول بیگی</role>
+                <role id="qarawul-begi">قراول بیگی</role>
             </individual>
         </div>
         <div type="line">

@@ -11,11 +11,18 @@
     <role xml:id="umdat_al-mulk" emic="عمدة المرک" type="title" polity="bukhara"/>
 <!-- 2. Turkic Nobility -->
     <role xml:id="beg" emic="бек бег بیگ بیک" type="title"/>
+    <role xml:id="qarawul-begi" emic="قراول بیگی" type="title"/>
 <!-- 3. Ulama -->
+    <role xml:id="akhund" emic="آخوند" type="title"/>
+    <role xml:id="alam" emic="اعلم" type="title occupation"/>
+    <role xml:id="damulla" emic="داملا" type="title"/>
     <role xml:id="eshan" emic="ишан ایشان" type="title"/>
     <role xml:id="khwaja" emic="خواجه" type="title"/>
+    <role xml:id="mudarris" emic="مدرس درسگو" type="title occupation"/>
+    <role xml:id="mufti" emic="مفتی" type="title occupation"/>
     <role xml:id="mulla" emic="ملا" type="title"/>
-    <role xml:id="qazi" emic="قاضی" type="title"/>
+    <role xml:id="qazi" emic="قاضی" type="title occupation"/>
+    <role xml:id="sadr" emic="صدر" type="title"
     <role xml:id="sayyid" emic="سید" type="title"/>
  <!-- Ethnoynms -->
     <role xml:id="indian" emic="هندی" type="ethnonym" polity="bukhara"/>
