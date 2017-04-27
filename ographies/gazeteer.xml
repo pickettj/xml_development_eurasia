@@ -19,4 +19,20 @@
         <province id='baljuvan_prov' internal="wilayat"/>
         
     </entity>
+    <entity name="qurghanteppa">
+        <wilayat id ="qurghanteppa_wilayat"/>
+    </entity>
+    <entity name="yanghiqurghan">
+    </entity>
+    <entity name="khayrabad"></entity>
+    
+<!--Separate file: Territories of; temporal dimension?<div></div> -->
+    
+   <province name="khayrabad">
+       <tuman name="yanghiqurghan"/>
+   </province>
+    
+    
+    
+    
 </gazeteer>

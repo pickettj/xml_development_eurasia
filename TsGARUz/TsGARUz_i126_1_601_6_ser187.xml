@@ -3,9 +3,7 @@
     <metadata>
         <archive>
             <name>TsGARUz</name>
-            <call>
-                i126-1-606
-            </call>
+            <call>i126-1-606</call>
             <fol>6</fol>
         </archive>
         <serial>187</serial>
@@ -19,26 +17,55 @@
     </metadata>
     <body>
         <div type="invocatio">مرحمت پناها </div>
-        <div type="line">از <flag type="meaning">دولت عالی</flag>
-            <financial type="price">سه هزار پانصد تنگه</financial> از وجه <flag type="orthography"
-                >امنیاتهً</flag></div>
-        <div type="line"><location>ولایت قورغان تپه</location>
+        <div type="line">از
+            <flag type="meaning">دولت عالی</flag>
+            <financial type="price">سه هزار پانصد تنگه</financial>
+             از وجه
+            <flag type="orthography">امنیاتهً</flag>
+        </div>
+        <div type="line">
+            <location id="qurghanteppa_wilayat">ولایت قورغان تپه</location>
             <individual>شاده ن بیک بی</individual>
-            <language>فرستاده گی</language></div>
-        <div type="line">و <financial>پانصد سی تنگه</financial> از وجه <flag type="meaning"
-                >لقط</flag> و مازاده <individual><role>قاضی</role> ملا شریف قاضی</individual></div>
-        <div type="line"><location>ینغی قورغان</location> از <location>تومان خیرآباد</location> جمع
-                <financial>چار هزار سی تنگه</financial>
+            <language type="grammar Tajik">فرستاده گی</language></div>
+        <div type="line">و
+            <financial>پانصد سی تنگه</financial>
+             از وجه
+            <flag type="meaning">لقط</flag>
+             و مازاده
+            <individual>
+                <role id="qazi">قاضی</role>
+                 ملا شریف قاضی</individual>
+        </div>
+        <div type="line">
+            <location>ینغی قورغان</location>
+             از
+            <location>تومان خیرآباد</location>
+             جمع
+            <financial>چار هزار سی تنگه</financial>
             <flag type="orthography">؟؟</flag>
         </div>
-        <div type="line">از وجه <flag type="orthography">وزارت</flag> دولتخانه عالی <flag
-                type="orthography">درویم بدخل</flag>
-            <individual><role>قاضی</role> مذکور</individual></div> سه هزار تنگه ؟؟ بخذمت فرستاده
-        شدگی از شرف ؟؟ شرف دولت عالی <!-- check doc, see which line this is on --><div type="line">نوشته شود الحال همراه <individual>عبد الرحمان
-                    <role>قراول بیگی</role></individual></div>
-        <div type="line"><financial>سه هزار تنگه</financial> ؟؟ بخذمت فرستاده شد دیگر از شرف <flag
-                type="orthography">؟؟</flag> دولت عالی </div>
-        <div type="line">از هر وجه خاطر جمعی <flag type="orthography">بمیرانست</flag></div>
+        <div type="line">از وجه
+            <flag type="orthography">وزارت</flag>
+             دولتخانه عالی
+            <flag type="orthography">درویم بدخل</flag>
+            <individual>
+                <role>قاضی</role>
+                 مذکور</individual>
+        </div>
+        <div type="line">سه هزار تنگه ؟؟ بخذمت فرستاده شدگی از شرف ؟؟ شرف دولت عالی</div>
+        <div type="line">نوشته شود الحال همراه
+            <individual>عبد الرحمان
+                <role>قراول بیگی</role>
+            </individual>
+        </div>
+        <div type="line">
+            <financial>سه هزار تنگه</financial>
+             ؟؟ بخذمت فرستاده شد دیگر از شرف
+            <flag type="orthography">؟؟</flag>
+             دولت عالی </div>
+        <div type="line">از هر وجه خاطر جمعی
+            <flag type="orthography">بمیرانست</flag>
+        </div>
         <div type="closing">باقی سلام علیهم</div>
     </body>
 </document>
