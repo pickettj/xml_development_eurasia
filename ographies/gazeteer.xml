@@ -26,6 +26,34 @@
     </entity>
     <entity name="khayrabad"></entity>
     
+    
+    
+    <entity name="samarqand">
+        <containment id="bukhara_polity">
+            <years min="1700" max="1868"/>
+        </containment>
+        <containment id="russian_turkestan">
+            <years min="1868" max="1920"/>
+        </containment>
+    </entity>
+    
+    
+    <node name="samarqand_city"/>
+    <node name="bukhara_province"/>
+    
+    
+    
+    <relation type="province_of" parent="bukhara_province" child="samarqand_city">
+        <years min="1868" max="1920"/>
+    </relation>
+    
+    <relation type="conquest"
+    
+    
+    
+    
+    
+    
 <!--Separate file: Territories of; temporal dimension?<div></div> -->
     
    <province name="khayrabad">

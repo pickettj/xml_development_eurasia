@@ -54,7 +54,7 @@ location = element location {loc_id?, text}
 loc_id = attribute id {text} #will eventually be an idref#
 #__Language__ tracks linguistic points of note within a text
 language = element language {language_type, text}
-language_type = attribute type {"grammar" | "vocab" | "Tajik" | "Turkic" | "Urdu"}*
+language_type = attribute type {list {("grammar" | "vocab" | "tajik" | "turkic" | "urdu")+}}
 emic_id = element emic_id {emic_type, text}
 emic_type = attribute type {text}
 #__Date__ format is day/month/year for all three

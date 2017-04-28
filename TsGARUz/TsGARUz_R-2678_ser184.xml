@@ -26,7 +26,7 @@
                  مظفر</individual>
              و
             <individual>امیر عبد الاحد</individual>
-            <language type="tajiki grammar">گذشته گی</language> این است</div>
+            <language type="tajik grammar">گذشته گی</language> این است</div>
         <!-- 1. Damulla Hasan Akhund -->
         <div type="section"><div type="line">
                 <individual>
@@ -40,7 +40,7 @@
                  بسیار ملا درس گو بوده در اخر عمر</div>
             <div type="line">حویلی خودرا مدرسه نموده بملا بچه گان تقسیم نموده داده
                 اند<!--turned his own home into a madrasa--> باوجود
-                <flag type="meaning orthography">مرجع کل</flag>
+                <flag type="orthography">مرجع کل</flag>
                  بودن</div>
             <div type="line">پادشاهان بخارا علاقه نداشته اند که اگر امیر را براهی بینند نمیشناخته
                 اند</div>
@@ -65,8 +65,7 @@
                  مذکور بامیر سلام کرده گفته که من با شما عرض دارم خوب گفته امیر ایستاده</div>
             <div type="line">گفته که
                 <individual>نجم الدین مخدوم
-                    <role id="sadr">صدر</role>
-                    <title>اعلم</title></individual>
+                    <role id="sadr">صدر</role>اعلم</individual>
                 <legal type="debt">پنجهزار تنگه قرض</legal> داده بوده چند مراتب</div>
             <div type="line">برای طلبش آدم
                 <flag type="orthography"
