@@ -36,8 +36,9 @@ body = element body {(doc_div* | pg?)*}
 #__Page number__ is a milestone element; attribute Folio refers to  internal pagination
 pg = element pg {folio, empty}
 folio = attribute folio {text}
+page = attribute page {text}
 #__DocDiv__ can refer to any kind of emic divider within a text: paragraph, invocatio, diagonal writing, etc.
-doc_div = element div {div_type, mixed {(doc_div|individual|intertext|language|lb|location|emic_id|date|pg|flag|honorific|financial)*}}
+doc_div = element div {div_type, mixed {(doc_div|individual|intertext|language|lb|location|emic_id|date|pg|flag|honorific|financial|legal)*}}
 div_type = attribute type {"closing" | "couplet" | "gloss" | "heading" | "invocatio" | "line" | "marginalia" | "preamble" | "report" | "section" | "sentence"}
 lb = element lb {empty}
 #gloss refers to extra-textual commentary added by me, and signifies a break in the actual text.
@@ -52,9 +53,6 @@ honorific = element honorific {mixed {pg?}}
 # note also that a location element inside of an Individual element is always a Nisbat
 location = element location {loc_id?, text}
 loc_id = attribute id {text} #will eventually be an idref#
-#__Language__ tracks linguistic points of note within a text
-language = element language {language_type, text}
-language_type = attribute type {list {("grammar" | "vocab" | "tajik" | "turkic" | "urdu")+}}
 emic_id = element emic_id {emic_type, text}
 emic_type = attribute type {text}
 #__Date__ format is day/month/year for all three
@@ -66,9 +64,16 @@ intertext = element intertext {mixed {quran_id | hadith_id | text_id}}
 quran_id = attribute quran_id {text}
 hadith_id = attribute hadith_id {text}
 text_id = attribute text_id {text}
+
+#Topical Coding
+#__Language__ tracks linguistic points of note within a text
+language = element language {language_type, text}
+language_type = attribute type {list {("grammar" | "vocab" | "tajik" | "turkic" | "urdu")+}}
 #__Financial__ data, e.g. prices, salaries, etc.
 financial = element financial {financial_type, text}
-financial_type = attribute type {"salary" | "price"}
+financial_type = attribute type {"salary" | "price" | "debt"}
+#__Legal__ tracks legal terms
+legal = element legal {text}
 
 
 

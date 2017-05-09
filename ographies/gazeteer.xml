@@ -1,66 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- The Gazeteer tracks both geographic locations (e.g. Bukhara the city, Ferghana the region) and institutions (e.g. madrasas, mosques, the Russian government) -->
+
 <gazeteer>
-    <entity name="bukhara" fm_ref="loc_3">
-        <city id="bukhara_city" uid_thurayya="BUKHARA_644N398E_C17BUKHARA_644N398E_C17"
-            population=""
-            <madrasa name="bukh_mirarab_mad" fm_ref="loc_55" emic="میر عرب" />      
-        </city>/>
-        <polity id="bukhara_polity"/>
-        <district id="bukh_qush_dist" emic = "گذر قوش">
-            <mosque id="bukh_qush_dist_mosque" emic = "مسجد گذر قوش"/>
-        </district>
-    </entity>
-    <entity name="tashkent" fm_ref="loc_3">
-        <city id="tashkent_city" uid_thurayya=""/>
-    </entity>
-    <entity name='baljuvan' fm_ref="loc_72">
-        <city id='baljuvan_city'/>
-        <province id='baljuvan_prov' internal="wilayat"/>
-        
-    </entity>
-    <entity name="qurghanteppa">
-        <wilayat id ="qurghanteppa_wilayat"/>
-    </entity>
-    <entity name="yanghiqurghan">
-    </entity>
-    <entity name="khayrabad"></entity>
-    
-    
-    
-    <entity name="samarqand">
-        <containment id="bukhara_polity">
-            <years min="1700" max="1868"/>
-        </containment>
-        <containment id="russian_turkestan">
+
+    <!-- NODES -->
+
+    <!-- Nodes 1: Polities -->
+
+    <node xml:id="bukhara_polity">
+        <designation type="polity city-state protectorate" emic="ханство امارت"/>
+    </node>
+    <node xml:id="russia_polity">
+        <designation type="polity empire" emic="империя"/>
+    </node>
+    <node xml:id="russian_turkestan_polity">
+        <designation type="polity province" emic="генерал-губернаторство"/>
+    </node>
+
+    <!-- Nodes 2: Provinces -->
+
+    <node xml:id="bukhara_province">
+        <designation type="wilayat" emic="ولایت">
+            <years min="1700" max="1920"/>
+        </designation>
+    </node>
+
+    <node xml:id="samarqand_province">
+        <designation type="oblast" emic="область">
             <years min="1868" max="1920"/>
-        </containment>
-    </entity>
-    
-    
-    <node name="samarqand_city"/>
-    <node name="bukhara_province"/>
-    
-    
-    
-    <relation type="province_of" parent="bukhara_province" child="samarqand_city">
-        <years min="1868" max="1920"/>
+        </designation>
+    </node>
+
+    <!-- Nodes 3: Cities -->
+
+    <node xml:id="bukhara_city" emic_name="بخارا" fm_ref="loc_3"
+        uid_thurayya="BUKHARA_644N398E_C17BUKHARA_644N398E_C17"/>
+    <node xml:id="samarqand_city" emic_name="سمرقند"/>
+
+    <!-- Nodes 4: Villages -->
+
+
+    <!-- Nodes 5: Neighborhoods -->
+
+    <node xml:id="bukh_qush_dist" emic="گذر قوش">
+        <designation type="neighborhood" emic="گذر"/>
+    </node>
+
+
+    <!-- Nodes 6: Religious Institutions (Mosques, Madrasas, Khanaqas) -->
+
+    <node xml:id="bukh_mirarab_mad" fm_ref="loc_55" emic="میر عرب">
+        <designation type="madrasa" emic="مدرسه"/>
+    </node>
+
+
+    <node id="bukh_qush_dist_mosque" emic="مسجد گذر قوش">
+        <designation type="mosque" emic="مسجد"/>
+    </node>
+
+
+
+    <!-- RELATIONSHIPS -->
+
+    <!-- Relationships 1: Parent-Child -->
+
+    <!-- Provinces of Bukhara -->
+    <relation type="subordinate_to" parent="bukhara_polity" child="samarqand_province">
+        <years min="1747" max="1868"/>
     </relation>
+    <relation type="subordinate_to" parent="russia_polity" child="russian_turkestan_polity">
+        <years min="1867" max="1920"/>
+    </relation>
+
+
+
+    <!-- Provinces of Russian Turkestan -->
+
+
+
+    <!-- Religious Institutions of Bukhara -->
+
+    <relation type="subordinate_to" parent="bukhara_city" child="bukh_mirarab_mad"/>
+
+
+    <!-- Neighborhoods of Bukhara -->
+
+    <relation type="subordinate_to" parent="bukhara_city" child="bukh_qush_dist"/>
+
+
+    <!-- Religious Institutions of Bukhara -->
+
+    <relation type="subordinate_to" parent="bukh_qush_dist" child="bukh_qush_dist_mosque"/>
+
+
+    <!-- Relationships 2: Conquests -->
     
-    <relation type="conquest"
-    
-    
-    
-    
-    
-    
-<!--Separate file: Territories of; temporal dimension?<div></div> -->
-    
-   <province name="khayrabad">
-       <tuman name="yanghiqurghan"/>
-   </province>
-    
-    
-    
-    
+    <relation type="conquest" conqueror="russia_polity" defeated="bukhara_polity" conquered="samarqand_city" greg_date="1868"/>
+
+
+    <!-- Relationships 3: Equvalencies -->
+
+
+
+
 </gazeteer>

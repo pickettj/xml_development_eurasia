@@ -3,7 +3,7 @@
     <metadata>
         <archive>
             <name>TsGARUz</name>
-            <call>R-2678</call>
+            <call>Fond R-2678, Opis 2, Delo 252</call>
             <fol>1a-10b</fol>
         </archive>
         <serial>184</serial>
@@ -21,15 +21,17 @@
     <body>
         <div type="preamble">
             <pg folio="10b"/> آنچه ملایان درس گوئی مشهوری بدوران
-            <individual>
+            <individual id="ind_308">
                 <role id="amir">امیر</role>
                  مظفر</individual>
              و
-            <individual>امیر عبد الاحد</individual>
-            <language type="tajik grammar">گذشته گی</language> این است</div>
+            <individual id="ind_367">امیر عبد الاحد</individual>
+            <language type="tajik grammar">گذشته گی</language>
+             این است</div>
         <!-- 1. Damulla Hasan Akhund -->
+        <!-- Note that Zia reports another Akhund Damulla Hasan (ind_98), who may or may not be the same person -->
         <div type="section"><div type="line">
-                <individual>
+                <individual id="ind_948">
                     <role id="damulla">داملا</role>
                      حسن
                     <role id="akhund">آخوند</role>
@@ -37,12 +39,14 @@
                 </individual>
                  الاصل از گذر
                 <location>کاکلهً خورد</location>
-                 بسیار ملا درس گو بوده در اخر عمر</div>
+                <!-- Zia has the birthplace of ind_98 at either the village of Waghanz or Matin -->
+                بسیار ملا درس گو بوده در اخر عمر</div>
             <div type="line">حویلی خودرا مدرسه نموده بملا بچه گان تقسیم نموده داده
                 اند<!--turned his own home into a madrasa--> باوجود
-                <flag type="orthography">مرجع کل</flag>
+                <flag type="meaning"><!-- general authority? -->مرجع کل</flag>
                  بودن</div>
-            <div type="line">پادشاهان بخارا علاقه نداشته اند که اگر امیر را براهی بینند نمیشناخته
+            <div type="line">پادشاهان بخارا علاقه نداشته اند که اگر امیر را براهی بینند
+                نمیشناخته<!-- rough trans.: Despite Hasan being a general authority, the amirs of Bukhara had no relationship with him -->
                 اند</div>
             <div type="line">چنانچه اتفاقاً
                 <individual>
@@ -51,37 +55,54 @@
                  بخارا یکروز از تحت
                 <location>مدرسهً کوکلتاش</location>
                  گذشته بهمان وقت</div>
-            <div type="line">
-                <flag type="orthography">در شخص</flag>
+            <div type="line"><!-- rough tran.: one day when the amir was passing by the Kokaltash madrasa, Damulla Hasan told someone to signal the amir that he wanted to discuss a matter with him -->
+                <flag type="orthography">در شخصی</flag>
                  گفته که
                 <individual>
                     <role id="amir">امیر</role>
                 </individual>
                  را بمن نشان بده که بامیر عرض دارم آن شخصی داده که</div>
             <div type="line">
-                <individual>
+                <individual id="ind_948">
                     <role id="akhund">آخوند</role>
                 </individual>
-                 مذکور بامیر سلام کرده گفته که من با شما عرض دارم خوب گفته امیر ایستاده</div>
+                 مذکور
+                <individual>بامیر</individual>
+                 سلام کرده گفته که من با شما عرض دارم خوب گفته امیر ایستاده</div>
             <div type="line">گفته که
-                <individual>نجم الدین مخدوم
-                    <role id="sadr">صدر</role>اعلم</individual>
-                <legal type="debt">پنجهزار تنگه قرض</legal> داده بوده چند مراتب</div>
-            <div type="line">برای طلبش آدم
+                <individual id="ind_330"
+                    ><!-- almost certainly the same Najm al-Din as described by Zia -->نجم الدین
+                    مخدوم
+                    <role id="sadr">صدر</role>
+                    <role id="alam">اعلم</role>
+                </individual>
+                <financial type="debt">پنجهزار تنگه قرض</financial>
+                 داده بوده چند مراتب</div>
+            <div type="line"
+                ><!-- paraphrase: Najm al-Din writes a self-serving fatwa saying that he does not have to pay off his debt to Mulla Hasan -->برای
+                طلبش آدم
                 <flag type="orthography"
-                    ><!--writing inserted above in purple pen, possibly by archivist-->؟؟ کر</flag>
-                 همان پل مرا دهند بجواب گفته که من
-                <role type="alam">اعلم</role>
-                 بخارا <law type="fatwa">روایت</law></div>
+                    ><!--writing inserted above in purple pen, possibly by archivist-->فرستادم</flag>
+                 همان پل مرا دهند بجواب گفته که
+                <individual id="ind_330">من
+                    <role id="alam">اعلم</role>
+                     بخارا</individual>
+                <legal>روایت</legal>
+            </div>
             <div type="line">کرده میدهم که از من گرفته نمیتوانند بنابر آن امیر گرفته دادن
                 <flag type="orthography">شوند</flag>
                 <flag type="orthography">بعده</flag>
             </div>
             <div type="line">مُهر اعلمی را گرفته میشود بعد از امر امیرد مذکور اعلم مذکور پُل اخوند
                 داده</div>
-            <div type="line">فرستاده گر اخوند مذکور پنجهزار تنگه گرفته بمدرسهً بناء <language
-                    language="tajiki grammar">نموده گی</language> حرف</div>
-            <div type="line">کرده اند در عصر
+            <div type="line">فرستاده گر اخوند مذکور
+                <financial type="debt">پنجهزار تنگه</financial>
+                 گرفته بمدرسهً بناء
+                <language type="tajik grammar">نموده گی</language>
+                 صرف</div>
+            <div type="line"
+                ><!-- Damulla Hasan used the debt he collected to build a madrasa (presumably at his house); died in the age of Muzaffar -->کرده
+                اند در عصر
                 <individual>
                     <role id="amir">امیر</role>
                      مظفر</individual>
@@ -91,7 +112,7 @@
         <div type="section">
             <pg folio="10a"/>
             <div type="sentence">
-                <individual>نجم الدین مخدوم
+                <individual id="ind_330">نجم الدین مخدوم
                     <location>بخاری</location>
                      الاصل
                     <role id="mulla">ملای</role>
@@ -100,13 +121,27 @@
                     <role id="mufti">مفتی</role>
                      مُهر دار</individual>
                  بود و</div>
-            <div type="sentence">بالاخیر
+            <div type="sentence"
+                ><!-- line includes an explicit explanation of "A'lam" rank -->بالاخی
                 <location>بمدرسۀ کاوکشان</location>
-                 مدرس و در بخارا اعلم شده معنی اعلم بخارا گفتن همین که</div>
-            <!-- What to do about floating rank information? Tag just to standardize? -->
-            <div type="sentence">بروایت جزا و قصاص
+                <individual id="ind_330">
+                    <role id="mudarris">مدرس</role>
+                     و در بخارا
+                    <role id="alam">اعلم</role>
+                </individual>
+                 شده معنی اعلم بخارا گفتن همین که</div>
+            <div type="sentence">
+                <legal>بروایت</legal>
+                <legal>جزا</legal>
+                 و
+                <legal>قصاص</legal>
                 <flag type="orthography">مادام</flag>
                  که اعلم بخارا اخذ نکند اجرا نمیشده در ایام امیر مظفر فوتینده</div>
+        </div>
+
+        <!-- 3. Sadr al-Din Bayza Kulabi -->
+        <div type="section">
+            <div type="sentence"/>
         </div>
 
 

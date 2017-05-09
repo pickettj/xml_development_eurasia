@@ -3,35 +3,50 @@
 <document>
     <metadata>
         <citation>Francis Robinson, The `Ulama of Farangi Mahall and Islamic Culture in South Asia
-            (New Delhi: Permanent Black, 2001).</citation>
+            (New Delhi: Permanent Black, 2001)
+            <financial>
+                <role/>
+            </financial>
+             .</citation>
         <serial>189</serial>
     </metadata>
 
     <body>
-        <pg folio="48"/>
+        <pg page="48"/>
         <div>
             <heading>Table 2: The Dars-i Nizamiyya in the Time of Mulla Nizam al-Din</heading>
             <div>
                 <heading>The Trasnmitted Sciences</heading>
                 <div>
                     <heading>Grammar and Syntax (Sarf wa nahw)</heading>
-                    <intertex text_id="clas_73">Mizan - Muhammad ibn Mustafa who taught in Bursa and
-                        Istanbul (d. 1505-6)</intertex>
-                    <intertext>Munsha'ib</intertext>
-                    <intertext>Sarf Mir - Mir Sayyid Sharif Jurjani (d. 1413)</intertext>
-                    <intertext>Punj Gunj - Mahmud Kashmiri</intertext>
-                    <intertext>Zubdah - Zahid ibn Mahmud ibn Mas'ud Alwi</intertext>
-                    <intetext>Fusul-i Akbari - 'Ali Akbar Allahabadi</intetext>
-                    <intertext>Shafiyya - Ibn Hajib of Cairo (d. 1248)</intertext>
-                    <intertext>Nahw Mir - Mir Sayyid Sharif Jurjani</intertext>
-                    <intertext>Sharh-i Mi'at 'Amil - Husayn ibn Tawqani (d. 1520)</intertext>
-                    <intertext>Hidayat al-Nahw</intertext>
-                    <intertext>Kafiyya - Ibn Hajib of Cairo</intertext>
-                    <intertext>Shahr Jami - Jami of Herat (d. 1492)</intertext>
+                    <intertext text_id="clas_73">Mizan - Muhammad ibn Mustafa who taught in Bursa
+                        and Istanbul (d. 1505-6)</intertext>
+                    <intertext text_id="clas_74">Munsha'ib</intertext>
+                    <intertext text_id="clas_75">Sarf Mir - Mir Sayyid Sharif Jurjani (d.
+                        1413)</intertext>
+                    <intertext text_id="clas_76">Punj Gunj - Mahmud Kashmiri</intertext>
+                    <intertext text_id="clas_77">Zubdah - Zahid ibn Mahmud ibn Mas'ud
+                        Alwi</intertext>
+                    <intertext text_id="clas_78">Fusul-i Akbari - 'Ali Akbar Allahabadi</intertext>
+                    <intertext text_id="clas_79">Shafiyya - Ibn Hajib of Cairo (d. 1248)</intertext>
+                    <intertext text_id="clas_80">Nahw Mir - Mir Sayyid Sharif Jurjani</intertext>
+                    <intertext text_id="clas_81">Sharh-i Mi'at 'Amil - Husayn ibn Tawqani (d.
+                        1520)</intertext>
+                    <intertext text_id="clas_82">Hidayat al-Nahw</intertext>
+                    <intertext text_id="clas_83">Kafiyya - Ibn Hajib of Cairo</intertext>
+                    <intertext text_id="clas_84"
+                        ><!-- note this is probably a typo by Robinson: "sharh" -->Shahr Jami - Jami
+                        of Herat (d. 1492)</intertext>
                 </div>
                 <div>
                     <heading>Rhetoric (Balaghat)</heading>
-
+                    <intertext>Mukhtasar - Sa'd al-Din Taftazani (d. 1389)</intertext>
+                    <intertext>Mutawwal - Sa'd al-Din Taftazani</intertext>
+                </div>
+                <div>
+                    <heading>Jurisprudence (Fiqh)</heading>
+                    <intertext>Hidaya - Burhan al-Din Marghinani (d. 1196)</intertext>
+                    <intertext>Commentary by Ubayd Allah ibn Mas'ud (d. 1346/7) on Wiqaya by his grandfather Taj al-Shari'a Mahmud</intertext>
                 </div>
             </div>
         </div>
