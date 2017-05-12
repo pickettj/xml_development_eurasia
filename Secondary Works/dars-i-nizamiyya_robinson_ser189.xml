@@ -40,13 +40,19 @@
                 </div>
                 <div>
                     <heading>Rhetoric (Balaghat)</heading>
-                    <intertext>Mukhtasar - Sa'd al-Din Taftazani (d. 1389)</intertext>
-                    <intertext>Mutawwal - Sa'd al-Din Taftazani</intertext>
+                    <intertext text_id="clas_85">Mukhtasar - Sa'd al-Din Taftazani (d. 1389)</intertext>
+                    <intertext text_id="clas_66">Mutawwal - Sa'd al-Din Taftazani</intertext>
                 </div>
                 <div>
                     <heading>Jurisprudence (Fiqh)</heading>
-                    <intertext>Hidaya - Burhan al-Din Marghinani (d. 1196)</intertext>
-                    <intertext>Commentary by Ubayd Allah ibn Mas'ud (d. 1346/7) on Wiqaya by his grandfather Taj al-Shari'a Mahmud</intertext>
+                    <intertext text_id="clas_22">Hidaya - Burhan al-Din Marghinani (d. 1196)</intertext>
+                    <intertext text_id="clas_11">Commentary by Ubayd Allah ibn Mas'ud (d. 1346/7) on Wiqaya by his grandfather Taj al-Shari'a Mahmud</intertext>
+                </div>
+                <div>
+                    <heading>Principles of Jurisprudence (Usul-i fiqh)</heading>
+                    <intertext text_id="clas_87">Nur al-Anwar - Commentary by Mulla Jiwan of Amethi (d. 1718) on 'Abd Allah Nasafi's (d. 1310) Kitab al-Manar (written in India)</intertext>
+                    <intertext text_id="clas_90">Tawzih Talwih - Commentary by Sa'd al-Din Taftazani on Ubayd allah ibn Mas'ud's Tawzih</intertext>
+                    <intertext text_id="clas_91">Musallam al-Thubut Muhibb Allah Bihari (d. 1707/8) (written in India)</intertext>
                 </div>
             </div>
         </div>
