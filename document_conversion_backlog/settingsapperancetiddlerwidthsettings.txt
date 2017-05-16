@@ -1,0 +1,6 @@
+$:/settings/apperance/TiddlerWidthSettings
+
+@width_settings @primary_source @archival
+
+
+

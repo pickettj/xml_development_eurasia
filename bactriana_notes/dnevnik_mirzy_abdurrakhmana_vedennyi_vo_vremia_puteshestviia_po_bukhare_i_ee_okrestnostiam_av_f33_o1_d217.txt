@@ -1,0 +1,64 @@
+Dnevnik mirzy Abdurrakhmana, vedennyi vo vremia puteshestviia po Bukhare i ee okrestnostiam (AV F33 O1 D217)
+
+@travel_account @manuscript_persian @pburg_instvost @shahrisabz @primary_source
+
+[[Fond 33, A.L. Kun]]
+
+This is a travelogue / geography; in some ways the style and even information is comparable to [[Tārīkh-i Humāyūn-i Gulshanī, 1328]].  *Note*: The order of the pages in this дело do not really make any sense.  Also, some pages are randomly repeated; this could actually be draft pages from d219, i.e. the expedition to Iskandarkul.  See [[Kun's introduction|Kun, "Predislovia" / coobshcheniia o Iskanderkul'skoi eksp., mirzi Abdurrakhmane, tseli i khode issledovaniia (AV F33 O1 D218)]].
+
+#### Game of thrones. Can be cross-referenced with events in [[Muḥammad Ḥakīm Khān, Muntakhab al-Tavārīkh 1842: Rahim Khan through Shah Murad]]
+19
+
+- Journal entry from یکشنبه جهردهم ماه صفر (probably 1870).
+- They are stopping in the ولایت of اورمیتن
+18b
+
+- اورمیتن is a dry, rocky place without a bazar; everything there is brought from Samarkand, Panjikent (پنجه کند), Shahrisabz, or اورگوت
+- *note - from here the Persian transcription is uninterrupted*
+- The aforementioned qurghan (i.e. the one referenced below called سیاه درده) was abandoned by خدایار والنعمی بابای عبدالغفار دیوان بیگی (an adversary of the Manghits based in Uratipa - see [[Hakim Khan|Muḥammad Ḥakīm Khān, Muntakhab al-Tavārīkh 1842: Rahim Khan through Shah Murad]], e.g. p 370).
+- This is an oral account: ... که موی سفیدان میگویند از وی بیش را کسی میداند
+- Fifty years ago (?) Khudayar Valnami's son came and became governor: بعد از پنجاه سال پسر خدایار والنعمی صادق بیک نام آمده حاک(ی)م شده
+- The Qurghan had already been built: قورغانی را از دیگر بنا کرده بود است
+18
+
+- Until after two years when Mubinjan came and subjected the place to oppression (continued from previous page) تا الوقت مدت دو سال شده است که مبینجان (؟) آمده بظلم تعدی گرفته  
+- مردمان آن ولایت را تاراج کرده بعضی مردم را کشته گرفته بود بیست و شش ماه حاکمی کرده بعد از شش ماه عبد الغفار ولد محمد رحیم اتالیق از شهرسبز آمده گرفته مدت سه ماه حاکم شده بود 
+    - Not totally clear which son of Rahim Ataliq's ends up in Shahrisabz; note that none of Rahim Ataliq's sons ever became amir (Danial Bey was his uncle), though he did marry into a family during one of his sieges of Shahrisabz (see [[Hakim Khan|Muḥammad Ḥakīm Khān, Muntakhab al-Tavārīkh 1842: Rahim Khan through Shah Murad]], 354).
+- مبینجان غولو کرده بجنگ و روزی موضع مذکور را گرفته مردمان را باز تاراج و خانه صلوه کرده بعضی را کوجانده برده بود است و قورغان مذکور را ویران کرده بود است
+    - So the fortress gets destroyed in the battle after Mubinjon retakes it; Khudayar flees back to Shahrisabz
+
+#### Interesting tidbit
+
+- ... قورغانی کهنه هست موی سفیدان میگویند در قدیم الایام یک کافر سیاه درده مکان کرده بود است که الحال سیاه درده میگویند
+    - Reference to an actual winery, as well as attributing it to infidels.
+        - *probably not, says Basir*: فکرمیکنم که شاید ( یک کافر سیاه - در - ده - مکان کرده بود ) ویا  یک کافر سیاه درده -  مکان کرده بوده است  که حالا (سیاه در ده )  می گویند
+        - *or*  سیاه درده هیچ گونه معنی مشخصی را افاده نمی کند  اما این کلمه خیلی نزدیک است با کلمۀ سیاه چرده
+
+#### Random notes throughout the body
+
+1
+
+- The second place the passed / rested at (گذر دویم) was named لوق بسلاقان.  Just interesting that the author notes that the inhabitants were poor (بیچاره) Tajiks and that they had to go to Bukhara and Samarkand to beg (گدا).
+- Author notes on both page one and two that the children of these mountain villages go to maktab in the winter and in in the summer ascend the mountains to tend the flocks.
+1b
+
+- Page is describing the village رمتین; author relays a legend about Timur associated with the legend.
+- Also describes ساک (؟) لنگر.  Village is associated with شیخ ابو القاسم گورگانی
+
+2- 7: These pages appear to be transcriptions of graves and shrines that they found along the way.
+
+11
+
+- They pass through a desert called دشت قاضی.  See note on this point below.
+- This is the area from which Rahim Khan hailed (?).
+- Apparently they are coming into Bukhara from vilayat-i Hisar.
+12
+
+- They must have had a military escort because he keeps on saying با همراهی قوشون
+
+Interesting pair of sentences on two versions of the same page (ethnicity):
+
+- 11: مردم آنموضع ترک کلته تای و تاجک میباشند
+- 22b: مردم آنموضع ترک کلته تای تاجیک شده گی می باشند
+- I think that he is saying that Amir Haydar gifted the family from which this Qazi came a great deal of the land in this area.
+

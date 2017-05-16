@@ -1,0 +1,390 @@
+Muhammad Ḥisari, Yāddāshthā, 1268-1296
+
+@manuscript_persian @dush_written_heritage @memoir @primary_source
+
+[[Manuscripts Index]]
+Catalog: [[Mirzoev and A. M. Boldyrev, eds., Katalog vostochnykh rukopisei Akademii Nauk Tadzhikskoi SSR]], p. 188; 178, 1428/1
+
+یادداشتها 
+میرزا بابا بن داملا صفر محمد حصاری
+Mīrzā Bābā bin Dāmalā Ṣafar Muḥammad Ḥiṣārī
+
+#### Basic Data from Catalog Description
+Memoir covers the 28-year period 1268/1851-1852 to 1296/1878-1879, which includes the Russian invasion, from which the author fled in 1866.  A potentially invaluable source as the author received his education in Bukhara and traveled around the region serving in a variety of positions.  Mirzoev notes that the style is interesting and characteristic of epistelography in the period; as such the author switches back and forth between narrative and prose.  There are poems between all the different حکایتها that take up a few pages.  Every section heading (after the first few) denotes a new حکایت even when I do not title them as such in my notes.
+
+Some general thoughts: The Russians are barely mentioned in this text, only in a poem at the beginning, and then in the strange story of the mutant calf portent.  Yet perhaps the consequences of the invasion can be seen; Hisari's Bukhara is a more coherent state under the Russian largesse than it had been before, which comes through in the clockwork pilgrimages by the hakims to pay homage to the emir.
+
+#### Introduction: God, the Prophet, Judgment Day, and the Four Rightly Guided Caliphs
+Book opens with Persian poetry about the aforementioned topics.
+
+#### On the Qualities of Nasrullah Khan: در بیان صفت چادشاه عالم پناه معدلت جاکاه
+4b
+
+- As the author leads in to his description of Nasrullah's qualities, he links the khan directly to the Islamic notables of the introduction (Muhammad & co.), whom he refers to as the first kings of Bukhara: که در زمان ماضی بمملکت بخارای شریف پادشاهی بود
+- Nasrullah's Islamic credentials are referenced quite explicitly (as are his justice, greatness, hunting and battle prowess, etc.); شریعت آیین، دیانت قرین
+- Persianate reference: Nasrullah taking power is described as __رخش__ عدالت در میدان حکومت رانده in the year 1261.
+5
+
+- Nasrullah is praised for expanding the ranks of the ulama: رواج رتبه علما; he is also praised for expanding the military, etc.
+5b
+
+- Nasrullah dies and the author begins lavishing praise on his son, Muzaffar al-Din.
+
+#### Poems to the Ark, Sufis, Ulama, Army
+
+- Note that the author distinguishes صفت خانقاه و مشایخ and صفت علماء from one another in separate poems.
+
+## حکایت اوّل
+This section begins the autobiographical section of the author's account with him traveling from Hisar to Bukhara.
+
+11b
+
+- Author's full name: میرزا بابا بن داملّا صفر حصاری
+- In the year 1268 (1851-1852) the author set out from Hisar in search of: شرف الانسان بالعلم و الادب مسرّت وطن
+- Author leaves the comfort of his home-city friends and trades his clothes for tattered ones (or they become tattered on the journey).
+12
+
+- Nevertheless, he commits himself to the road heart and soul (بدل و جان راه داده), and overcomes the pain (دیه غربت) through his commitment to learning.
+- For the journey he takes three companions: one was a scholar (در علم قال بحدّ کمال رسیده); one was a practical sort (دویم از حال بهره بیملال یافته); one was simply a friend who agreed to travel the world (سیوم در باب رفاقت و اتفاق در آفاق طاق بود).
+- About the journey itself the author only mentions that they spend several (چند) days and stay in houses along the way (منازل).
+12b
+
+- Hisari spends six months traveling in want of learning but lacking the necessary funds: بعد از شش ماه کثرت لوازمات تحصیل و قلت بضاعت بهوای سیاحت
+- "Ghudjuwan [EI, Frye] (today Gizduvan), a large village in the northeastern part of the oasis of Bukhara, on the tributary of the Zarafshan River at present called Pirmast, formerly the Kharqan Rud... At present the village is sixteen kilometres / 10 miles from the railroad station of Kyzyl-Tepe and ca. 50 km / 30 m. from Bukhara."
+- Ghudjuwani (EI, Naficy): Died 575 / 1179. Studied in Bukhara under Abu Ya'kub Yusuf Hamadani.
+- Eventually he ends up in فرشته کنت where he absconds to a mosque for اعتکاف.
+13
+
+- Author inserts a poem depicting his diligence and love of learning; the second line equates his inkwell (دواد - check this word) to the cup of Jamshid, freely mixing Persianate symbolism to describe an Islamic education.
+    - قلم در مُلک گفتارم عَلَم شد، دوادم هم عنان جام جم شد
+        - The pen is my banner, the inkwell my chalice of Jamshid
+    - مرا شد مملکت یکصفحۀ مکتوب، چه مکتوبیکه از هر مُلک مرغوب
+        - A single written page is my empire, preferable to all the material world
+- It appears that the author spent these six months achieving the necessary language skills (کتابت زبان فصاحت) as well as enough money (کمال بضاعت) to finally go to Bukhara, though it does not say how he earned that money.
+- Author sells his wares and procures a room (حجره) from عبدالله خانی
+- Hisari spent __10 years__ in that cell training.
+13b
+
+- Hisari spent 10 years in the pursuit of knowledge: بحصول علم قال
+- Sufism and Ulama: The author justifies his learning by the fact that he is embarked on a Sufi path: سعی موفور بطهور آورده جنان معتقد راه طریقت بودم
+14
+
+- Despite having spent 10 years engaged in training in Bukhara, the author expresses regret at having to leave through thick metaphors.
+    - (continues on to following page): از کنج مدرسه بگوشه مهلکه اند انداخته
+14b
+
+- There is some dense language about why exactly the author was forced to "abandon" his studies, but the end result was that, for the sake of money, he was forced into the service of the Amirs: لا علاج کشب نوسنده گی و ملاطمت امرا اختیار نمودم
+- He also (may have; language dense) returned home to Hissar during this time; in any case, after some contemplation, he resolved to enter the service of the Amirs and improve his lot.
+
+#### Serving the Amirs in خذار
+15
+
+- To serve the amirs Hisari was forced to pick up and move to the province of خذار (called to غذار, which according to Faizollah was a place where the Bukharan amirs used to vacation).
+- It was Hisari's first visit to the province and he had no previous acquaintances, so it was a lonely place for him.  As a result, he was forced to spend 8 nights in a public sarai.
+- He describes the province as desolate (owl-like? چغدوار) and writes a long poem about his loneliness there.
+16
+
+- A young man happens by his sarai and in his loneliness the author befriends him; the youth pointedly lavishes praise honors upon Hisari and flatters him as he is interrogating him.  Hisari obliges and tell him everything.
+- After interrogating Hisari, the youth takes him to the ایلجی خانه
+16b
+
+- The young man took him to the Iilchikhana, apparently to be registered.
+- Khoja Ismail was one of the local hakim's relatives and the most powerful guy in the region, even though he had no official position (he was the owner of a sarai): میگفتند که یک از مقرّبان بارگاهِ حاکم آنجا بوده و همۀ عسکریّه بار انقیاد او را بدوش کشیده در هر اموار مهّم خودها بیمشورت آن در پایۀ اصلاح مستقیم نمی یافتند
+- Hisari too took refuge under Khoja Ismail's patronage; after 40 days Hisari moved into his residence and quickly moved up the ranks to become one of his most important advisers.
+    - Author was lavished with favor (continues on to next page): حقیر را از سایر خدّام بالا داشته اعزاز و اکرام بلا نهایه مینمود
+17
+
+- The youth is appointed املاکدار and lavished with weatlh and in turn lavished wealth upon Hisari, who rarely left his side in service.
+- Hisari served the youth as a نویسندگی for a (مدت مدید) long time.  Hisari emphasizes his utter devotion to this "youth" come Amlakdar.
+
+## حکایت در بیان عزل حاکم مذکور از اینولا منسوب گردیدن  بحکومت ولایت نَخشَبه و تشویش رسیدن از ملازمان حاکم جدید و مخلص یافتن امارت پناه از مهلکۀ محاسبات
+This section, starting on 18b, seems to depict a major government housecleaning.  A gallant deputy of the amir shows up, deposes the entire previous court (i.e. the court of the young amlakdar from the previous section; *the author's lack of names makes it difficult to follow who is who in this section*), and starts an accounting process.
+18b
+
+- A young rider in red clothing shows up like a whirlwind.
+19
+
+- The rider is spitting mad (تغیر احوال) and immediately starts an investigation.
+- In a rage he seized the various records of state: فورا طریق عتاب و راه استحساب پیش نهاد خود ساخته مهر و دفتر و آنچه غنیمتی که ماحضر مستوفی و مشرف بود بدست تصرف و در آوردهبعزل والی متنبه گردیده
+19b
+
+- Certain members of the court of questionable moral fiber (بیجوهران) fear reprisal (presumably for the abuses that are being investigated) and fled.  ،This causes general disturbance as everyone who had taken from the general treasury was called to account and in the space of an evening disappeared.
+21b
+
+- After the initial tumult when the new governor (امارت پناه) arrives and conducts his investigation, the province is returned to order: پای اقتدار بجادۀ استقرار قرار داده
+- The new governor prepares lavish presents to take to the Amir's court in Bukhara: بآستان جنّت نشان عالی 
+22
+
+- Author goes into some detail here describing the courtly supplication on both sides.The new governor lavishes thanks upon the Amir and is in turn rewarded handsomely.
+- "Beloved" imagery - two boy courtesans (دو شاطر), possibly eunochs, of great beauty are sent to the new governor.
+    - Even the ceder tree (known for its strength) would bend as they passed: که از رشک قامت آنها سرو بوستانرا قامت اقامت خم گردیدی
+    - Continues on to the next page with another metaphor about a partridge throwing itself in water from the shame of feeling heat when they pass.
+22b
+
+    - Continuing beloved metaphors, even mentions the little bells (زنگوله) that are tied to the feet: و از صدای پرنوای زنگوله اش بلبلان خوش الحان راه فغان فراموش مردی
+- The new governor had taken a bunch of his relatives with him, who would serve in his new government, and they were also rewarded.
+23
+
+- This page returns to the plight of Hisari throughout all of this.  The author ended up in the retinue of بهادر خواجه who was the son of اسماعیل خواه, i.e. that influential person from the province of خذار
+- They were sent to the province of جِزمند, where the author spent three months.
+- However, while the author continued to benefit from the proceeds of his patrons' largesse, he soon ran into money problems once again.
+23b
+
+- Somewhat melodramatically, he even compares his penury to a shepherd's dog: چون کلب چوپان غاز بی بضاعتی نموده در جولان می آورد
+25
+
+- Author continues with metaphors about the stinginess of his master.
+25b
+
+- (*check*) Author compares his plight to being imprisoned (pretty sure that is a metaphor... but possible that he was not allowed to leave) but that by withdrawing into religion he persevered.
+- (*check*) The others in the government were suspicious of the author and investigating him, so he leaves for غجدوان once again.
+
+## حکایت در بیان عزیمت نمودن خویش بجانب  ولایت جزّخ و رنج کشیدن از برای معرفت حاکم او و کلاه تدبیر در سر کردن و گوهر مدّعا بدست طلب درآوردن
+26
+
+- Author moves from غجدوان to جزّخ for work; journey takes 3 days, arrives on the fourth.  Stays at a public Sarai.
+26b
+
+- Near the city center (? - قورغان) there is a special mosque where the Hakim and the ministers of the state pray (continued from previous page).
+27
+
+- Author cleverly (perhaps the تدبیر in the section title) begins spending time in this mosque illustrating his skill by putting the holy word in poetic verse.
+    - (continued from previous page): و بخامۀ فورادید جندی از سورهای کلام ربّانی را بمصراع جلی گنجایش میدادم. روزی حاکم آنولا بجهت ادا نماز مسجد در آمده مرا بدینصنعت دید
+- Hisari's scheme works; the Hakim notices his prose, comes over to regard it intently, and hires him after his prayers.
+- Hisari served the Hakim for 40 days.
+28 
+
+- In thick prose the author describes how he is rewarded lavishly for his labor and finally has money.
+- Hisari describes the government jobs - mostly tax collection and accounting: و هر فرد از افراد خدمتکاران را بر وفق احول ایشان در رشتۀ شفقت منتظم گرداندید و جندی را بجهت سر رشتۀ استیفاء مملکۀ سلطانیه بقدر اعتبار ایشان باحسان فراوان و سرفراری تمام مرخّص ساخت
+28b
+
+- From that wilayat the author was sent to the sub-province (?) of کوه پایه and lived there 6 years.
+    - His post was probably in accounting (خاصۀ جریدۀ احوال).
+- *notice that Hisari spends 40 days at the side of the Hakim developing a personal relationship before he is sent out to his post*
+
+## حکایت در بیان مراجعت نمودن از ولایت جزّخ بجانب تومان عجدوان و نخل تزوّج بزمین دل نشانیدن و نهال تجرّد از گلستان نشاط کندن و تخم علایق بمزرعه حیات کاشتن و ثمره حاصل در بر کردن
+This section is about Hisari taking a wife and procreating.
+31
+
+- After his work in Jizzakh the author returns to his original (بمنزل آولی خود رسیده) place of residence in Ghijduvan.
+- *The way he phrases his training at Bukhara is indicative of the coterminous nature of Sufism and formal learning*: بعد از اتمام علم قال و استکما سلسلۀ حال از بخارای شریف بر آمده
+31b
+
+- Author settles in the village of مولویان
+- Quoting hadith affirming the desirability of marriage.
+- Gets into extensive metaphors about his virginity.
+- His marriage is essentially arranged when he drops by a shop in the bazar to visit a friend.
+32
+
+- (continued from previous) Hisari is careful to mention that this bazar shop owner is intelligent (هوشمند), educated (تَأْلِيف), and  (مبالغه) eloquece.
+32b
+
+- Author spent several years in that village just reproducing.
+
+#### Unexpected Visitor and Journey to the Hakim's Court
+33b
+
+- An unexpected messenger shows up at Hisari's door bearing a letter from.  The government is in need of writers and accountants, and he is summoned for a position.
+- Naturally, he is overjoyed.
+34b
+
+- The author accompanies the messenger to a meeting with the governor at قورغان
+35
+
+- Author was again assigned to ظبت  و سرشته, in which capacity he served for a year.
+- He was handsomely rewarded for his troubles: از مأکولات و ملبوسات بی نیاز بودم
+37
+
+- There was a tradition in the Bukharan emirate that every three years the Hakim would pay homage to the Amir: حاکم مذکور بعاده معهوده سال سیوم بآسان بوسی پادشاه عصر رفته
+37b 
+
+- To the amir's court the hakim brought lavish gifts, learned men of the court (مراتب علامی), and the (ما حصلۀ مملکت مذکوره را که خواصۀ مخزن شریف بود) owed taxes.
+38
+
+- Author indulges in a lavish description of the Bukharan spring.
+38b
+
+- Describing the extreme pageantry of the Amir's court.
+- The governor is assigned by the amir to a different province - ضياء الدين - where he and his entourage set off immediately.
+
+#### On service in the new post (ضياء الدين) and some court intrigue
+39
+
+- Hisari is given his previous post at the new province.
+- At this point, per an "ancient tradition," the hakim doles out favors to his relatives: آنگاه جناب امارت پناهی برسوم قدیم هدایأ ایندولت جدیده را تضاعفاً مهیّا نموده مع عرضۀ غلامی با چند از مقرّبان ببارگاه معدلت پناه فرستادند
+39b
+
+- A lengthy description of the aforementioned pleasantries and patronage-building.
+40
+
+- The Hakim was very shrewd and watched his province like a hawk (colorful metaphor); he was careful to ease tension (ازالۀ کدورت طبع رسوم) by participating in social gatherings of the people (راعیا) such as weddings, etc.  I.e. he took care to be a "man of the people."
+- For four months he served the hakim in this capacity with absolute loyalty and subservience.
+40b
+
+- This page once again emphasizes the importance of personal relationships.  After the four months the author is apart from the Hakim, which essentially leads to his end.
+- When the hakim comes back to قورغان, the author notices that hakim is giving him the cold shoulder.
+- The author suspects that his enemies in the court (حسّاد و فرقهۀ فتنه) are plotting against him.
+41b
+
+- The author sends a letter to the hakim to get to the truth of the matter; but he is disappointed and forced into early retirement: بعد از زمانی شقۀ امتحانم رخصت بلا احسان و کلفت ناگهان زمان بیان گشود
+42
+
+- So the author leaves Ghijduvan and heads back to his home in (فرشته کنت ؟).  It is interesting to note that whenever the author moves about the country he stays at simple sarais and in the bazaar, as is evidenced on this and other pages.  He has connections amongst all of the shop and caravan owners in the region.
+- The treachery of the author's enemies never came to light: و زبان شکایت بافشأ احوال ایشان نرسیده
+42b
+
+- So the author spends a year with his family.
+- Author's last comments and ensuing poem highlights his Sufi leanings.
+44b
+
+- Author laments his destitution and bad fortune.
+
+#### Good luck from the brink of destitution and the death of a hakim
+45
+
+- Author still broke: که راه استیفا معیشت مسدود گشت
+- Hisari was also forced to seek handouts and take loans, which humiliates him: و مردم جشم بدیدۀ انتظار جون خار میخلید
+- Just when things look particularly bad a young man shows up at Hisari's door, just like the time before.
+    - *Interesting to see how the Turkic amirs come and go, but Hisari represents the Tajiki bureaucratic class that gets continually recycled*
+45b
+
+- As it happened, a new governor was appointed to Ghijduvan by the name of Sultan Khan.
+- Hisari's presence was requested for chancellery (دبیری) activities.
+- The youth accompanies him to the Hakim's court.
+46
+
+- Hisari, overjoyed, goes to the court and accepts.
+46b
+
+- Once again describes tax season and the necessity of counting up and going to pay tribute to the amir.
+47
+
+- *rough translation* we counted up the dinero and took it to the amir per ancient tradition: (continued from previous page): و ما حضر مذکور که خاصۀ مخزن شریف بود موافق رسوم قدیم تسلیم نمودند
+- Shortly after his return from paying tribute the Hakim died.
+- At the time of the amir's death, Hisari was in charge of the treasury (along with 7 Amlakdars): فقیری که متصدّی دخل و خرج او بودم
+- With the passing of the guy in charge, all the Amlakdars tried to get their hands in the treasury.
+47b
+
+- Since author even more than the 8 Amlakdars was in charge, it was up to him to keep things in order: که حق بمن له الحق قرار گرفته
+    - No transactions were made without his approval: پرکاهی از شخصی بکسی منقلب نگردد
+- Due to the author's vigilance, there was a smooth transition: و آثار ضرر و تشویش خاطر باحد از اینملازمان عارض نشد
+- For 20 days the author was distraught as he singlehandedly guarded the affairs of state, and kept track of transactions verbally (presumably since only the late hakim had the power of the seal): بدینمنوال مدّت بیست روز در قید وهم محبوس بوده زمانی حساب میدادم و گاهها دفتر را بمحاسبۀ زبانی ممتحن میگردانید
+48
+
+- After setting things in order, Hisari begged his leave and went home, happy to have escaped that debacle unscathed.
+
+#### Corruption and Punishment
+49
+
+- In the year 1295 the author went looking for work as a writer, as was his habit: بعادت سابعه متردّد ساخت و مترصّد کسب نویسنده گی بودم
+- At that time موسی خواجه was in charge of غجدوان.  One day on the pretext of tax collection (استیفأ) he visited Hisari's village of فرشنه کنت; naturally, he honored Hisari with a visit.
+49b
+
+- He served Musa for two years.
+- Musa did not really pay his servants enough, but the author gave it his all anyway.  *check - prose is funny here*
+50.1 (*looks like the vostokoved writing in the numbers made a mistake and labeled two pages 50 - 50а и 50б*)
+
+- Discussing the exploitation of the peasantry he witnessed (و باستغاسۀ رعایا و خِفّت وضع خود مغموم) the author discusses the low moral standing of the Amirs: مشاهده کردم که نهال حیاتتش از باد مذلّت بهره یافته غنچۀ خاطرش باندیشۀ خطیر شکفته است
+    - *implicit ethnic tension here?*
+50.1 b
+
+- Witnessing the depravity of the amirs, the author sees no choice but to leave: بگرداب تفکر انداخت لا علاج ترک خذمت نموده پای استقامت از استان طاعتش بیرون کشیده
+- Author returns to his home.
+50.2
+
+- It comes time for Hakim Musa to go pay homage to the amir; the author is retired at this point, but decides to go anyways since he is bored.  Or rather he tags along to go to a place called سیر شیر بدن, apparently on the way.  *Getting from point a to point b was not so easy back then, so he is probably just interested in the transport.*
+- The courtiers of Ghijduvan wen to pay tribute to the Amir, unaware of the fate that awaited them: بسلام پادشاه رفته انواع تحف را تسلیم نموده از مقدّرات اطلاع نیافته متوجه زیارت گردید
+50.2 b
+
+- The Amir punished the offenders severely and confiscated their possessions and wealth: باسلحه و یراق خود ها گوشمال میدادند و اموال حاضر و غایب او را راجع دولتخوانه گردند
+- When Hisari hears this, he fears that he will share their fate by association, and high tails it back to Ghijduvan with great fear and discretion.
+51
+
+- Hisari is fully aware that had he been at the court he would have suffered the same fate and is thankful for his escape.
+51b
+
+- As is often the case, this section is followed by a wine poem, which also includes references to seeing magians in dreams.
+52
+
+- The poem seems to exculpate the amir (he was not aware of what was going on) for the corruption and reviles his courtiers.
+
+#### Trouble with the local muftis
+52b
+
+- Following the corruption debacle, Hisari spends some serious time in R&R.
+53
+
+- But the reverie was not to last; one day, misfortune struck.  Hisari's ignorant (ندان) enemies accused him of بیوطنی - whatever that means exactly.  Perhaps because he spent so much of his time away from Farishnakent?
+- Essentially, he seems to be saying that his enemies "encouraged" (ترغیب ساخت) the bribe-taking (مُرْتَشی) muftis to come to his house and accuse him.
+- The issue was over the author share in the estate of a deceased relative (اموال مشترکه) which they counted as part of communal lands (سر حضورم را از اموال مشترکۀ غیر متروکه عَد نموده); the muftis went through all of the standard Islamic legal procedures to find against him: بفتوی آن عبارة علیه الفتوی و دلیل هو الاصح
+    - *so here we have a local source also referring to endemic corruption in the judicial system...*
+53b
+
+- Hisari knows he has no real recourse in this situation and complies with the muftis' / elders' demands: مدّت چهار ماه تعمیر مسکین خود کوشیده باتمام رسانیدم و از خلل اشتراک پاک شده
+54
+
+- He had to take a loan out to fix the problem: نیز مبلغ سه هزار درم مدیون گردیدم
+- Which impoverished him, and he spent a good year "drinking from the cup of sorrow" or some ridiculous Persianism like that.
+- The author is ostracized from the community as a result of the dispute: در آنوقت دوستان دیرینه و همنشینان بی کینه از صحبت کمینه نفرت میگردند و بهر مجلس که جمع آمد میشدند ببادۀ غیبت عشرت مینمودند
+    - *note the reference to the very existence of the "majlis", an important Persianate social context*
+- Hisari also received threats from his creditors.
+54b
+
+- Even though everyone was trying to drive him out of town, Hisari did not give up the faith and in effect turned the other cheek.
+- Ultimately, however, he was able to pay off his debts by turning to the benevolence of God: و ادأ دین را از خزاین دانای اسرار میطلبیدم
+- In the year 1294 he returned to the province of ضیأ الدین for work.  Author spent the rest of his life serving the Hakim there: بقیۀ عمر را بخذمت ذیسعادت کگذراندم.
+55
+
+- The money he made at that court shut up his detractors: و بار انقیاد دیوان از دوش محزون افتاد و زبان دشمنان از فسانه طرازی آنحال لال گشت
+55b
+
+- Goes on for a bit about this particular hakim's incredible generosity.
+
+#### Newspaper from Tashkent
+57b
+
+- One day a Turkish newspaper arrives from Tashkent: روزی از گزیت خانۀ ولایت تاشکند بمحکمۀ مملکت ضیأ الدین بعادت موعوده روزنامۀ وابسته بحکایت متعدده آمده
+    - *notice the use of the import word "gazette"; also notice that he refers to Zia al-Din as a kingdom, not that that means much in this context*
+- The newspaper included a number of anecdotes in Turki: راویان گزیتخانه مذکور بآنصفحه چند مصرع چیستان مشهور مُعبّر بلفظ ترکی را مسطور گرداندیه 
+58
+
+- The hakim sent for all the smart people in his court to try and figure out the meaning of these anecdotes; Hisari was among those trying to figure out their meaning.
+- The marinalia of this page is all in Turkic; *presumably he is reproducing the contents of said newspaper?*
+- The author ended up writing an explanation of the Turkic for the Hakim.
+    - *is this because the riddles are so arcane or because the hakim's command of Turkic is not all that strong at this point?*
+
+#### Illness and Penpals
+58b
+
+- Year is 1296
+- Author comes down with a sickness and is prescribed a kind of Bukharan wine: و التماس اَدویّه مینمودم و از روز مشاهدۀ احوالم بشرب مثلّث شرعی مداومت فرموده
+    - *Michael Cook*: Lane 349b: muthallath = wine (sharaab) cooked until the quantity of the two thirds of it has gone; the expressed juice of grapes so cooked.  This is part of the great Hanafi nabiidh thing, and I don’t think the permissibility of muthallath turns on medical use.  Najam Haider, a former NES graduate student now at Barnard, could probably fill you in on this.
+- About this time the author sends a letter to his dear (برادر دیرینه و همساز بی کینه) friend میرزا محمّد یوسف in Samarkand.
+- This Mirza Yusif is a celebrated scholar of his time, says Hisari.
+59
+
+- When he insists that his friend is incredibly learned what he is talking about is rhetoric and poetry: و در طبع نظم و معّما گوی دانایی از میدان فصاحت ربوده
+- In any case, the two of them exchanged wine poetry and the author copied both of their efforts in the ensuring pages.
+
+#### Perversity and Portent in Jizzakh
+63b
+
+- One day the author was staying as a guest in the outskirts of Jizzakh (به بیرون قورغان جزّخ) and goes for morning prayers when he notices a large crowd gathered near the wall of the ark.
+64
+
+- The still-born calf had two tails and two heads, one of the latter of which was a dog head: گوساله را بیک تن دو دم و بیک گردن دو سر بیباشد که یک سر چون سر گوساله و دیگر مثل سر سگ و بتحت گردن خود چون طُلوم خرطوم دارد 
+- Many in the crowd were disturbed; the old ones could not bring themselves to look at the spectacle and wept openly; some among the young ridiculed the spectacle and made jokes.
+64b
+
+- Eventually this horror reached the ears of the امارت پناه; the following people were summoned to the (سلام گاه) court: قاضی و رَئِيس و سایر علما و مرا
+    - *so the rais is considered one of the ulama; does the author consider himself one in this sentence?*
+- *check this page; I think it says that the amir had a turban made from the freak cow, but need to check*
+65
+
+- Two court riders show up and start engaging in idle talk about the calf; what if the two heads wanted to do different things, how would the creature get on?  What if one wanted to eat grass, for instance.
+65b
+
+- While everyone else is joking around about this strange occurance, the author is thinking about possible divine meanings: در آن زمان داعی بقدرت خداندی متفکّر میبودم و از گفتگوی آنها تغافل مینمودم
+- The author, however, knew that something was wrong about the situation: و ظهور اینحادثه را از روی آمدشد دنیا چندانی مستحسن نمیشماریدم و می ترسیدم که مبادا ورود اینواقعه علامت حادثه دگر نباشد
+- Author connects these events directly to the Russian invasion which takes place two years later in 1283, when the Russians besieged the province.
+

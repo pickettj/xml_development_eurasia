@@ -1,0 +1,61 @@
+RGVIA 483-1-132, ll. 36-43 (168)
+
+@legal_procedure @rgvia @turkmen @intelligence @charjuy @military @primary_source @archival
+
+[[Perepiska Glavnogo shtaba o vnutripoliticheskom polozhenii v Bukhare i Afganistane (RGVIA 483-1-132)]]
+
+##  RGVIA 483-1-132, ll. 36-43 (serial 168): Political Agent's report on garrison-local relations in Karki
+
+- Introductory note by the Glavnyi Shtab, 10 August 1888 (36): Имею честь представить при сем Вашему Высокопривосходительству доносение нашаго Политическаго Агента в Бухаре...
+    - Note also that this is being forwarded to the Glavyi Shtab by the Turkestan Governor Generalship; per Becker, the Political Agent reports directly to the Ministry of Foreign Affairs, but also to Turkestan - split between two masters.
+- Relations with the local Turkmen 
+- Out of "respect" for Russian presence, public executions no longer to be carried out in Karki; rather, offenders will be sent to Qarshi (41).
+
+
+г. Бухара, 26 Июня 1888 г.
+получено 5 Июля 1888 года
+
+Милостивый Государь
+Николай Оттонович
+
+В предедущем [почтитительным?] донесении я имею честь упомянуть о положении дел на Авганской границе, к стороне Карки. Положение это, без сомнения зависит существенным образом от тех отношений, которые установились между Русским гарнизоном, расположенном у Карки и туземными Бухарскими властями и туземным населением.
+
+Посетив ныне Карки после годоваго промежутка, я был поражен теми успехами, которые сделаны в этом направлении.
+
+Сдержанность жителей Туркмен Эрсарницев, которую нельзя было не отметить год тому назад, заменилась теперь открытыми дружественным отножениями. Жители привыкли к Русским и последние, благодаря своему справедливому образу действий [л. 38 об] и добросовестности в денежных делах с туземцами, стали пользоваться теперь среди них большой популярностю.
+
+- Locals now come out to greet passing Russians; and are starting to accept Russian currency as well (38b): ... жители охотно принимают Русски кредитные билеты, но только рубливые...
+- 25 versts from Charjuy on the way to Karki, the Emir donated a plot of land (участок) of 1000 десятин, i.e. gave it to Кудрин (the local commander?). Some Russians have already built on that land (38b).
+- American cotton (39): Туземцы вполне понимают выгоду посева американскаго хлопа /: который они называют "Русским":/ по сравнении с туземным и мне кажется, что непройдет года как они сами начнут его сеять. Пока у Кудрина засеяно 50 десятин и всхды прекрасны.
+- The reason for the Russians' local favorability ratings is mostly material; locals realize that the garrison has economically improved their lives (says author) (39).
+    - Garrison typically spends several thousand rubles per month (39).
+- Also cites "moral reason" (нравственная причина) for Russian popularity, by which the author means security and safety provided by the troops (39).
+    - Example (39-39b): Старшина Селения Кураим, Худай Назам Мирахур, котораго я видел еще в 1885 году, говорил мне теперь: "Да, благодаря Ак Падишаху у нас уже три года небыло разбоев. Теперь же [л. 39 об] гоняин нами стада без боязни в пески."
+- For an entire year there has not been a single clash (столкновения) between Russian troops and the locals (39b).
+    - Minor disagreements are resolved through the mutual intervention of the local bek and the garrison commander (39b): ... а мелкия недоразуменения решались к обоюдному удовольствию соглашением Начальника Гаризона с Каркинским Беком
+- The situation is made easier by the fact that there aren't actually that many Russians present, compared to Charjuy (39b): Надо сказать при этом, что такое благополучное положение значительно облегчается тем, что в Кар[ки] почти нет Русскаго гражданскаго населения и это, в отличие от города Чарджуя - чисто военный пункт. Правда, около лагер, рядом с караван сараем, выстроенным беком есть десять или двенадцать частных барачных построек в том числе содержимая каким-то Кавказским уроженцем "Гостинница Лондон с номерами," но все это народ мелкий, покорный, самостоятельнаго значения неимеющий.
+- Garrison commander and local bek are on excellent terms (39b).
+- Karki has for some time been governed by Ir Nazar Udaychi, but the Emir recently called him to meet him (the Emir) in Shahrisabz to receive rewards and accolades (40).
+    - The Emir calling regional begs to him in Shahrisabz is mentioned in a number of [[the native informant reports|Perepiska Glavnogo shtaba o vnutripoliticheskom polozhenii v Bukhare i Afganistane (RGVIA 483-1-132)]], but it unclear why Shahrisabz specifically.
+- The Emir does not like the popularity of Russian troops, and looks with suspicion upon any locals who work with them (40).
+
+Он [i.e. the Amir] в свою очеред, старается приобрести расположение Эрсаринцев и в этих видах вызывал к себе в Шахрисябз всех Туркменских главарей, обласкал их и наградил. Последние, таким образом, оказываются вдвойне в вытрате, но, впрочем Бухарские чиновники теперь, в пределах однако присвоенной Эрсарницам автономии, смелее появляются и распоряжаются среди них, чем  прежде. 
+[Revisit: try to discern those words and figure out his point about autonomy]
+
+[Local legal system]
+
+Действующий в Бухарском Ханстве мусульманский писанный / шариат / очень суров и многия приступления карает смертью. Для приведения в исполнение смертнаго приговора, постановленнаго Казием / Судей / Бек должен испросить конфирмациию Эмира, но, по получении конфирмации, производить казнь у себя на месте. Обыкновенно для этаго выбирается базарная площадь города, где фивет Бек и базарный день. Казнь через переезание горла. Совершается публично и труп ост[ает]ся для два-три на площади, для устрашения. Когда я был в Керки в прошлом году, то, проежал раз мимо базара, видов на земле [л. 41] труп одного убийцы, казненнаго незадолго перед тем. Такой порядок соответствует нравам и взглядам Бухарцев, но по невом коробить русских. Теперь оказывается, что из уважения к Русским, смертная казнь более не совершается в Карки, а преступников, подлежащих таковой, отправляют в отстоящий оттуда в 160 верстов город Карши.
+
+- Reports that trade has increased since the Russian presence, both with Russia and Afghanistan - traffic towards Maymana (e.g. Russian sugar, manufactured goods, copper ware) (41).
+    - Mentions prices in Afghanistan from "an Afghan source" (достоверным сведениям из Авганскаго источника) (41).
+- Says that barrack life is very good; adequate space for officers' families (41b): Жени и дети г. г. Офицеров не живут теперь, как в начале, под арбами, а в домах, которые нетолько семейные, но и холостьи себе поступли в лагаре, стоимостью от 250 до 600 рублей.
+- Officer culture and recreation at the garrison (42): Посереди находится Военное Собрание не дурной архитектуры, где бывают людительские спектакли и теперь состоялся симпатичный семейний вечер, на коем танцовало десять пар. Право трудно было себя представить, что находился в стране Эрсаринцев, во 56 вестах от Авганской страницы.
+- The worst months are June, July, August, which bring fevers (42).
+- Locals go to Charjuy thrice per week; sometimes an officer will be commanded to go there as well for mail. It takes 3 days on a local boat (каюк) to get there, and 12 days back against the current (42b).
+    - Author tested a steam ship (параход "Царь") on his way to Karki from Charjuy; the trip demonstrated the importance of knowing the river very well (42b).
+- The road for wheeled traffic (колесая дорога) between Karki and Charjuy is poorly maintained (42b).
+- The Телеграфное ведомство surveyed the region, but determined that it [was impossible for some reason that is obscured in the text] - though it is much desired both by the Bukharan govt., and local residents (42b-43).
+- Pol. agent reports after his trip to the Bukharan Emir that the population in Karki is much more compliant than even the last time he visited (43): ... и добавли, что по сравнению с прошлым, я мог заметить среди населения этой далекой местности значительно менее дикости и более послушания по отношению к Бухарскому Правительству. Это замечание доставило Его Высокостепенству видимое удовольстви
+
+[Signed] Н. Чарыков.
+

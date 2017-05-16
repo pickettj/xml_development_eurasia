@@ -1,0 +1,102 @@
+TagCloudPlugin
+
+@systemconfig @primary_source
+
+/***
+|Name|TagCloudPlugin|
+|Source|http://www.TiddlyTools.com/#TagCloudPlugin|
+|Version|1.2.0|
+|Author|Eric Shulman|
+|Original Author|Clint Checketts|
+|License|unknown|
+|~CoreVersion|2.1|
+|Type|plugin|
+|Requires||
+|Overrides||
+|Description|present a **cloud** of tags using proportional font display|
+## Usage
+<<<
+{{{<<tagCloud>>}}}
+## show all tags in the document
+{{{<<tagCloud tag tag tag...>>}}}
+## show all tags except those listed as parameters
+{{{<<tagCloud =tagvalue>>}}}
+## show only tags that are themselves tagged with the indicated tag value (i.e., ~TagglyTagging usage)
+<<<
+## Examples
+<<<
+{{{<<tagCloud>>}}}
+<<tagCloud>>
+----
+{{{<<tagCloud =package>>}}}
+<<tagCloud =package>>
+<<<
+## Revisions
+<<<
+2008.09.05 [1.2.0] ELS: added **=tagname** parameter to include only tags that are themselves tagged with the specified value (i.e., ~TagglyTagging usage)
+2008.07.03 [1.1.0] ELS: added **segments** property to macro object.  Extensive code cleanup
+<<<
+## Code
+
+        -/
+//{{{
+version.extensions.TagCloudPlugin= {major: 1, minor: 2 , revision: 0, date: new Date(2008,9,5)};
+//Created by Clint Checketts, contributions by Jonny Leroy and Eric Shulman
+
+config.shadowTiddlers.TagCloud="<<tagCloud>>";
+
+setStylesheet("\
+	.tagCloud span{height: 3.5em;margin: 3px;}\
+	.tagCloud1{font-size: 80%;}\
+	.tagCloud2{font-size: 100%;}\
+	.tagCloud3{font-size: 120%;}\
+	.tagCloud4{font-size: 150%;}\
+	.tagCloud5{font-size: 180%;}\
+	.tagCloud6{font-size: 200%;}\
+	",
+	"tagCloudsStyles");
+
+config.macros.tagCloud = {
+	noTags: "No tag cloud created because there are no tags.",
+	tooltip: "%1 tiddlers tagged with **%0**",
+	segments: 5,
+	handler: function(place,macroName,params) {
+
+		var tags=store.getTags();
+
+		if (params.length) {
+			if (params[0].substr(0,1)=="=") {
+				// include only specifically tagged tags
+				var tagged=store.getTaggedTiddlers(params[0].substr(1));
+				for (var t=0; t<tagged.length; t++)
+					tagged[t]=tagged[t].title;
+				for (var t=0; t<tags.length; t++)
+					if (!tagged.contains(tags[t][0])) tags[t][0]="";
+			} else {
+				// include all tags except those listed as params
+				for (var t=0; t<tags.length; t++)
+					if (params.contains(tags[t][0])) tags[t][0]="";
+			}
+		}
+
+		// get maximum number of tags to calculate tagCloud segment sizes
+		var mostTags=0;
+		for (var t=0; t<tags.length; t++) if (tags[t][0].length > 0)
+			if (tags[t][1]>mostTags) mostTags=tags[t][1];
+		var tagSegment=mostTags/config.macros.tagCloud.segments;
+
+		// output
+		var tagCloudWrapper = createTiddlyElement(place,"div",null,"tagCloud",null);
+		if(!tags.length)
+			createTiddlyElement(tagCloudWrapper,"span",null,null,this.noTags);
+		else for (var t=0; t<tags.length; t++) if (tags[t][0].length > 0){
+			tagCloudWrapper.appendChild(document.createTextNode(" "));
+			var theTag = createTiddlyButton(tagCloudWrapper,
+				tags[t][0],this.tooltip.format(tags[t]),onClickTag,
+				"tagCloudtag tagCloud" + (Math.round(tags[t][1]/tagSegment)+1));
+			theTag.setAttribute("tag",tags[t][0]);
+		}
+	}
+};
+//}}}
+

@@ -1,0 +1,31 @@
+Gulomov, "O nekotorykh podlinnykh dokumentakh iz kollektsii rukopisnykh proizvedenii fonda Instituta Vostokovedeniia AN RUz"
+
+@tash_biruni @bibliography @catalog @primary_source
+
+[[Repository Index]]
+
+Notes from 6/11/2012 meeting with Sanjar Gulomov
+
+- Article is already a published in a collection of articles coming out of Japan - in the mail.
+- This article is about the Institute's lesser-known document collection that ended up in the manuscript collection erroneously.
+- He is partly drawing attention to this because the *actual* document collection is essentially closed to researchers until Goliba Juraeva publishes the catalog.  Sanjar says it is nearly finished, which probably means it is a decade away.
+- Sanjar does not fully understand why these collections of original documents were ever even collated - which he thinks is an interesting question in its own right.  Part of the reason may be analogous to that of the *jung* - i.e. to pass on to future generations.
+
+## Sandzhar Gulomov, "O nekotorykh podlinnykh dokumentakh iz kollektsii rukopisnykh proizvedenii fonda Instituta Vostokovedeniia AN RUz"
+
+- The document collection is separate from the manuscript collection.  It consists of 88 folders, 2500 specimens (1).
+- A major part of the collection is *insha'*, defined as: "... которые включают в себя копии административных и частных документов, как грамоты, выданные правителями разным лицам, переписка власть предержащих, переписка видных личностей" (1).
+- Unlike the insha' (which by definition are copies of official correspondence), original collections (such as [[Mubāraknāmajāt-i Amīr Muẓaffar biqāżī Muḥī al-Dīn (al-Biruni 407)]]) were included in the manuscript collection because they were collated in such a way that they *appear* to be manuscripts.  "... в коллекции рукописных произведений ИВ АН РУз (но не в коллекции документов) встречаются и подлинные документы, которые собраны в один том... Каждый том этих сборников оформлен как обычная рукописная книга.  На наш взгляд, именно из-за своих внешних атрибутов они попали в коллекцию рукописных произведений..." (2).
+    - One such document collection (which he identifies by СВР "История", оп №959) includes documents related to madrasas.
+- Sbornik 1740: Official correspondence of Muzaffar.
+    - Fatwas: "Кроме писем-распоряжений в этой коллекции имеются 32 *ривайата* под номерами 902-934" (3).  
+- Discusses [[Mubāraknāmajāt-i Amīr Muẓaffar biqāżī Muḥī al-Dīn (al-Biruni 407)]] directly, posing the question as to why it was described in [[Semenov|Semenov, ed., Sobranie Vostochnykh Rukopisei Akademii Nauk Uzbekskoi SSR]] since it is obviously not a manuscript (3).
+- From the bottom of p. 3 the article moves to discuss documents that: "... по сей день оставались вне поля зрения документалистов, хотя состоят из солидных коллекций подлинных документов" (3).
+    - Inventory number 9530: includes 70 original documents.  Of them 68 are rivayat and two are legal suits (3).  They are most likely the product of a Tashkent qazi from the Russian period (4).
+    - Inventory number 6102: constitutes the biggest rivayat collection at al-Biruni, including 612 original documents, 609 of which are rivayyat.  Also appears to be from Tashkent, dealing with vaqfs in Tashkent (4).
+    - Inventory number 9749: 445 documents, of which 442 are rivayat.  This collection is from Bukhara during Abd al-Ahad (4).  P. 5 Gulomov puts together a family tree of the mullas writing the documents (5).
+    - Inventory number 2588: astrological writings, divination.  Also 151 rivayat.  This collection was the personal archive of Qazi Sayyid Kamara (5).  Also has some documents appointing a mudarris and qazi (6).
+        - Pages 6-7 go on to describe these appointment documents in great details.
+        - My notes: [[Personal Archive of Qazi Mir Sayyid Qamar (al-Biruni 2588)]]
+- Bottom line on the collection's contents: "Итак, теперь мы знаем о существовании 1456 подлинных документов в составе сборников под номерами 9530, 6102, 9749, 2588, хранящихся в фонде рукописей ИВ АН РУз. Кним следует добавить 2315 подлинников из состава сборников №1740 и 407, которые в результате некорректого критерия отбора, были описаны в СВР... Иными словами, в нашем распоряжении четыре сборника из архива бухарских судей и два сборника, принадлежащие архиву ташкентских судей" (8).
+

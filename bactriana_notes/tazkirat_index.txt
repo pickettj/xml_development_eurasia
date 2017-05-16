@@ -1,0 +1,81 @@
+Tazkirat Index
+
+@index @tazkirat @primary_source
+
+[[Master Index]]
+
+#### Of the Poets, Poetic Anthologies
+
+- [[Vażiḥ, Tuḥfat al-Aḥbāb fi Taẕkirat al-Āṣḥāb]] 1870
+    - Persian.  Widely copied, copies both in Tajikistan and Uzbekistan.  Also a 1977 Dushanbe edited edition.  My notes are from a scan I have from a Dushanbe copy.
+    - Progress: About halfway through, all entered in database.
+- [[Shar'i, Tazkirat al-Shu'ara-i Haji Azim Shar'i|Taẕkirat al-Shuʿarā-i ʿAbd al-ʿAẕīm Sharʿī (al-Biruni 3396/III)]] (تذکرة الشعارای حاجی عظیم شرعی)
+    - Two copies at al-Biruni: Semenov 5 p. 79; 3575, 3396/III 
+- Pirmasti: [[Afżāl al-Taẕkār fi Ẕikr al-Shuʿarāʾ va al-Ashʿār (al-Biruni 2303)]] افضل التذکار فی ذکر الشعراء و الاشعار نگاشتۀ افضل مخدوم پیرمستی written 1903
+    - Two copies at al-Biruni: Semenov 5, p. 81; 3579, 2303
+        - Also: افضل التذكار في ذكز الضعراء و الاشعار Semenov 1, p. 141; 346, 63
+- [[Hashmat, Tazkirat al-Shu'ara-i Hashmat|Ḥashmat, Taẕkirat al-Shuʿarāʾ (al-Biruni 2728, 61)]] تذکرة الشعرای میر صدیق حشمت , written 1904-5
+    - Semenov 1, p. 141; 343, 2728/II; the second volume is #61.
+- [[Taẕkirat al-Shuʿarā-ī ʿAbdallah Khwājah ʿAbdī, 1904]]
+    - Persian.  Widely copied and also facsimile edition published in Dushanbe in 1983.
+    - Covers 118 individuals, mostly Bukharan intellectuals, but also a few Iranians and Afghans
+    - Progress: Minimal.  *check to see if they have this at Alisher Navoi*
+- [[Ṣadr Żīāʾ, Taẕkār-i Ashʿār]], 1907
+    - Persian.  Not copied widely (as far as I know), but there is an excellent Iranian edited edition that also draws supplementary information from Zia's other works.
+- [[Tazkirat al-Shu'ara-i Muhtaram|Ḥājī Niʿmatallah, Taẕkirat al-Shuʿarā-i Muḥtaram (al-Biruni 2252 II)]] (تذکرة الشعرای محترم by محترم حاجی نعمت الله) written 1908
+    - Includes poets from the 19th and early 20th centuries. There are two copies, the author's own draft in Tajikistan (which has been edited and published) and one copied by Sadr Zia in Uzbekistan. Not completed. The Zia version has an additional conclusion.
+    - 1975 published Dushanbe edition.
+    - Progress: none.  *check Alisher Navoi*
+- [[ʿAbd al-ʿAẓīm Muḥammad Sāmī, Mirʾāt al-Khayāl (IVRSP C 1943)]]
+    - Mostly in verse, written to praise Abd al-Ahad.
+
+#### Of the Calligraphers
+
+- [[Taẕkirat al-Khaṭṭāṭīn-i Mīrzā Muḥammad Sharīf al-Mutakhallas bil-Żīāʾ (al-Biruni 1304/III)]]
+    - Persian, written in 1936.  
+    - In many ways a bunch of mini-biographies about Sadr Zia's friends amongst the Bukharan high elite.
+    - Progress: almost done reading and note-taking, entered into database along the way
+
+#### Of the Ulama
+
+- [[Marjānī, Wafiyyat al-Aslāf, 19th century]]
+    - Arabic, finished after 1889 (date of the last entry). 
+    - Unique manuscript, currently unpublished, available in Nauchnoi biblioteki Kazan National University
+    - Covers ulama from the entire Islamic world; original material on Tatar and Transoxiana ulama
+    - Progress: partially examined, examined entries in database
+- [[Ramzī, Talfīq al-Akhbār wa Talqīḥ al-Athār fi Waqāʾiʿ Qazān wa Bulghār wa Mulūk al-Tatār (1908)]]
+    - Famous, printed source (though only a few copies exist due to crack-down by Tsarist authorites)
+    - Combined history and tazkirat
+    - Progress: minimal
+- [[Muʿallimī, Aʿlām al-Makayyain]] اعلام المكيين من القرن التاسع إلي القرن الرابع عشر الهجري
+    - Arabic, published (but rare) source in Mecca.
+    - Details scholars who visited Mecca on the hajj; I scanned the entries with Central Asian nisbats.
+    - Progress: partially examined, not entered into database
+- [[Ḥāfiẓ, ʿUlamāʾ Dimashq]]
+    - Modern edited edition.  Only have a scan of one entry.
+    - Progress: Notes taken, not entered in database.
+
+#### Of the Sufis
+
+- [[Biografiia sheikhov Naqshbandiia i Mudzhadddidiia (untitled - IVRSP C 2019-2)]]
+- [[Dhikr-i Junāb Mustaghnī al-Alqāb Shaykh Saʿd al-Dīn Aḥmad Anṣārī (Anonymous), IVRSP C 1404-5]]
+- [[Taẕkirah-i Ṭāhir Īshān (aka Silsilah-i Khwājagān-i Naqshbandiyyah) (al-Biruni 855/I)]]
+    - Persian, covers Naqshbandi shaykhs up to the middle of the 18th century.
+- [[Taẕkirat-i Ḥażrat Majẕūb Namangānī (al-Biruni 2662/II)]]
+    - Persian, written in second half of 18th century.
+- [[Mir Musayyab Bukhari, Kitab-i Maqamat-i Mashayikh (SPbGU 854)]]
+
+#### Unique Memoirs or Detailed Biographies
+
+- [[Tarjuma-i Ḥāl-i Qāẓī Jumʿa-Qul Khamūlī]], 1836
+    - An autobiography that also turns into something of a tazkirat of Khamuli's majuddiya order.
+    - Unique manuscript available only in Tajik Institute or Oriental Studies; have a full scan
+    - Progress: fully read, mostly finished taken notes, almost no entry into database
+- [[Muhammad Ḥisari, Yāddāshthā, 1268-1296]] 1880
+    - Progress: fully read and annotated, not entered into database
+- Hashmat's Autobiography درّة التاج 
+    - Available at al-Biruni: Semenov. 1, p. 140; 341, 2513/II
+- Tarjuma of Sadr Zia's father Zia Shukuri (ترجمه احوال حضرت والدم طاب ثمراه و آبأ و اجداد شان بسمهم الله) ([[Link|Ṣadr Żīāʾ, Ẕikr-i Chand Nafar-i ʿUlamāʾ-i Mutabbaḥir-i Nāmdār, al-Biruni 1304/IV]])
+- [[Saʿādatallah, Luṭf-i Buzūrg (IVRSP B 1932)]]
+- [[Dhikr-i Junāb Mustaghnī al-Alqāb Shaykh Saʿd al-Dīn Aḥmad Anṣārī (Anonymous), IVRSP C 1404-5]]
+

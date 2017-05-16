@@ -1,0 +1,6 @@
+$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint
+
+@primary_source @archival
+
+960px
+

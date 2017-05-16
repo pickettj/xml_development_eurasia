@@ -1,0 +1,33 @@
+Kun, "Predislovia" / coobshcheniia o Iskanderkul'skoi eksp., mirzi Abdurrakhmane, tseli i khode issledovaniia (AV F33 O1 D218)
+
+@pburg_instvost @travel_account @vostokovedenie @linguistics @primary_source
+
+[[Fond 33, A.L. Kun]]
+See also notes from [[Abdurrakhman's Tajik-language diaries|Dnevnik mirzy Abdurrakhmana, vedennyi vo vremia puteshestviia po Bukhare i ee okrestnostiam (AV F33 O1 D217)]].
+
+## A. L. Kun, "Predislovia" / coobshcheniia o Iskanderkul'skoi eksp., mirzi Abdurrakhmane, tseli i khode issledovaniia F33 O1 D218.
+
+- Sent on a reconoitering expedition (рекогнисцировачнымъ отрядомъ) General Маіора Абрамова (1).
+- Primary goal of expedition was to collect матеріалы для ислѣдованіи языка таджиковъ по долинам  Заравшана и его притоковъ и приблизи (1).
+- Looking for traces of the ancient: При этомъ жѣ (?)  было возможно собрать свыденія какъ объ этнографическому туземцевъ такъ и объ остаткахъ древностьей въ краѣ (1).
+- Goal 1 for the diary: Studying the Tajik language. Въ виду крайне скудныхъ матеріаловъ о таджикскомъ нарѣчіи Туркестана я просилъ послѣдяго (мирзу) вести по таджикски путевой дневникъ снабдивъ его двя этой цѣли преддворительно составленной програмой на тадфикскомъ языкѣ, ближкой (sic.) по сущности къ програмамъ изданнымъ Географическимъ Обествамъ (1).
+- Goal 2: Geographic information. Поручая мирзѣ вести дневниъ я просилъ по возможности точные опредѣлять названія мѣстностей (1b).
+- Kun also kept his own records, which he synchronized with those of the Mirza (1b).
+- Kun used his conversations with the Mirza to try to pick out the peculiarities of Tajiki: Въ этихъ бесѣдахъ я напрягалъ всѣ усилія, чтобы уловить въ обривистыхъ (sic.) разсказахъ туземщевъ слова мѣстныя, на которыя также было обращено вниманіе и мирзы" (1b).  He would record these words in his own diary.
+- He sought to collect дорогой показанія, сказки, пѣсни и легенды as well as inscriptions (записанныя) of the mountain natives, but he was not successful in this everywhere (1b).
+- There were plenty of literate Tajiks up the Zarafshan Valley (1b); the problem was that they did not know the cause (повод) of the armed education and so would take to the mountains: ....бегъ укрывались съ семействами въ горы.  Насъ встрѣчали въ опустѣломъ кышлакѣ пять десять лицъ и тѣ сейчасъ же захватывались для распросовъ на все время стоянки нѣкоторыми изъ членовъ экспедиціи" (2).
+    - При обратномъ движеніи хотя народъ убывившись что мы пришли не воевать и выходили къ намъ на встречу толпами, но по бысро ту движенію отряда не всегда и не вездѣ удавалось отыскать необходимыхъ людей (2).
+    - Ultimately, he could only find people to personally record (собственноручно) folklore for him (2).
+        - *Here he is essentially creating a written dialect.*
+    - Even in the recording of these tails there was an emphasis on discovering "мѣстныхъ словъ" (2).
+- Mentions that one of the highlights of his trip was encountering two poets who composed original poetry for him: Крайне пріятна была мнѣ находка въ Хубгифѣ двухъ поэтовъ, сочинившихъ пѣсньни.  Эти пѣсьни записаны собственноручно авторами" (2b).
+    - *Point illustrates the extent of the Persianate world; even small villages had a few*
+- (roughly) - he took a lot of etchings of various ancient writing on stones, etc., but is not really impressed with the historical value of any of it.
+- In his journal he refers to the @@full name@@ of his agent as Мирза  Мулла Абдурахман сыномъ Махметъ Лятиера Мустаджира (4).
+    - Kun adds that he is a Samarkand native and pure Tajik: ... Самаркандскимъ урожѣнцомъ чистымъ тадфикомъ" (4-4b)
+        - *though one notes that some of the diaries Abdurakhman wrote were in Uzbek, such as* F33 O1 D221: Дневник мирзы Абдуррахмана, веденный во время хивинского похода.
+    - Abdurakhman's education: Мирза получилъ образованіе въ одной изъ школъ / мектебъ ханѣ Самарканда и около двухъ лѣть провелъ въ медресэ.  Специальностью своею (sic.) избраль обязанности мирзы для чего главное у него было усовершенствоваться въ калиграфіи. Благодаря только этому направленію рѣчь его совершенно одинакова съ говоромъ просто-народнымъ.  Въ ней весьма мало встрѣчается арабскихъ словъ и чисто персидскихъ оборотовъ.  (*marred, incomplete sentence*) Вслѣдствіе этого и дневникъ чуждыф напыщенный громкий фразъ арабскихъ и персидскихъ, которыми такъ щедро пересыпаютъ улемы свою рѣчь" (4b).
+        - __Note__ one of Dehkhoda's definitions of میرزا; the primary definition is امیرزاده, i.e. prince, but an auxiliary one is: کاتب و نویسنده و منشی
+        - Encyclopedia Islamica, "Mīrzā", R. Levy: "The title, in addition to bearing its original significance, was also given to noblement and others of good birth, thus corresponding to the Turkish Agha.  Since the time of Nadir Shah's conquest of India, it has been further applied to __educated men outside of the class of *mullas* or //ulama//__.  
+        - *This is a very intriguing sentence; note that Kun separates between Persian and Tajik starkly, valuing the latter. He was also a huge proponent of Russian schooling, and seems to be deriding the ulema in this sentence.*
+

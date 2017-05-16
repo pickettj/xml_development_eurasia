@@ -1,0 +1,58 @@
+Muʿallimī, Aʿlām al-Makayyain
+
+@arabic @tazkirat @primary_source
+
+[[Arabic Sources]]
+
+## ʿAbdallah bin ʿAbd al-Raḥman bin ʿAbd al-Rahīm al-Muʿallimī, Aʿlām al-Makayyain min al-Qarn al-Tāsiʿa ʾilā al-Qarn al-Rābiʿa ʿAshar al-Hijriyy, Part 1, (Muʾassasat al-Farqān lil-Turāth al-Islamī Farʿ Muʾassasat Makka al-Mukarrama wa al-Madīna al-Munawwara
+
+اعلام المكيين من القرن التاسع إلي القرن الرابع عشر الهجري
+عبد الله بن عبد الرحمن بن عبد الرحيم المعلّمي
+مؤسسة الفرقان للتراث الإسلامي فرع موسوة مكة المكرمة و المجينة المنورة
+
+__Ahmad bin Muhammad bin Husain al-Bukhari al-Maki__ آحمچ بن محمد بن حسين البخاري المكّي (p. 276)
+
+- ? - 938 h.
+- The briefest of the Bukhari entries. It does not explicitly say when / if he came from Central Asia and the timeperiod is pretty early anyway - he died in 938 Hijri.  That said, he studied (قرأ على) under a guy named Fahd al Qarshi فهد القرشي (among others).
+
+__Akhundkhan bin Muhammad Hadi bin Muhammad Murad bin Idris al-Bukhari al-Mirghinani__ أخوندخان بن محمد هادي بن محمد مراد بن إدريس البخاري الميرغيناني (p. 276-277)
+
+- 1243-1320 h.
+- He was born in his own country (ولد ببلده  و حفظ القرآن الكريم), which was presumably Bukhara or Margilan, and migrated to Meca for the Hajj.
+- He roosted in Madina for a while and learned what he could from the Ulama there, such as الشيخ الحدّث المدددي from who he learned a great deal about the hadith and tafsir and fiqh (277).
+    - This Shaykh gave him permission to spread his views and rulings: و أجازه بسائر مروياته
+    - He also studied under الشیخ الخرنوبی
+- Then he moved to Mecca and settled there and presided over teaching (تصچر للتدريس) at the المجد الحرام.
+- This scholar then in turn gave permission to الشیخ عبد الله مرداد أبو الخیر to teach his views.
+
+__Muhammad Ali bin Muhammad Vali al-Bukhari al-Hanafi__ محمد علي بن محمد ولي البخاري الحنفي (p. 277).
+
+- 1015 - 1070 h.
+- An ustath in المسجد الاحرام
+- Born in Mecca.
+- Hafiz; permission (إجازة) to recite different texts by their masters is clearly a very important part of this tradition.  Also lists who he "took" (أخذ) fiqh from.
+
+__Muhammad bin Muhammad bin Muhammad al-Bukhari al-Rumaithi__ محمد بن مجمد بن مدمد البخاري الرميثي, شمس الدين, أبو المجد (p. 278).
+
+- 818-890 h.; This guy is a little on the early side, but the entry has more details on his activities in Central Asia than usual; it is interesting that he traveled from Bukhara to Samarkand for learning (see below).
+- Born and raised in Bukhara; memorized the Quran (just like everyone else) as well as other important texts.
+- Studied with محمد الزاهدي المتوفي بالمدينة  and ثم على قاضي بخاري و سمرقند محمد المسكين
+- Traveled from Bukhara to Samarkand for learning, not vice versa: و رحل إلى سمرقند و أخذ عن علمائها و قطنها
+- This guy was a serious traveller; he visited Mecca, Baghdad, Jerusalem, Cairo, and Sham (Damascus, presumably), learning everywhere he went: و تلقی عن علماء كل بلد من هذه البلدان.
+- Eventually he settled down in the Shaikhdom of Mecca (استقر في مشيخة الباسطية المكية) in 859 h.
+- In Mecca he became Imam for all of the Hanafi Maktab there:  و تولى إمامة مقام الحنفية بها in 867 h.  This guy rose all the way to the top.
+- Interestingly, he simultaneously taught the doctrine of Hamadani (*Naqshbandi by this point?*): ... و تدريس درس الخواجا الهمداني بمقام الحنيفة
+    - @@interesting@@ In Mecca, it seems, the Hamadani sufi order is associated with the Hanafi maktab.
+- He authored a number of grammatical works: شرح المقدمة الأجرومية, و شرح تنقيح اللباب, و كلاهما في النحو
+
+*There are also entries for a Samarqandi and a Balkhi, but the Samarqandi was born in Mecca and there is little information on the Balkhi*
+
+__Muhi al-Din bin Sabir bin Dhakir Khalifa bin Abdallah Khalitat al-Kashghari al-Bukhari__ محي الدين بن صابر بن ذاكر خليفة بن عبد الله خليفة الكاشغري البخاري (p. 786).
+
+- 1311-1369
+- Initial training in Kashghar, where he learned all manner of Islamic sciences.
+- Travelled to Bukhara in 1328 (*note the date - 1910 AD*) where he studied المنطق و الفلسفة from __الشیخ محمج مرزا منجان__ and شرح العقائد النسفية under __داملا الأسود__.
+- Then he travelled to Madina by way of Syria (Sham), where he stayed (i.e. in Madina) for some time studying Hanafi fiqh and hadith, eloquence (بَلاغَة), and tafsir.  Later he returned to Damascus where he studied hadith and got an إجازة عامة from one of th emasters there.
+- After that he went to Mecca, where he died after teachin gat the المدرسة الصولتية
+- *this is an important entry illustrating the educational networks at a rather late stage in the game.*
+

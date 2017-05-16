@@ -1,0 +1,6 @@
+$:/themes/tiddlywiki/vanilla/metrics/storywidth
+
+@primary_source @archival
+
+770px
+

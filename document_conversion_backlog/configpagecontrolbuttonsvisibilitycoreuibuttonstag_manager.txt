@@ -1,0 +1,6 @@
+$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/tag-manager
+
+@primary_source @archival
+
+show
+

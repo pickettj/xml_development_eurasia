@@ -1,0 +1,114 @@
+Muʿīn al-Fuqurāʾ, Risālah-ʾi Mullā Zādah, 1219
+
+@manuscript_persian @tash_biruni @poetry @bukhara @primary_source
+
+[[Manuscripts Index]]
+
+//Note: Do to a digitization error, I initially misidentified this manuscript as Ḥājī Abd al-ʿAẓīm, Tadhkirat al-Shuʿarāʾ, 1277-1285 [[Semenov, ed., Sobranie Vostochnykh Rukopisei Akademii Nauk Uzbekskoi SSR]], vol. 5 p. 79; 3575, 3396/III//
+
+This text is identified as تذکرة شیوخ بخارا in [[Frolova, Arabskie rukopisi Vostochnogo otdela Nauchnoi biblioteki Sankt-Peterburgskogo gosudarstvennogo universiteta]].
+
+- Like al-Biruni's copy, the Vostfak SPGU copy is one of many chapters.  In the Vostfak case the first chapter is طبقات الحنفیة (Arabic, 1b-62b); the second, short work is a short Hanafi treatise about various reliigous issues; the third is noted هذا كتاب السوانح مصنفه بهأ الديم العاملى (p. 73-99); and then the fourth being Mu'in al-Fuqara's work (101-149b).
+
+## Aḥmad bin Muhammad Muʿīn al-Fuqarāʾ’s Risāla-i Mullā Zāda, ms. IVANUz no. 3396/I
+Author: احمد بن محمد "معین الفقراء
+Work: رسالۀ ملا زاده; in other copies, sometimes تاریخ ملا زاده or کتاب ملا زاده
+
+Catalog: [[Semenov, ed., Sobranie Vostochnykh Rukopisei Akademii Nauk Uzbekskoi SSR]], vol. 5 p. 309; 3575, 3396/I
+
+- This manuscript was recopied many times; Semenov's remarks on this particular copy: Переписчик - ملا حسین بدخشی Мулла Хусейн-и Бадахши.  Даты списка нет (датируется, по-видмому, второй половиной XIX в.). Место переписки - Бухара (p. 309).
+- Semenov's general description of the work: ... содержит описание могил ученых, шейхов и государственных деятелей в Бухаре и ее окрестностях. В тексте рукописи упоминаются географические названия, которые не встречаются в других источниках, а также упоминаются не дошедшие до нас труды и их авторы, например, ابو عبدالله بن محمد بن احمد بن محمد بن سلمان کامل البخاری الوراق المعروف بغنجار الحافظ Абу Абдаллах б. Мухаммед б. Ахмед б. Мухаммед б. Салман Камил ал-Бухари ал-Варрак, известный под прозванием Гунджар ал-Хафиз... После текста трактата добавлен хадис об имаме Абу Юсуфе, багдадском кадии, и два анекдота, один о Ма'муне, другой о Джа'фаре.  Дата списка 1219/1804 г. (3979 / 4355, p. 303).
+
+#### Reflection
+This work truly blurs the line between Arabic and Persian; the author freely switches between the two even mid-sentence.  It will be interesting going forward to see if this was the norm for that milieu. Judging from the beginning, this work seems to be everything but a biography of poets; it is more of a legal work.  The majority of this work consists of description of the various sufi shrines in Bukhara and stories about those individuals.  It is kind of a pilgrimage manual.
+
+#### Introduction Praising God and Legends about Bukhara
+*The author opens this book about Bukharan poetry with an extensive discussion of Bukhara's origin, all the while emphasizing its sanctity and physically rooting the city's sacred history in Islam.  Some version of Devin DeWeese's nativization theory seems to be going on here.  Bukhara as the new regional center.  Also worth noting that it is more than clear from the author's style of argumentation that he is deeply schooled in the Islamic sciences - to an extent greater than, for instance, [[Muhammad Hakim Khan|Muḥammad Ḥakīm Khān, Muntakhab al-Tavārīkh 1842]].*
+
+2
+
+- After praising God, Muhammad, and all of the worthy followers on p. 1b, the author begins with history and legends of Bukhara's founding.
+- Mentions two apostasies from Islam in Bukhara (ارتدادی) that were defeated (دافع شد).
+- Mentions a mosque built in Bukhara by قتیبه in the year 94.
+    - Draws significance to the fact that it was built in the same 10 years that the Umayyad mosque was built in Damascus.
+- Begins another section quoting ربيع الأبرار by the writer most famous for the work كشاف; Faizollah clarified that this is Mahmud Zamakhshiri (محمود زمخشری), a famous Sufi. 
+    - From EI (by Versteegh): "... one of the outstanding scholars of later mediaeval Islamic times who made important contributions, first, in the fields of the linguistic sciences of grammar, philology, lexicography and the collecting of proverbs, in which sciences he was, despite his own Iranian descent, a __strong proponent of the the Arab cause__ vis-a-vis the Persophile partisans of the Shu'ubiyya; and second, in the field of theology an dQur'an exegesis, his approach to these being that of the __Mu'tazila__, of whom he may be considered as one of their last significant representatives."
+        - Ibn Batuta visited his tomb in Khwarazm.
+        - Lived 1074 or 1075 – 1143 or 1144.
+        - Traveled extensively and spent a great deal of time in Bukhara learning hadith (EI supplement by Maddelung).
+        - On al Kashaf: "... his efforts in explaining the Holy Book's grammatical, lexicographical and rhetorical features, variant readings and miraculous nature of its beautiful language earned him universal admiration... His rationalist Mu'tazili interpretations, however, provoked criticism among traditionalist Sunnis" (EI supplement by Maddelung).
+        - Tended to be anti-Sufi and often backed Shafi'i positions, even though he was from the Hanafi madhab (EI supplement, Maddelung).
+        - "His voluminous Rabi' al-abrar wa-nusus al-akhbar contains extracts from literary and historical works arranged according to 92 topics.  It was meant to be a companion reader to his Qur'an commentary" (EI supplmenet by Maddelung).
+
+2b
+
+    - From the Kashaf text, the author relays a hadith whereby the Prophet has a dialog with Gabriel in which Gabriel says that the city of فاخره is known in Persian as Bukhara; Muhammad asks why, and Gabriel responds that on Judgment Day Bukhara will be distinguished by the quantity of its martyrs: قال لأنها افتخر على المدائن يوم القيمة بكثرة الشهداء
+    - Quoting from the same hadith, author says that God blessed the denizens of Bukhara above all others.
+- In the next section (i.e. section signaled by red lettering) the author is quoting the Juvayni work تاریخ جهان کشای, which mentions Bukhara as the pivot of Islam (قبة الاسلام).  Then: نور فقها و علما اراسته و اطراف آن بطرف معانی پیراسته از قدیم باز د رهر قرنی بخارا مجمع علما دین آن روزگار بوده
+    - From EI (Barthold / Boyle): Djuwayni (623/1226-681/1283) was a Persian governor and historian, author of Ta'rikh-i djahangushay; son of a major collaborator with the Mongol conquerors who eventually became Sahib al-Diwan.
+        - Serving under the Mongols, this was the public official who drew up the terms of surrender of the Isma'ilis at Alamut.
+        - "The Ta'rikh=i djahan-gushay, which has considerably influenced historical tradition in the East, is for us also a historical authority of the first rank. The author was the only Persian historian to travel to Mongolia and describe the countries of Eastern Asia at first hand..." 
+        - The edited edition of this work is by Mirza Muhammad Qazwini; also translated by J. A. Boyle.
+    - Author gets into the etymology of the term Bukhara; alleges that the Magians (مغان) used the term to refer to the agglomeration of knowledge (مجمع علم); adds that the languages of the idol-worshiping Uighurs and Chinese supports this derivation as they call their idol temples Bukhar as well.
+    - Another name for Bukhara was: لُمْجُكْنَت
+- Next the author moves on to citing Narshakhi.
+
+3
+
+- Ghunjar's, as well as Asbat bin Alaysa, relay that Job was buried in Bukhara (2b-3): و از عبد الله بن المبارک رضی الله تعالی عنه منقولست فرمود اذا هاجت الفتنه فعلیکم بخارا فانّ الفتنة لا تدوم بها و امام محدث ابو عبد الله بن محمد احمد بن محمد بن سلیمان بن کامل البخاری الوراق المعروف بغنجا الحافظ که صاحب تاریخ بخارا است و اسباط بن الیسع است گفته اند که مزار منور ایوب علیه الاسلام در بخارا است
+    - There is a legend that the prophet Job (أيوب) came to Bukhara and was treated very well and in return he said a prayer for them.
+- Author quotes a scholar of the prophets of Israel that one of them went to Bukhara and gave three blessings: في سلام و نصر هم على عدو هم و باعد الفتنة عنهم
+- Another tradition also emphasizes Bukhara's sinlessness: اذا هاجَت الفتنة فعليكم بخارا فإنّ الفتنة لا تدوم بها
+
+3b
+
+- Quotes a guy I can't quite read to say that Job's shrine (مزار) is in Bukhara.  Author describes a tree that remains green in winter and a spring that comes from heaven near the shrine.
+    - However, no sooner has the author relayed this story than he says that it is not in fact true: قول صحیح آن است که مرقد مطهّر ایوب علیه السلام اینجا نیست
+    - Rather, Job's grave is in fact in a village near Damascus (see marginalia); it is next to a spring that is mentioned in the Quran.
+
+#### Section on Shrine Visitation: فصل في جواز زيارة القبور للرجال و النساء
+*At this point the author switches rather abruptly from a discussion of the legends of Bukhara to an in-depth legal analysis of the permissibility of grave visitation.  Perhaps he is concerned that having spelled out where different shrines are located, people might try to visit them.  In any case, it demonstrates where the bulk of his training lay.  It also indicates that shrine visitation was a contentious issue even back then.*
+
+3b
+
+- Sidenote: When this author praises the prophet, he says: صلى الله عليه و __آله__ و سلّم; *not sure if this added reference to the Prophet's family carries any significance vis-a-vis the Shia Sunni split*.
+
+4
+
+- At issue in the shrine pilgrimage debate is whether the Prophet visiting the grave of his mother is a privilege transferable to the population at large.  The author conveys a number of competing hadith, some which forbid it, some which permit it.  This entire section is pretty much in Arabic; not entirely surprising, given the topic.
+- There is a hadith where the Prophet asks God to forgive his mother for being a polytheist, is refused, but then asks to be allowed to visit her grave and is allowed to.
+
+5b
+
+- Interesting that the author goes through a bunch of hadith about grave visitation, some in favor, some against, then switches into Persian when talking most generally about the wisdom of علماء دين و كبراء
+
+6
+
+- These anonymous "ulama" concur that grave visitation is sunnat.
+- Author even cites a hadith (generally, not citing specific authors like when he was writing in Arabic) that visiting the graves of your father and mother is tantamount to the hajj: در حدیث است هر که پدر و مادر را زیارت کند هر هفته ... ثواب حج مقبول باید
+
+7
+
+- This page has some interesting nativization traditions for Bukhara regarding the hair of the prophet: منقول است که چند تار موی مبارک رسول صلّی الله علیه و آله و سلم در مقابر بخارا است
+    - قاضی امام شعبی
+    - استاد قاضی ابو زید دبوسی
+    - The most interesting reference is to the lock of hair kept with a Sogdian dihqan: و یکتار دیگر با دهقان سغدی است بر تل خواجه امام ابو بکر طرخان نزدیک مشهد صوفیان
+- Al this talk of shrines launches the author into a discussion of the proper ways to visit a shrine (آداب زایرت); here the author is cautioning against the dangers of engaging in the practices of the ahl al-kitab, such as kissing the shrine.
+
+8 
+
+- Prayers and instructions for visiting shrines, including specific instructions for visiting the great ones and places where relics - i.e. the Prophet's hairs - are kept (7b-8): بتربت بزرگی رسند که موی مبارک رسول صلی الله علیه و آله  و سلم در انجا ست در مواجه تعظیم تمام استند و گویند اسلام علیکم... (instructions for revering Muhammad's hair continue).
+
+10
+
+- Bukhara was conquered in the time of the companions, but none of their graves remain: باز بدانکه فتح بخارا در زمان صحابه و تابعین رضی الله تعالی عنهم اجمعین بوده است امّا مرقد مطهّر هیچ از صحابی و تابعی بقین و تعیین در بخارا مقرّر  نیست و بنقل صحیح ثابت شده است و مزار پر انوار خواجه اُهبان و کعب اخبار و محمد واسع رضی الله عنهم و غیرا ایشان از صاحابه و تابعین که در میان عوام بخارا شهرت یافته است از کتب معتبرۀ اهل نقل خلاف آن فهم میشود و در محل ذکر هر یک از ایشان آنچه واقع است مکتوب خواهد شد
+    - However, the ulama agree that if one's intention is pure, intervention will still take place even if you are mistaken about the identity of the shrine.
+
+15.  The Samanids (aside from Ismail, mostly just listing birth and death information; goes through p. 16b)
+
+- Ismail Samani: ذکر سلاطین سامانیه رحمهم الله تعالی چنانکه صاحب [النساب] فرموده است و از حافظ غنجار نقل کرده مکتوب خواهد شد المشهور منهم الامیر العالم العادل الناصح للرعیة ابو ابراهیم اسماعیل بن احمد بن سامان مولی امیر المؤمنین کتب الحدیث و خصته فی الغزو و العدل و حرمه اهل العلم و تقویتهم مشهورة معروفة ولادت او در فرغانه است در شوال سنه اربع و ثلاثین و ماءتین  و وفات او در بخارا است در صفر سنه خمس و تسعین و ماءتین  و مدّت حیات شصت یکسال بوده است و او از اولاد بهرام چوبین است منقول است که سلطان اسماعیل روز 
+
+16b
+
+- Source for all the Samanid stuff is Ghunjar: ابو عبد الله محمد بن احمد بن محمد بن سلیمان بن کامل البخاری الورّاق المعروف بغنجار الحافظ
+

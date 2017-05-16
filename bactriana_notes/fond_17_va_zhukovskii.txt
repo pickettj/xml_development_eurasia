@@ -1,0 +1,19 @@
+Fond 17, V.A. Zhukovskii
+
+@pburg_instvost @primary_source
+
+[[Archive of the Orientalists Index]]
+
+From the fond opis biography: Жуковский Валентин Алексеевичч (1858-1918), иранист, проф., чл.-корр. АН СССР.  В 1880 г. окончил СПб у-т по арабско-персидско-турецко-татарскому разряду ф-та восточных языков и был оставлен при у-те.  В 1883 г. защитил магистерскую диссертацию у уехал в Персию, где пробыл до 1886 г. В 1888 г. защитил диссертацию.  1892-1902 гг. - секретарь, а с 1902 г. по 1911 г. - декан ф-та восточных языков и одновременно с 1905 г. - директор Учебного отделения восточных язиков при МИД'e.
+
+Brief Notes
+
+- F17 O1 D103: A Persian-script translation of the Masnavi into a dialect.  Месневи на диалекте, приближающемся к диалектам полосы Исфагана.
+- F 17 O1 D82: Песни и таснифы на персидском языке и наречиях Седэ и Кешэ, грамматические заметки к ним, глагольные парадигмы, загадки, частью уже изданные и копия "Ми'радж-нама в 64 стиха на лурском наречии.  1884.
+    - Notice the pattern common with, for instance, [[Kun's work|Fond 33, A.L. Kun]].
+
+Index
+
+- [[Zhukovskii, Kratkii ocherk istorii persidskogo iazykf i obzor iranskikh dialektov polosy goroda Isfagana (F17 O1 D11)]]
+- [[Zhukovskii, Ocherk istorii postanovki vostokovednogo obrazovaniia na Zapade (AV F17 O1 D183)]]
+

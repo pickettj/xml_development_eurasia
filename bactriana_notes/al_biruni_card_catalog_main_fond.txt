@@ -1,0 +1,77 @@
+Al-Biruni Card Catalog (Main Fond)
+
+@tash_biruni @catalog @primary_source
+
+[[Repository Index]]
+
+Also see: [[Al-Biruni Card Catalog (Suleimanov Fond)]]; [[Topical Card Catalog Index (Al-Biruni, Main Fond)]]
+Jump to [[Semenov|Semenov, ed., Sobranie Vostochnykh Rukopisei Akademii Nauk Uzbekskoi SSR]] or [[Iusupova|Iusupova and R. P. Dzhalilova, Sobranie vostochnykh rukopisei Akademii nauk Respubliki Uzbekistan. Istoriia]]
+
+__Riwayat__ - These could very well be fatwa collections, but there is no date listed in the card catalog, and they do not seem to be in Iusupova or Semenov either.
+
+- روایت در خصوص دعوی P 2638-VI
+- روایات در خصوص ضرر رسانیدن اجنّه transcribed 1229, P 3211-X  [[Link to notes|Rivāyāt dar Khuṣūṣ-i Żarar Rasānīdan-i Ajinnah (al-Biruni 3211-X)]]
+- روایتها ی فقیه P 12746-I
+- روایت ها توپلامی (title unclear) P 9060-VIII
+- روایات محضرات و وصایا P 2844-II
+    - Semenov 5, p. 382; 4102 2844/II
+        - One of the last entries is dated 1330/1912.
+        - Contains sayings of Muhammad and practicalities of maintaining Muslim practice.
+- روایات مسائل شفرقه و مکتوبات P 2588-VI
+- روایات وثایق و سجلات  P 10895-I
+- روایت و حکایتلار P 3845 IV
+- روایت تقدم قاضی و مفتی علی کافه النشس transcribed 1255, P 11841
+
+__Akhlaq__
+
+- There are loads of copies of اخلاق محسنی by حسين بن على الكاشفي from all different periods.  Loads and loads on lithograph too.
+
+روزنامه P 2277
+
+- Author: قاضی محمد شریف صدر "ضیاء
+- This is the famous memoir by Sadr Zia; according to Babajanov, the Allworth sponsored translation is only partial; Aini's یادداشتها does not seem to be present.
+
+تأريخ طائفه فضلاء بخارا P 46 I
+
+- Author: ملازاده
+- Date: 1245
+- Said found this one for me.
+- Iusupova p. 354; 827, 5387/II (the original); also titled رساله ملازاده
+    - Copied many times; author lived in 15th century.
+    - "Распространненое в Центральной Азии, сочинение агиографического характера.  Одо содержит описание могил (мазаров) известных представителей духовенства, ученых и политических деятелей, погребеных в Бухаре и ее окрестостях, с некоторыми биографическими сведениями о них" (Iusupova, 354).
+    - Hence this is not about the 19th century, but it was reproduced like crazy in that period.
+
+حج نامه ذوقی P 11106
+
+- Author: ذوقی خوقندی
+- Date: 1318/1901
+- Language: Uzbek
+- Strange that this is the only hajnameh entry under ح
+
+__Tazkirat__
+
+تذکره العلماء؟ P 9189
+
+- Author: محمد بن سلیمان
+- Date: 1179
+- Language: َArabic
+- Pages: 135
+- Semenov 6, p. 545; 4990, 9189. 
+- This is actually a bibliographic work, not a biographical dictionary, and has no relevance to my topic.  Only interesting fact is that it was trasncribed in Peshawar in 1765.
+
+افضل التذکار مع تقریض محترم P 2303, P 849
+
+- Author: محمد بن سلیمان
+- Date: 1322
+- Language: Persian
+- Pages: 225
+- Note: this is Pirmasti's poetic tazkirat.  See catalog (Semenov 5, p. 81; 3579, 2303).
+
+ترجمۀ احوال قاضی عبد الشکور و دیگر P 1304-IV
+
+تذکره العلماء؟
+
+- Author: شریف جان مخدوم صدر ضیا
+- Language: Persian
+- Pages: 61
+

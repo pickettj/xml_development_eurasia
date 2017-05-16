@@ -1,0 +1,59 @@
+Kun's list of manuscripts kept in Kitab-city library (TsGARUz F i1 O 69 D 15)
+
+@archival_document @tash_tsgaruz @shahrisabz @primary_source
+
+[[Imperial Russian Sources]]
+[[TsGARUz Index]]
+
+## TsGARUz F i1 O 69 D 15, serial 116
+
+Same delo (and pdf file) contains report by Kun on archeological survey of Khujand (ff. 110a-112b) Dokladnaia Zapiska, No. 3, 11 ianvaria 1871 goda, Tashkent
+
+Опись книгамь собранным в Китабе (ff. 68a-69a)
+
+- Majmaʿ al-Gharāʾib, taṣnīf-i Sulṭān Muḥammad (68a): مجمع الغرایب تصنیف سلطان محمد
+    - A geographical work by Sultan Muhammad ibn Darwish Muhammad al-Balkhi. See Storey 1927-84, 2(1): 135-137.
+        - Commissioned by Pir Muhammad (d. 1567), ruler of Balkh, and uncle of Abdallah (McChesney, Waqf, 70).
+- Tārīkh-i Mawlānā Wāsifī (68a): تاریخ مولانا واصفی
+    - Possibly Zayn al-Din Wasifi's Bada'i al-Waqa'i
+- Tārīkh-i Sharaf’nāma-i Shāhī (68a): تاریخ شرف نامهً شاهی
+    - 1584-9 Hafiz-i Tanish: Sharaf-nama-i shahi
+- Ṣaḥīfat al-Aḥkām (68a): صحیفه الاحکام 
+    - Note: written ضحیقه الاحکام but transliterated as Сахфатуль ахкам and translated as Книга пирказаний.
+- Dīwān-i Mīrzā Shawkat (68a): دیوان میرزا شوکت
+    - Khwaja Shawkat of Bukhara went to Herat in 1088 hijri. Then he went to Mashhad, and ultimately settled in Isfahan, where he died (d. 1695/99). He was a poet of Sabk-i Hindi.
+- Taẕkira-i Dawlat’shāhī wa Murshīd Sharīf Rāqim dar yak mujallad (68a): تذکرهً دولت شاهی و میر سید شریف راقم در یک مجلد
+    - Author: Dawlat Shāh bin ʿAlā al-Dawla al-Bakhtīshāh al-Ghāzī al-Samarqandī. One of the few authors before the 16th century to have devoted a work entirely to poets, arranged more or less chronologically.
+- Khulāṣa al-Akhbār dar Tārīkh Chingiz wa Awlād-i way (68a): خلاصة الاخبار در تاریخ چنگز و اولاد وی
+    - Translation: Историия Чингис Хан и его потомков
+    - Author (?): Muhammad Khwandamir
+-  Jild-i Akhīr-i Tārīkh-i Rawżat al-Safāʾ Khwānd’shāh (68a): جلد اخیر تاریخ روضه الصفأ خاند شاه
+    - ‘The Gardens of purity in the biography of the prophets and kings and caliphs’ is a Persian history of the origins of Islam, early Islamic civilisation, and Persian history by Mīr-Khvānd, a Fifteenth-Century historian. The text was originally completed in seven volumes in 1497 (836 AH). The work is very scholarly, Mīr-Khvānd used nineteen major Arabic histories and twenty-two major Persian ones as well as others which he occasionally quotes. His work was the basis for many subsequent histories including the works of Hajjī Khalfah.
+    - Author: Mir-Khwānd (Mohammad ibn Khwāndshāh ibn Mahmud), born in Bukhara in 1433; spent much of career in Herat, died in Balkh.
+- Fatāwā-yi Ibrāhīm Shāhī (68b): فتاوای ابراهیم شاهی
+    - Author: Shahab al-Din Dawlatabadi (d. 849.1445)
+    - Ibrahim Shah ruled the Jaunpur sultanate from 1402-1440. A large number of scholarly works on Islamic theology and law was produced during his reign, which include the Hashiah-i-Hindi, the Bahar-ul-Mawwaj and the Fatwa-i-Ibrahim Shahi.
+- Natāʾij al-Afkār, sharḥ-i Hidāya (two copies - see below).
+- Natāʾij al-Afkār, sharḥ-i Hidāya bi-jild-i dīgar (68b): نتایج الافکار شرح هدایه بجلد دیگر
+    - Seems to be a commentary on the Hidaya by Ahmad ibn Mahmud Qadizada
+- ?? حاوی شرح دجیز کُروری وقف
+    - Mispelling of Quduri, section on waqf?
+- Mabṣūṭ-i Sarakhsī Waqf (68b): مبسوط سرخسی وقف
+    - Note Russian gloss.
+    - Probably section specific to waqf (?)
+- Ṭibb-i Mawlānā Yūsifī, naẓm ū nas̱r (68b): طب موالنا یوسفی نظم و نثر
+- Aqāʾid-i Mulla Jalāl (68b): عقاید ملا جلالا دوانی
+    - Probably the Sharh-i Aqa'id-i Uzudiyya, but could also be confused with his Akhlaq.
+- Dīwān-i Ghazaliyyāt-i ʿUmar Khān mutakhallaṣ bi-Amīr (68b): دیوان غزلیات عمر خان متخلص بامیر
+    - Probably referring to Umar Khan of Khoqand's divan.
+- Tārīkh-i Mīr Sayyid Sharīf Rāqim (68b): تاریخ میر سید شریف راقم
+    - Late 17th century history of Central Asai.
+- Khamsa-i Amīr Nawāyī (68b): خمسهً امیر نوایی
+- Daftar-i Awwal-i Hidāya-i Sharīf (69a): دفتر اول هدایه شریف
+- Muṭawwal-i Sharḥ-i Talkhīṣ al-Miftāḥ (69a).
+    - A famous work on rhetoric by Taftazani.
+- Unknown work on medicine (69a): رساله در علم طب مصنف آنرا دادسته نشد
+- Majmūʿa-i Naqliyyāt ū Wāqiʿa-i Mīrzā Hamdam (69a): مجومعه نقلیات و واقعه میرزا همدم
+- Kitāb-i Ghaybī-yi Fārsī (69a)
+- Unknown (69a): کتاب بی اوّل در اخیر کتاب مذکور ابواب چنان مکتوب شده
+

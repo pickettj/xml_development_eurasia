@@ -1,0 +1,77 @@
+Assorted Khuda Bakhsh (Patna) Catalogs
+
+@catalog @india @primary_source
+
+[[Indian Archives and Libraries Index]]
+
+Finding the appropriate reference for a given manuscript at Khuda Baksh involves first consulting the English multi-volume catalogue series (Catalogue of the Arabic and Persian Manuscripts in the Khuda Bakhsh  Oriental Public Library) and then matching that reference to the handlists (مرآة العلوم - دستی فهرست فارسی مخطوطات مخزونه خدا بخش لائبریری، پٹنہ) - all of which are available [[on the website|http://kblibrary.bih.nic.in/]].
+
+روایح المصطفی من ازهار المرتضی by سید صدر الدین احمد بن کریم الدین احمد البردوانی  (cat. vol. 8, p. 167-168, no. 724) (hand. vol. 1, p. 44, 245, no. 245)
+
+- [[Ṣadr al-Dīn Aḥmad al-Būhārī al-Bardavānī, Ravayīḥ al-Muṣṭafā min Azhār al-Murtażā (Khuda Bakhsh 1884 c.e.)]]
+- 2 vols., 300 pages; author born in 1843, completed work in 1885, died 1905.  The work was lithographed in Cawnpore in 1307.
+- "An exhaustive work in two volumes, containing notices and accounts of Imams, Ulama, and Saints, ancient and modern" (167).
+- "The author is chiefly to be remembered as the donor of the Buhar Library (Imperial Library, Calcutta), a collection of 960 Arabic and Persian MSS. and 1500 Arabic, Persian and Urdu books, printed or lithographed" (167).
+
+مآثر الکرام by غلام علی آزاد (cat. vol. 8, p. 166-167, no. 723)
+
+- 134 folios; work completed in 1753.
+- "It contains biographical notices of Indian Shaykhs and Ulama, and especially of those who lived in, or were connected with, the author's native place Bilgram and its neighborhood" 166).
+- Fasl 1 beginning on fl. 3 is about saints and holy persons; fasl 2 beginning on 77a is about ulama.
+
+تاریخ قادریه  by عبد الرشید قادری الکیرانوی (cat. vol. 8, p. 66-67, no. 678) (hand. vol. 1, p. 35, no. 190)
+
+- 83 folios, completed in 1737.
+- Covers shaykhs through the author's father, who died in 1717.
+- Sayyid Husayn Bukhari - fol. 67a.
+- "It is evident that this is only an extract from the author's previous work" (67).
+- *currently in binding*
+
+بستان المحدثین by عبد العزیز دهلوی (cat. vol. 8, p. 7, no. 652) (hand. vol. 1, p. 33, no. 178)
+
+- 96 folios, written mid 19th century, author died in 1824.
+- "Biographical notices of eminent traditionists, with bibliographical accounts of their works" (7).
+- "The work has been lithographed at an Indian Press, 1824 (the name of the place is not given)" (7).
+- *Upon inspection, this work is in fact about traditionists from the classical period*
+
+اصول المقصود by تراب علی بن شاه محمد کاظم قلندری علوی (cat. vol. 8, p. 68-69, no. 679) (hand. vol. 1, p. 35, no. 189)
+
+- 261 folios; written latter half of the 19th century.
+- "Notices on the Shaykhs of the Qalandari order, especially on the author's father" (68).
+- "A badly written copy, with patches and worm-holes throughout" (69).
+
+سفینۀ خوشگو by بندرابن داس المتخلص به خوشگو (cat. vol. 8, p. 83-115, no. 690)
+
+- 216 folios, completed work in 1734.
+- Note: the catalog indexes every poet included in this text.
+- "The author, a Hindu of the Bais tribe, was a native of Mathra.  He enjoyed the company of Mirza Abd-ul Qadir Bidil..." (83).
+- "The work is divided into three volumes, the first dealing with ancient poets, the second with poets of the middle age, and the third with modern or contemporary poets... The present MS. comprises the extremely rare third volume, containing the biographies and specimens of contemporary poets" (84).
+
+تذکرۀ حسینی by حسین دوست ابن سید ابو طالب سنبهلی (cat. vol. 8, p. 121, no. 694)
+
+- 227 folios, completed 1749.
+- "Notices relating mostly to poets, but partly to saints and princes, of ancient and modern times..." (121).
+- "The work has been lithographed in the Nawal Kishore Press, Lucknow, A.H. 1292 = A.D. 1875" (121).
+
+گل رعنا by لچمی نراین متخلص به شفیق اورنگابادی (cat. vol. 8, p. 128-134, no. 701)
+
+- 286 folios, completed late 18th century; partially indexed in catalog
+- "A biographical dictionary of the Persian poets of India, arranged in alphabetical order" (128).
+
+خلاصة الکلام by نواب امین الدوله عزیز الملک علی ابراهیم خان بهادر نصیر جنگ المتخلص به خلیل (cat. vol. 8, p. 137-142; 142-147, no. 704 & 705)
+
+- 252 folios, completed 1783.  Indexed in catalog.
+- "A very valuable and rare Persian Tadhkirah, consisting of selections from Masnawis, with biographical notices of the poets, in two volumes" (137).
+- Khalifa Ibrahim Dihlavi emigrated from Turkistan in the 17th century - f. 14b (138).
+- Note: No. 706 (p. 147) is the same "without the poetical extracts" (147).  Hand list 222.
+    - [[Navāb Amīn al-Dawlah Khalīl, Khulāṣat al-Kalām (Khuda Bakhsh, 1772 c.e.)]]
+
+حسین شاهی by امام الدین حسینی چشتی (cat. vol. 6, p. 196-201, no. 530) (hand list no. 83)
+
+- 173 folios, completed 1799.  Indexed in catalog.
+- [[Imām Ḥusaynī Chishtī, Ḥusayn Shāhī (Khuda Bakhsh, History of Afghanistan, 1799 c.e.)]]
+- "A detailed history of the dynasty of the Durrani Afghans, comprising the account of its origin and the reigns of Ahmad Shah Durrani, Timur Shah, and Shah Zaman, to A.H. 1212 = A.D. 1798" (196).
+- History of the text: "We learn from the preface that in the middle of A.H. 1211 = A.D. 1797, when Shah Zaman was holding his court in Lahore, the author went to that city, and from thence proceeded with the king's army to Peshawar, where he devoted his leisure to the composition of a history of that prince and his family.  At the end of A.H. 1212 = A.D. 1798 he went to Lucknow, where he showed what he had written to a saint Khwajah Abu Muhsin Husayn ul-Hasani ul-Maududi ul-Kumhari.  The saint was delighted and presented him with a draft of a history of Ahmad Shah Durrani and Timur Shah.  The author incorporated it into his own work, and completed the history in the middle of A.H. 1213 = A.D. 1799, calling it after the saint, حسین شاهی" (p. 196).
+- Also includes copies of letter written by the Durrani shahs, as well as descriptions of Chishti shrines, some geographic routes around the Punjab.
+- Included in Storey (vol. 2, p. 1223), but described in more detail in the catalog.
+

@@ -1,0 +1,30 @@
+Nizam State - Technical Lexicon
+
+@glossary @hyderabad @primary_source @archival
+
+- āmadanī [??-yi mudawwarāt]: associated income?
+    - [[APSA 114]], [[APSA 115]]
+- aima (اَیمہ): a land grant by the Mughal government (usually rent free) to learned or religious persons; a grant to an attendant of a saint's tomb
+    - [[APSA 108]]
+- bigha बीघा, بیگهه, بيگها: a land-measure equal to about five-eighths of an acre.
+    - Term active in revenue documents during Akbar's time (e.g. p. 51 in Goswamy & Grewal, 979/1571).
+    - [[APSA 71]], [[APSA 105]], passim (e.g. all documents in [[Mirza Haji Beg (Qazi of Waluj) Land Holding Series]])
+- ḍābita ضابطه: nature of an addendum to a دستور to which it is subordinate 
+    -‌ this is some kind of official order, borrowed from Mughal administration; *specific meaning as differentiated from other order types in Nizam state?*
+    - [[APSA 76]]
+-‌ inʿām انعام: can mean "rent-free land grant"
+    - [[Talib Ali (muezzin, muhtasib) In'am in Aurangabad (APSA)]]
+- madad-i maʿāsh مدد معاش; madad-i kharch مدد خرچ: revenue-free grants of land; grant to meet the living expenditure of a person
+    -‌ [[APSA 84]]
+- khārij′jamʿ خارججمع
+    - Dehkhoda: مستغل و املاک مفروز و موضوع از طومارجمعبندی
+    - Extremely common term referring to land, e.g.:
+        - [[APSA 69]], [[Mirza Haji Beg (Qazi of Waluj) Land Holding Series]]
+- sawād سواد
+    - [[APSA 69]]
+
+Titles
+
+- mashīkhat panāh
+    - [[APSA 80]]
+

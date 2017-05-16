@@ -1,0 +1,70 @@
+Kurbanov and Florian Schwartz, Katalog Arabograficheskikh rukopisei Bukharskoi oblastnoi Biblioteki im. Abu Ali Ibn Siny
+
+@catalog @primary_source
+
+[[Repository Index]]
+
+## G. N. Kurbanov and Florian Schwartz, Katalog Arabograficheskikh rukopisei Bukharskoi oblastnoi Biblioteki im. Abu Ali Ibn Siny (Bukhara, 1998).
+
+Note: This is only really an index; the entries do not describe the contents of the document at all; only information about the date, author, and genre.
+
+The collection of the last Grand Kadi of Bukhara, Sharifjan Mahmud Sadr Ziya was transferred from here to Biruni.
+
+Misc. of Potential Interest (but without a description, hard to tell)
+
+- No. 83, 7-8-1903 (Sufi Literature)
+    - گلشن التوحید
+    - شاهدی
+- No. 106, 16-04-1825 (Sufi Literature) Transcription of Sirhindi's teachings
+    - مکتوبات شیخ احمد فاروقی النقشبندی سرهندی
+    - یار محمد الجدید البدخشی الطالقانی
+- No. 121, 1819-1820 (Sufi Literature)
+    - محکی العاشقین
+    - درویش علی بن کرکری
+- No. 269, 1859-60 (Sufi Literature)
+    - روضه الشهدایی زبده الجواهری
+    - محمد عیسی یوزباشی
+
+Chronicles held by the Bukhara Library (according to this index):
+
+- تاریخ ملوک عجم
+    - امیر علی شیر نوایی
+    - 1823-24
+    - Turkish
+    - No. 96/II
+- خاص التواریخ
+    - محمد حکیم یفانی بن داملاشادی محمد فرغانی
+    - 19th century
+    - Turkish
+    - No. 281
+- تذکره مقیم خانی
+    - محمد یوسف منشی بن خواجه بقا
+    - 1850-51
+    - Persian
+    - No. 284
+- حبیب السیر
+    - غیاث الدین بن همام الدین خواجه امیر
+    - 17th century
+    - Persian
+    - No. 285
+- تیمورنامه
+    - عبد الرحمن سیرت
+    - 1844
+    - Persian
+    - No. 288
+- روزنامه بابر میرزای تیمور
+    - ظهیر الدین محمد بابر
+    - 18th -19th century
+    - Turkish
+    - No. 295
+- گلشن الملوک
+    - محمد یعقوب بن امیر کبیر محمد دانیال اتالیق
+    - 1830-31
+    - Persian
+    - No. 297
+- کتاب ملازاده
+    - احمد بن محمود معین القفرا ملازاده
+    - 1820-21
+    - Persian
+    - No. 299/I
+

@@ -1,0 +1,6 @@
+$:/state/tab--1963855381
+
+@primary_source @archival
+
+$:/core/ui/ControlPanel/Palette
+

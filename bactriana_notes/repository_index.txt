@@ -1,0 +1,78 @@
+Repository Index
+
+@index @archives @primary_source
+
+### India
+
+[[Indian Archives and Libraries Index]]
+
+### Uzbekistan
+
+'**The Collection of Oriental Manuscripts of the Academy of Sciences of the Republic of Uzbekistan**' AKA Собрание рукописей Института востоковедения им. Абу Райхана Беруни Академии наук Республки Узбекистан
+
+- (1) Vostochnye rukopisi - 18,000 tomes; 20% Turkic, 40% Persian, 40% Arabic, from the 9th to the 20th century.  
+    - Main Collection (Dubetni): [[Al-Biruni Card Catalog (Main Fond)]]
+        - Iu. [[Iusupova and R. P. Dzhalilova, Sobranie vostochnykh rukopisei Akademii nauk Respubliki Uzbekistan. Istoriia]] (Tashkent: Izdatel'stvo **Fan** Akademii nauk Respubliki Uzbekistan, 1998).
+        - S. S. [[Semenov, ed., Sobranie Vostochnykh Rukopisei Akademii Nauk Uzbekskoi SSR]], 11 vols. (Tashkent: Izd-vo Akademii nauk UzSSR, 1952).
+        - Bakhtiar [[Babadzhanov and Iurgen Paul, eds., Kratkii Katalog Sufiiskikh Proizvedenii XVIII - XX Vv.]] Iz Sobraniia Instituta Vostokovedeniia Akademii Nauk Respubliki Uzbekistan Im. Al-Biruni (Berlin: Das Arabische, 2000).
+    - Separate Suleimanov Collection: [[Al-Biruni Card Catalog (Suleimanov Fond)]]
+        - A.P. Kaiumova, Katalog fonda Instituta rukopisei (Tashkent, 1988-1989)
+- (2) Fond tsentral'noaziatskikh aktov i dokumentov - Waqf endowment records; over 3000 specimens.
+    - This Fond is almost completely undocumented - even in card catalogs - aside from two recently published catalogs:
+    - A. Urunbaev, G. Dzhuraeva, and S. Gulomov, eds., Katalog sredneaziatskikh zhalovannykh gramot iz fonda Instituta Vostokovedeniia im. Abu Raikhana Beruni Akademii Nauk Respubliki Uzbekistan (Germany: OWZ Halle (Salle), 2007).
+    - On documents also see: Sanjar [[Gulomov, "O nekotorykh podlinnykh dokumentakh iz kollektsii rukopisnykh proizvedenii fonda Instituta Vostokovedeniia AN RUz"]] (article notes include 6/11/2012 meeting with Sanjar Gulomov). *Note that the documents discussed in this article are actually kept in the manuscript fond.*
+- (3) Sushchestvenno dopolniaet rukopisnoe sobranie Instituta litografirovannyi  fond - 30,000 lithographs.
+    - [[Al-Biruni Lithograph Card Catalog (Main Fond)]]
+-(4) Microfilms.
+
+'**[[The State Archive of Uzbekistan (TsGARUz)|TsGARUz Index]]**'
+
+[[Welsford and Tashev (2012) Catalogue of Arabic-Script Documents from the Samarqand Museum]]
+
+'**Bukharskii Gosudarstvennyi Musei Zapovednik**' (document collection based at the Ark)
+
+- G. N. [[Kurbanov and Florian Schwartz, Katalog Arabograficheskikh rukopisei Bukharskoi oblastnoi Biblioteki im. Abu Ali Ibn Siny]] (Bukhara, 1998).
+
+
+### Tajikistan
+'**Institute of Oriental Studies and Written Heritage of the Academy of Sciences**' AKA Институт Востоковедения и Письменного Наследия AKA Институти Шарқшиносӣ ва Мероси Хаттӣ
+
+- A. M. [[Mirzoev and A. M. Boldyrev, eds., Katalog vostochnykh rukopisei Akademii Nauk Tadzhikskoi SSR]] (Stalinabad (Dushanbe): Akademiia Nauk Tadzhikskoi SSR, 1960).
+- Seyed Ali [[Moujani and Amr Yazdan Ali Mardan, eds., Fihrist-i Nosakh-i Khati-i Farsi-i Institui Asar-i Khati-i Tajikistan]]  فهرست نسخ خطی فارسی انستیتوی آثار خطی تاجیکستان
+- [[TsGART Index]]
+'**The Firdawsi National Library of Tajikistan**'
+
+- A. [[Iunusov, Fehrasti Dastnavishoi Tojikī-Forsii Kitobkhonai Davlatii RSS Tojikiston Ba Nomi Abdulqosim Firdavsī]], 3 vols. (Dushanbe: Vazprato Madaniiati RSS Tojikiston Kitobkhonai Davlatii Respublikavii ba Nomi Firdavsī, 1971).
+- [[Card Catalogue of the Firdawsi Library]]
+
+
+### Russia
+The Institute of Oriental Manuscripts of the Russian Academy of Sciences AKA СПбФ ИВ РАН (abbreviation) - Российская Академия Наук - Институт Восточных Рукописей
+
+- Organized in three sections, all of which require separate permissions: The library, the [[Archive of the Orientalists|Archive of the Orientalists Index]], and the [[Rukopisnyi Otdel|Rukopisnyi Fond Index (Institut Vostochnykh Rukopisei)]].
+- [[Library Card Catalog at the Institute of Oriental Manuscripts, St. Petersburg]]
+- Documentation: N. D. [[Miklukho-Maklai, Opisanie persidskikh i tadzhikskikh rukopisei Instituta vostokevedeniia]], 3rd ed. (Moscow: Izdatel'stvo "Nauka", 1975).
+- Documentation: N.D. [[Miklukho-Maklai, Persidskie i Tadzhikskie Rukopisi Instituta Vostokovedeniia]] Rossiiskoi Akademii Nauk: Kratkii Alfavitnyi Katalok, 2 vols. (Moscow: Nauka, 1964)
+- Documentation: A. B. [[Khalidov, Arabskie rukopisi Instituta vostokovedeniia: Kratkii Katalog]], (Moscow: Izd. "Nauka" Glavnaia redaktsiia vostochnoi literatury, 1986).
+- Documentation: O. P. [[Shcheglova, Katalog litografirovannykh knig na persidskom iazyk]] v sobranii leningradskogo otdeleniia AN SSSR, 2 vols. (Moscow: Glavnaia redaktsiia vostochnoi literatury, 1975).
+    - Lithographs: Current collection is 1856 in number (1257 separate titles); 700 from India; 616 from Iran; 146 from Central Asia (13).
+
+[[Rossiskaia Natsional'naia Biblioteka, Otdel Rukopisei|Rossiskaia Natsional'naia Biblioteka (St. Petersburg) Index]]
+
+- Documentation: O.M. [[Iastrebova, Persidskie i Tadzhikskie dokumenty v Otdele Rukopisei Rossiskoi Natsional'noi Biblioteki]] (St. Petersburg: Izd. Rossiiskoi natsional'noi biblioteki, 1999).
+
+St. Petersburg State University, Vostochnyi Fakultet
+
+- Documentation: [[Frolova, Arabskie rukopisi Vostochnogo otdela Nauchnoi biblioteki Sankt-Peterburgskogo gosudarstvennogo universiteta]]
+
+
+### Azerbaijan
+
+'**The Republican Manuscripts Department of the Azerbaijan Academy of Sciences**'
+
+- Documentation: Dzh. B. Kagramanov, Iz sokrovishchnykh rukopisei Azerbaidzhana (Baku: Izd-vo "Elm", 1983).
+    - This work is not an index; just a general description of the collection.
+    - 40,000 titles 
+    - "... in 1976 the Manuscripts Department began scientific description of manuscripts in Turkic, Arabic and Persian in order to define the composition of the most valuale sources and to give the scientific world an idea of cultural and historical level of the materials kept at the Department."  *ever finished?*
+    - Nothing to indicate the presence or absence of documents relevant to 18th-19th century Transoxiana.
+

@@ -1,0 +1,365 @@
+Notebook of Qazi "Abu Nurchashmi" - 19th Century (PNB F924 D561)
+
+@manuscript_persian @pburg_natsbib @qazi @notebookjung @primary_source
+
+[[Rossiskaia Natsional'naia Biblioteka (St. Petersburg) Index]]
+
+## Fond: 924 (ПНС - Персидские рукописи Новая серия) 561, Rossiskoi Natsional'noi Biblioteki.  66 листов.  Конец 19 в. - 30-у гг. 20в, Средняя Азия
+
+##  (Untitled, but catalogued as “Tetrad’ s razlichnymi zapisiami”), m.s. Rossiskaia Natsional'naia Biblioteka in St. Petersburg, fond 924, no. 561, ff.
+
+Belongs to a genre of qazi exemplar notebooks known as *jung* جنگ, often passed on from father to son  (conversation with Sanjar Ghulamov).
+
+Description from unpublished opis Ф.924 Персидские рукописи Новая серия собрание - Ленинград, 1991 *but with new pages added in the back*: Тетрадь с различными записями. Содержит образцы постановлений казиев, инша' (письмовник), на чистых листах в середине и в конце стихи различных авторов на таджикском языке, грамматические упражнения и математические вычисления.  Имеются записи по-таджикски и латиницей и кириллицей... Стихотворения с тахаллусом Фитрат написаны с многочисленными исправлениями и, возможно, являются автографами общественного деятеля движения джадидов Абд ар-Рауфа-эфенди Фитрата"
+
+Scanned pages: 0b-1 (inside cover, loose poetry); 11b-13; 17b-19; 22b-23 (cases); 26b-34.
+
+Inside Cover
+
+- Top inscription: در تأریخ ...ربیع الاول  در سال خوک 1300 ... تولد یافت که حضرت ایشان اعلم ...
+    - *very difficult to decipher, lacunas, smudges; 1300 (if I have that right = 1882).*
+- Bottom inscription: در تأریخ سلخ شهر شعابان المعظم یوم یکشنبه 1296 (؟)  بود که بمرحخمت ... واجب تعالی نورچشمی (؟) عبد الطلیم (؟) خدا... و تعالی عمر درازی و توفیق عطا فرماید
+    - *see inside page; clearer date*
+    - Judging by the date of a case below, I assume that the qazi is marking the birth dates of his sons, not himself.
+
+
+#### Loose papers tucked inside
+II: A marriage prayer (خطبه نکاح) in Arabic. (Qazi notes on the front side).
+IV: A torn out page from a lithographed poetry book: غزل حسرتانه
+
+- First lines: ... لنگر وهم قیامت پیدا
+V: Seems to be a dhikr ritual: طریقۀ ختم حضرت غوث الاعظم این است
+
+- The khatm itself:;  اول یازده بار سورۀ فاتحه، و بعده یکسد یازده بار درود، یکصد یازده بار کلمۀ تمجید، یکصد یازده بار یا حضرت سیّد عبد القادر جیلانی، یکبار سورۀ حضرت (؟)، یکصد چهل یکبار سورۀ الم نشرح، یکصد یازده بار سورۀ اخلاص، یکصد یازده بار یا قاضی الحاجات، یکصد یازده بار یا کافی المهمات یا رافع الدرجات یا حلّ المشکلات یا شافی الامراض، یکصد یازده بار یا مجیب الدعوات، یکصد یازده بار درود بخواند بارواح (؟) هر دستگیر بوبخشد
+- Instructions for use: این ختم را بیگاه جمعه بکنید تمام اسماها را بی شبهه بخواند
+- Has two more dhikrs / khatms:
+    - طریقۀ ختم بکیر حضرت محبوب حمدانی و قطب ربّانی سیّد شیخ عبد القادر جیلانی
+    - طریقه ختم صغیر حضرت محبوب حمدانی غوث ربّانی 
+- *most of the second khatm is legible, but the page tears in the midst of the third one; both are pretty similar to the first.*
+- *questions*: dhikr = khatm?; figure out whether this is the qadiriyya we are talking about
+VI: A loose sheet of white paper clearly marked 1242 / 1826 that appears to be taking note of the death of Haydar and the succession of Nasrullah.  The very top lines are illegible; here is a transcription line by line of what can be discerned:
+
+- 1: جهت قوت امیر حیدر و جلوس امیر نصرالله قاری قوندوزی گفته
+- 2: بهر قوت شاه جس شاه زاد کامیاب
+- 3: از بخارا ماه بیرون شد در آمد افتاب
+    - *this line is peculiar in that the number 806 is written above بخارا; the number 46 above ماه; and 484 above افتاب*
+- 4: جهت قوت قاضی ملا (مرید؟) الدید قاضی کلام مرحوم
+- 5: و جلوس قاضی ملا محمد محمد (بقا؟) خواجه قاضی کلان (جهان حاجی بحرمن سلمه؟) االه گفته
+- 6: گفت بهر قوت جلس تخت یک صاحب ...؟
+- 7: از بخارا بدر شد خواجه بقی آمد درون
+VII: More lithographed poetry.  Copy a few lines to identify:
+
+- ای صورت امید هراس فرصت، کاری کن و مگر از قیاس فرصت
+VIII: A lithographed book of some kind on pink paper.  Probably Sufi-related since it mentions حضرت غوث الاعظم.  Also frequent mentions of هند. Judging by the number of لار's, this could be Turkchi.
+
+#### Sub-book on Sufi Materials (bound into the book, white colored pages)
+
+- در تآریخ سلخ شهر شعبان یوم یشسنبه 1296 بود که نورچشمی عبد ... تولد...
+    - *so Nurchashmi was born in 1879.*
+    - Note that there is also ballpoint marking 2002-1532/5 and a РНБ stamp; *library acquired this in 2002?*
+- Pages 2-4b are excerpts from a manuscript of some kind; appears to be a narrative of some sort.
+- 5: اسامی رجال الغیب.  Listing the numbers of different kinds of invisible spirits / saints
+    - رقبا 360 تنند، نقبا 40 تنند، نجبا 12 تنند، اوتاد 7 تنند، ابدال 6 تنند، غوث 3 تنند، قطب یک تنند
+    - From there the text goes through describing how to honor them and then an Arabic prayer: بسم الله الرحمن الرحم صلواة تاج این است followed by more instructions.
+        - اگر کسی را کارش آید آید علاج نشود او ز ادینه بعد از عصر تا وقت غروب بهیج چیزی مشغول نشود مگر بذکر این سه اسم الله یا الله یا رحم یا رحیم
+- 7b: A prayer to Khizr.  مناجات نامه الخضر صلی الله علیه و سلم.  The prayer consists of a different statement with every letter of the Arabic alphabet, written in red ink.
+- 8b: A magic spell
+    - (1) بسم الله الرحمن ارحیم
+    - (2) اگر خواهیکه احوال بیمار را بدانی که بمیرد و یا رنج بسیار دراز کشید یا زود صحت شود بگیر یکعدد تخم مرغ خانه گی را
+    - (3) این طلسم را در تخم نوشته بعده در تراز و برگش و یکشب و روز در زیر بالین بیمار بنه [سروایاز / سرواباز / پروایاز؟
+    - (4)  آن تخم را از تحت سر بیمار گرفته بهمان سنگ برگش اگر کم آید بیمار بمیرد و اگر برابر آید
+    - (5) رنج دراز کشید و اگر زیاده آید زود بر خیزد بفرمان الله تعالی طلسم این است
+
+#### Main book of qazi notes (pages bound more securely than previous section, material of pages darker) begins on p. 11
+11.  Probably the inside cover sheet of the Qazi journal and hence these cases were added to later.
+
+- Case 11.2:
+    - (1) در شهر کذا بود که مدعی علیه فی الضمن در جواب دعوی مذکوره مدعی مذکور فی الضمن گفت که 
+    - (2) شکه مدعا به او را بمدعی مذکور رسانیده ام و بعد از [عجز؟] آن بینه بر اُصُول شکه
+    - (3) مذکوره [سوی] مدعی مذکور خود سوگند خورده شکه مذکوره فی الضمن مدعا به خود را
+    - (4) قبض نموده مخاصمه مذکوره فی الضمن بقطع رسیده آه
+        - I think that شکه may be a generic word for "good"; see Case 12b.1
+
+- Case 11.3:
+    - (1) برینوجه که مسماة فلان اقرار کرده دعوی نمود که
+        - (1) Because a certain female so-and-so had affirmed and brought an action [against her husband, saying]: 
+    - (2) فلانی شوهرم مدت یکسال شده که عاجز از ازالۀ
+        - (2) “so and so - my husband - for a year now has been unable to deflower me/ consummate our marriage" 
+    - (3) بکارت من و امساک بمعروف گردیده است لهذا
+        - (3) and their marriage has been retained [Q2:231] – therefore,
+        - *Cook*:  imsak ba-ma'ruf: The phrase derives from Q2:231 (and similarly Q65:2), where Arberry translates "retain them honourably" (as opposed to going ahead with the divorce).
+    - (4) ازین تاریخ تا انقضأ یکسال کامل قمری تاجیل نموده شد
+        - (4) [the case] should be adjourned, from this date until the end of a period of one complete lunar year 
+        - *Modaressi*: " Ta'jil nimudah shud" means "[the judgment about the case] is deferred" as you correctly said. In line 5, the word "haal" has dropped out as you correctly guessed and it is indeed to be understood as “[the condition of] her husband becomes [definitely] known” as you suggested.
+    - (5) تا که شوهرش معلوم گردد و کان ذلک بمحضر من المسلمان
+        - (5) so that [the truth of the matter with regard to] her husband may be known. This was in the presence of a number of Muslims / in an assembly of Muslims
+        - *Modaressi*: one might read the kih in ta kih shawharash ma’lum gardad as either giir (= problem) or giid (= impotence)—or is it clearly just kih?
+
+11b actually seems to be the first page of the Qazi journal, as it begins with بسم الله etc.
+
+- Case 11b.1 (*keep in mind that by the order most likely chronological this was really case 1*):
+    - (1) در تأریخ شهر کذا بود که ملا فلانی
+    - (2) ولد عبدالله در دار القضأ کذا حاضر آمده اقرار صحح صریح معتبر شرعی نمود حالجواز اقراره شرعاً
+    - (3) برینوجه که من مقر وقف کردم و تصدق شرعی نمودم از اخلص اموال و اطیب املاک خودم خیالاً
+    - (4)   عن حق الغیر عما یمنع جواز الوقت و عما یمنع جواز الوقف لزومه همگی و تمام مؤاری یکده طناب زمین ملک [حرر؟] [فایض؟
+    - (5) حق و ملک خودمرا که واقعست در موضع کذا از محکوم کذا حدود کذا فواصل فی الکل معلومه است
+    - (6) بجمیع الحقوق و المرافق بر مسجد کذا که مبنیه است از خشت پخته و جوب [=چوب] و ایوان و دار است معلوقه
+    - (7) الحدود لغایته [شهرته] و آخره علد الفقرأ لقبل الله تعالی منها شرط کرد واقف مذکور که متولی این
+    - (8) مذکور متولی شرعی است وقف امام مسجد مذکور باشد و هلم جراً و ظرط کرد واقف مذکور که امام 
+    - (9) حاصلات این زمین مذکور را استفأ منموده حق التولیت خود عشر گرید [=گردید؟] و بعد از
+    - (10) اخذ عشر بقیه آنرا دو سهیم نماید یک سهیم آنرا بمسجد مذکور جای نماز گیرد و یک سهیم دیگر آنرا 
+    - (11) بین امام مؤذن اثلاثا تقسیم نموده ثلث آنرا بمؤذن بدهد و ثلثان آنرا امام
+    - (12) مذکور خود گیر و بعده واقف مذکور اینوقف را از دست خود اخراج نموده بملا امام فلان که
+    - (13) حال امام مسجد مذکور است تسلیم نمود باز آنرا بعلت عدم لزوم میخواست که متصرف شود خضرت 
+    - (14) قاضی القضاة بخارا که عالم بودند بمحل خلاف و اختلاف علمأ دین رضوان الله تعالی علیهم اجممعین
+        - *page 12*  
+    - (15) حکم نمودند در ضمن مرافعه شرعیه اولاً بصحت این وقف مذکور ثانیاً بلزوم آن
+    - (16) فصار هذا وقفاً صحصحاً شرعیاً مسجلاً جامعاً نافذً مخلداً موبداً الی ان یرث الله تعالی
+    - (17) الارض و من الیها و هو خیراً لوارثین فمن بدله بعد ما سمعه فانما اثمه علی الذین یبدلونه
+    - (18) و من اکل من مال الوقت من غیر شروط الواقف فهو حرام محض فی خیراته [المفتین
+    - (19) و کان ذلک بمحضر من المسلمین در تاریخ شهر شوال 1293
+        - Note that for this casewe actually have a hard date: Shawal 1293 (1876).
+
+- Case 12b.1: A خَلع marriage settlement
+    - (1) خلع    برینوجه که (این؟) مقر مسماة فلانی زوجه منکوحه مدخوله شرعیه خودم [؟] فلان را
+    - (2) ببدل کذا شکه و بقیه مهرین عده بیکطلاق باین حرام گردانیده ام و نماند
+    - (3) بیننا علاقه زوجیت اصلا سوی العده مع قبولها [ایامها] و کان
+        - خَلع از دهخدا: رها کردن زوجه بر مالی که از وی ستاند
+
+- Case 12b.2: Divorce of an unconsummated marriage
+    - (1) خط طلاق باکره غیر مدخوله     برینوجه که این مقر فلانه بنت فلان زوجه 
+    - (2) منکوحه باکره غیر مدخوله و غیر [مخلوب های] خودم را ببدل کذا مقبوض خودم از مسمّاة
+    - (3) مذکوره و بقیه مهرین وی و نفقه عده وی برخود بیکطلاق باین حرام گردانیدم  
+
+- Case 13.3: Alimony Payments
+    - (1) فرض نفقه زوجه بر شوهر که غایب است   کذا بود که فرض کرده شد بر عبدالله [عایب؟؟
+    - (2) ولد سعد الله بجهت نفقه [لابدیه] زوجه اش که بنت فلانه بنت فلان [بجهت مطعومش] ازین تأریخ
+    - (3) بمضی هر یکماه کامل قمری مبلغ کذا را بجهت کسوة مناسبه اش از تأریخ مذکور بمضی
+    - (4) هر یکماه کامل مبلغ کذا را مع الامر بالاستدانت علیه بالفرضتین و سود این
+    - (5) فرض بعد از اینکه اخبار نمودند فلان آه بر [اینجلمه؟] که عبد الله مذکور شوهر
+    - (6) فلانه مذکوره از موضع کذا غایب شده است و فلانه مذکوره را بی نفقه و کسوة
+    - (7) ضایع گذشته است و نکاح میان ایشان قایم است فی محال و کان ذلک
+
+- Case 13.4: Financial support for a father-less child
+    - (1) فرض نفقه از برای صغیر    کذا بود که فرض کرده شد بجهت نفقه لابدیه فلان صغر
+    - (2) سه ساله ولد فلان متوفی که در حفظ حضانت مادر خود فلانه بنت فلان بوده است بجهت 
+    - (3) مطعومش هر ماه کامل از تأریخ مذکور مبلغ کذا از او بجهت کسوة مناسبه اش بمضی هر ماه
+    - (4) قمری از تأریخ مذکور مبلغ کذا را از حصلات زمین و از ربح مبلغ فلان شکه مذکور 
+    - (5) و بعد از انکه این صغیر را مال مال بوده است و محتاج [بغیر نی؟] داشته است و قدرت [بر کسب نی؟] داشته است
+
+- 13b.2: Giving away a child
+    - (1) خط بخشیدن مادر صغره را     برینوجه که مقره ولایت ابوة مسمّاة فلانه دختر
+    - (2) است] ساله صغره خودرا ببدل کذا بملا سید ولد عبدالله مخشید بزنی مع
+    - (3) قبوله و عقد صحصح شرعی واقعشد بین مسمّاة فلانه بنت فلان مذکور و بین
+    - (4) ملا سید مذکور و کان ذلک
+
+- 13b.3
+    - (1) و یثقه بفرزندی دادن صغر    برینوجه 
+    - (2) من مقر بفرزندی دادم بفلانه بنت فلان فرزند صغر صبی سه ساله معسر خود مراح
+    - (3) فلان نام و امر کردم فلانه مذکوره را که ازین تأریخ مذکور مبلغ کذا را
+    - (4) از مال خود صرف نفقه لبدیه صغر مذکور نماید بشرط الرجوع علی مع قبولها و کان 
+
+- 13b.4
+    - (1) وثقه ایجاب قبول صغر با صغره   برینوجه که من مقر نفس مسمّاة قمری صغره بنت
+    - (2) صبیله خود مرا ببدل کذا مقبوض [سجل] و مبلغ کذا مؤجل الی بقا نکاح بعبد الله صغر
+    - (3) ولد عبد الرحیم متوفی ولایت [ابوته] بخشیدم بزنی در نزد از جمع مسلمین
+    - (4) فلان ولد فلان  ولایت [محصوبة] از قبل عبد الله صغر مذکور در ذلک [لحلس؟؟
+    - (5) بمبلغ مذکورین و [بدو] امر معروف قبول کرد بزنی مع قبولها و کان ذلک
+
+17b contains a text of trusteeship: خط تولیت
+
+- Case 18b.6:
+    - (1) برینوجه که مسمّاة فلانه بنت فلان که زوجه منکوحه شرعیه من مقر است نرسانیده ام
+    - (2) و ازاله بکارت مسمّاة مذکوره را نکرده ام مسمّاة مذکوره ایضاً قایله بهمین قول است
+    - (3) بنا بر آن مهلت داده شد بمقر مذکور مضی مدّت یکسال کامل قمری از تأاریخ مذکور مع قبوله
+    - (4) و کان ذلک بمحضر
+
+- Case 19.3:
+    - (1) بود که زید ولد بکر که وکیل شرعی بود از قبل جامع بیت المال [فیما یذکر] در دار القضأ کذا آه
+    - (2) برینوجه که از تسلیم درست فلان ولد فلان همگی و تمامی مبلغ کذا را قبض نموده گرفته
+    - (3) ببدل شکه مقبوضه بکباب حجره در حد شرقی مدرسه کذا داشته ملا فلان متوفی بی وارث
+    - (4) تعلق به بیت المال داشت بفلان مذکور تفویض نمودم بسبب مذکور علاقه حجره
+    - (5) مذکور بوی تعلق یافت مع قبوله و تعلقها به شرعاً شکه مذکوره را در وقتش
+    - (6) بدولتخانه [عالی؟] سپاردیده می شود و کان ذلک
+     
+
+- Case 22b.1
+    - (1) کذا بود که باخبار جمع از مسلمین ظاهر العداله بنا بر خاین بودن 
+
+- Case 22b.2:
+    - (1) در تأریخ کذا بود که از روی مبارکنامه همایون عالی خاک نوری بازار جای کذا را از
+        - *Zahir*: mubarak-namah; humayun -  I am not sure about the structure of political authority in the Bukharan emirate but it would be quite high up because of the term humayun which refers to royal, imperial, and in Iran for instance would be associated with the shah. I wouldn't translate it as blessed letter though, unless letters are what the khans you refer to would normally issue, I think it might be better to call is an edict, decree etc.
+    - (2) این تأریخ تا مدّت یکسال کامل قمری بملا فلان معروف ببدل کذا فروخته شد 
+    - (3) مع اینقابض فی البدلین بیعً (باتاً) صحیحاً لازماً مع قبوله و کان ذلک
+        - *Zahir*: batan - This is not from the verb baata, I am quite sure this is from Ar. root ba-ta-ta, two words battan بتّاً, and batatan بتاتاً, are used to mean definitively, categorically, once and for all, etc. c.f. Wehr, p. 51. Though I am not sure of the form باتّاً which I think also exists according to Lane. Also I am not sure hal has anything to do with it, I think the structure is furukhtah (Persian verb) then with bay'an as an Arabic derived verbal noun (masdar) which functions as a cognate accusative (al-maf'ul al-mutlaq) followed by modifying adjectives like batan, sahihan, laziman etc. I am planning to investigate how this works in the post-doc hopefully, its quite fascinating how Persian and Arabic combine in these texts.
+        - *Zahir*:  مع اینقابض فی البدلین is this transcribed correctly? Inqibad, does exist without the ya' but not sure how we would translate it. And what is this dual al-badalayn; badal can refer to **what is given in exchange** so price, rate, sum, but I think here refers to the **two things being exchanged** so **with receipt of the two things being exchanged** maybe.
+    - *Zahir's translation*: On such and such date based upon an imperial edict, the resplendent piece of land of the bazar of such and such place was sold to the well known mulla so and so for a period of one complete lunar year in exchange for such and such (amount) in a confirmed, authentic and binding sale, with receipt of the two things being exchanged by both sides, and with [their] acceptance/agreement, dated...
+
+- Case 25.1
+    - (1) غرض ازین تقریر و اعث برین تحریر انکه چون مبارزشاه میرزا مراد سر آخور املاکدار که وکیل 
+
+- Case 26b.1: Appointing a new mullah
+    - (1) ملا فلان صلوات خوآن هر روزه بجایش ملا فلان نام را نایب مانده و ملا فلان دروازی صلوات خوآن
+        - paraphrase: Each day mullah 1 had mullah 2 serve in his place as the prayer reader
+        - روز seems to make more sense than روزه (fast).
+    - (2) هر روزه بجای خود ملا فلان نام کسی در نایب گذاشته تا مدت دو ماه بولایت خود[ما] رفته کوچ خود های شان را
+        - paraphrase: This went on for two months 
+    - (3) آورده نی شده مبارکنامه اجابت عالی بنام ایندعاگوی آورده هر دو نفر مذکور رفته بودند که مهلت انها گذشته
+    - (4) تا [محال؟] نیامده اند علاشان [= غلامشان] فلانی یاول علمأ سپارش عالی را بایندعاگوی رسانید که مرحمت عالی شد که بجای
+        - who is this مرحمت عالی?  does that refer to the یاول علمأ?
+    - (5) ایندو نفر طالب مناسب یافته عرض میکنند موافق فرمان واجب الاذعان همرآه غلامشان طالبانش را 
+    - (6) تردد کرده امتحان نموده شد جهان پناها ملا فلانی بخاری ختم کرده بی مأخذ از باب صلواة [عید؟] هدایه شریف
+        - notice the subtitle شریف on the hidaya; reading (probably reciting) 11 lines from the hidaya was required for serving as a prayer leader
+    - (7) مقدار یازده خط را موافق قاعده خوانده ترجمه و تصویر مسئله را درست کرده از مرحمت عالی
+    - (8) یکنفر صلواة خوانی جای ملا فلانی را امید کرده جناب عالی دعا نماید حصولش پانزده طلا میشده
+    - (9) از روی رضا جویی بجناب عالیحضرتم عرض بنده گی نموده شد باز جناب سیدم و قبله ام صاحب [اصلار؟
+
+- Case 26b.2: Madrasa-related issue; illiterate madrasa instructor
+    - (1) اهل مدرسه فلان بعرض انور عالی رسانیده مبارکنامه عالی بنام ایندعاگوی رضا جوی آوردند که ملا فلان
+    - (2) امام مدرسه قرأت ندارد آدم بی پروا میباشد اهل مدرسه معطل شده ایم امید میکنم که معلوم شده
+        - قرأت refers to reading the Quran or Islamic text correctly in a good voice; does not mean he is illiterate; here بی پروا means irresponsible
+    - (3) یگان آدم بصلاح دیگر سرافراز شود مرحمت عالی بمبارکنامه همایون شرف صدور یافته است که حقیقت
+    - (4) احوال او را دانسته خواهش اهل مدرسه را عرض کنید حسب الفرمان لازم [الادنمان؟] احوال
+    - (5) ملا فلان امام مذکور را از آدمان میدانسته گی تحقیق نموده پرسیده شد در واقع امام مذکور
+        - In response the qazi sent people to test the imam.
+    - (6) پسر فلانی بوده اکثر بی پروایی نموده ترک میکرده است که اکثر اهل مدرسه مذکور جناب عالی را دعا
+        - This imam wasted a lot of time because of his irresponsibility; ترک میکرده here means that, for instance, he was not in the masjid at prayer time
+    - (7) نموده فلانی مدرس مدرسه مذکوره که حصول [تدریسی؟] آن کذا [ملا / کلا؟] میشده است با ضم تدریسی بامامت
+    - (8) و خطابت مدرسه مذکوره خواسته از مرحمت های شما امید کرده جناب عالی را دعا مینمایند حصول امامت و خطابت
+    - (9) مدرسه مذکور کذا [کلا / ملا؟] میشده است [امیدگاه] ایندعاگوی خواهش اهل مدرسه را از روی رضاجوی بجناب عالی عرض بنده کان
+        - The qazi here is referring to someone at a higher station, perhaps an Uzbek official of some kind.
+        - Issues: امیدگاه (see also Case 21.1); کلا
+        - Dehkhoda has a second definition for  بی پروا (the first being "fearless): غافل، بی توجه
+
+- Case 27.1: Jewish conversion to Islam
+    - (1) بنده نوازا
+        - (1) O Compassionate Master!
+        - *Zahir* translated بنده نوازا as "O compassionate master."  *Cook*: master? -how do we get than, given that banda means slave?
+    - (2) کذا نام یهودی تخمینا 15 ساله از محله نو یهودیان نزد این دعاگوی آمده ^ بحضور [کثیر از مسلمین؟] ^ از دین باطل آبا و اجداد خود و
+        - (2) Such and such Jew of about 15 years of age from the new quarter of the Jews, came before me and in the presence of many Muslims abjured himself from the invalid religion of his forefathers,
+    - (3) از جمیع ادیان باطله تبری نموده مسلمان میشوم گفت که ایندعاگوی تلقین کلیمه [=کمله] طیبه و کلیمه شهادت نمودم
+        - (3) and from all invalid religion and said **I hereby become a Muslim**.  I instructed him in the good saying (**there is no god but God** - Q14:24 for the phrase, Tabari, Tafsir, 17:437 no. 20,659 for the equation of the good saying with the first part of the shahada) and the witnessing (**I bear witness that Muhammad is his messenger**).
+    - (4) بذوق تمام کلیمتین [=کلمتین] شریفین را خواند [اُمیدگاها / مُیدکاها؟] بسبب خواندن کلمتین شریفین و تبری نمودن از ادیان باطله
+        - (4) He recited  these two noble sayings (the kalimah and the shahadah) with great enthusiasm [....]. Because of his recitation of the two noble sayings and his exoneration from invalid religions
+        - *Cook*:  I don’t get umidgaha
+    - (5) کذا نام مذکور مسلمان گردیده در زمره مسلمین داخل گردیدکه ایندعاگوی ^ از حاضران در حق کمالی [؟] ^  نو مسلمان مذکور را
+        - (5) The aforementioned so and so, became a Muslim and entered the ranks of the Muslims. I sent some people who were present [az haziran....firistadah] [to testify?] regarding the complete (dar haq-i kamali....) [something: conversion?] of the previously mentioned [Jew]
+        - *Cook*:   Is the naw misplaced, i.e. should it not be naw-musalmaan or musalmaan-i naw (either near the start of the line or near the end)? What’s the yaa’ doing at the end of in-du‘agu?
+        - *Cook & Zahir* agree that یندعاگو means "I, myself."
+    - (6) بدربار معدلت مدار جناب عالی حضرتم فرستاده منظور نظر (انور / النور) عالی (کرد؟) و گفته عرض بنده گی اه
+        - (6) to the just court of his excellency so that it be brought to his radiant attention and deference/obeisance to him could be made.
+        - *Cook*:  hazrat-am: what’s the –am doing here? I think anwar; gufta: seems to hang loose; ‘arz-i bandagi: one expects a verb—mikunad or the like.  What bothers me is that hazrat-i X is a standard formula for "his excellency X" (e.g. Hazret-i Muhammed" = the Prophet Muhammad (I'm used to this in Anatolian Turkish, whence the voewls).  On that analogy, hazrat-am would mean "my excellency", which seems out of line. alif-haa': I know this as an abbreviation for intahaa = it is finished (i.e. "this is the end of the quotation").
+        - Issues: اُمیدگاها / مُیدکاها
+
+- Case 27.2: Something involving the اممارت پناه
+    - (1)  امارت پناه ملا محمد بی غلامشان سپارش لازم استایش [=لازما ستایش؟] عالی [سولایم؟] را را بایندعاگوی رضا جوی رسانید که پانزده
+    - (2) نفر از دعاگویان مناسب [بدهیک] را عرض نماید که بجای دعاگویان رهیک دار نظر شده گی بمرحمت عالی بدهیک 
+    - (3) داض؟] گردیده جناب عالی را دعا نمانید ایندعاگوی رضا جوی  [لمنت؟] بر جان وزیده قبول بردیده [ان؟] دعا
+    - (4) نهاده از دعاگویان خم [گرده] و ملا جلال خوان طالبانش را [امتحان] نموده شد چانزده نفر از
+    - (5) دعاگویان امر [کردم] از کتاب هدایه شریف [جنده؟] مسئله موافق قاعده درست بی غلط خوانده تصویر
+    - (6) مسئله را درست نمودند که جمیع آنها در شقه نام بنام مع جایهای خوانده گی  ایشان روی خط کرده
+    - (7) منظور نظر [کمیا] اثر جناب عالی مولایم شود گفته از روی دعاگی و رضاجوی عرض بنده گی نموده شد بار اه
+
+- Case 27b.1: Testing a Mulla with the Hidaya
+    - (1) دعاگویشان ملا فلانی قاضی تومان کذا از برای امامت و خطابت مسجد موضع کذا از تومان مذکور
+    - (2) ملا فلانی را عرض بنده گی نموده بوده است که مرحمت عالی بایندعاگوی شده است که ملا فلانی مذکور را
+        - عرض بنده گی نموده means presented himself at the author's service
+        - مرحمت عالی بایندعاگوی شده است means the author accepted the petitioner's request for consideration
+    - (3) کتاب خوانانیده احوالش را عرض میکند موافق فرمایش عالی اورا بجهت [امتحان] کتاب هدایه داده شد
+    - (4) جهان پناها فلانی مذکور از کتاب حج از مورید سید محرم مقدار نه خط عبارت را جند [=چند] جا غلط
+        - role of جهان پناها is unclear; possibly a governor to whom he is conveying these details
+    - (5) کرده لقمه گرفته خوانده ترجمه و تصویر مسئله را هم درست کرده نتوانست مطالعه نداشته است که
+        - لقمه گرفته means that the author gave the testee help
+    - (6) از روی رضا جویی احوالش معلوم شود گفته عرض بنده گی نموده شد باز جناب سیدم و قبله ام مختارند      التقصیر
+        - I.e. I have tested this mullah, he was found wanting, but the choice is up to you
+
+- Case 27b.2.  Appointing a mufti and rais
+    - (1) از برای رئيسی و [مفتگی] ولایت کذا موافق فرمایش عالی طالب مناسبش را همراه غلامشان 
+        - طالب here means petitioner of the position of rais and mufti
+    - (2) فلان  [یاول / لیاول] علمأ [تردد] نموده شد جهان پناها ملا فلان یکنفر از هفت نفر مدرسان مدرسه کذا که
+    - (3)  حصول تدریسی آن از کذا تا کذا [کلا/ طلا] میشده است طالب رئيسی و مفتگی ولایت مذکور شده از
+    - (4) مرحمت عالی امید کرده جناب عالی مولایم را دعا بلا نهایه مینماید امیدگاها اگر بمرحمت و مهربانی
+        - امیدگاها probably also refers to the hakim or some high official; the extra alif signifies address
+    - (5) مولایم ملا فلانی مذکور برئيسی و مفتگی ولایت سرافراز گردیده جناب عالی را دعا نماید مناسب 
+        - with the junab alis blessing you will become mufti etc.
+    - (6) باشد می گفته از روی رضا جویی عرض بنده گی نموده شد باز صاحب اختیار ند افتاب عنایت 
+    - (7) و سایه مرحمت بر مفارق امید واران تا بنده باد 
+        - prayer of supplication for the junab ali
+
+- Case 27b.3.  Ruling on a wedding
+    - (1) اُمید میکنم ]مبارکنامه همایون مرحمت عالی شده است که مهربانی نمودیم عقد کناینده دعا گیرید جهان پناها
+        - to seal the marriage the matter must go to the junab ali; not clear whether this is for all marriages or just second ones
+    - (2) در واقع عاجزه فلانی متوفی مذکور بوده بفلانی مذکور فاتحه بوده درستی انها شده طالب عقد میباشند
+        - عاجزه here refers to a woman; فاتحه بوده means engaged
+    - (3) از اجازت عالی امید میکنند مرحمت عالی چه میشده باشد گفته از روی رضا جویی جناب قبله ام عرض بنده
+    - (4) نموده شد صاحب اختیارند    التقصیر
+        - So the qazi already ruled that the marriage was valid but sent it to the junab ali for approval
+
+- Case 28.1: Filling an empty madrasa position
+    - (1) ملا فلانی مدرس مدرسه کذا بمرحمت عالی بتدریسی مدرسه ملا ایرنظر سرافرازیی یافته جایش خالی ایستاده
+    - (2) همراه غلامشان فلانی [یاول / لیاول] علمأ طالبش را تردد نموده شد جهان پناها فلانی یکنفر از چهل یکنفر مدرّسان
+    - (3) بمدرسه جعفر خواجه که حصول تدریسی آن پنجاه [طلا؟] میشده است با وجود حصول تدریسی خالی استاده مدرسه کذا
+    - (4) زیاد] بودن  بنابر تدریسی [بتهای] و مستقل بودن تدریسی خالی ایستاده مدرسه کذا را از مرحمت عالی
+    - (5) جناب عالی اُمید کرده دعا مینماید حصولش سی [پنجطلا] میشده است اگر بمهربانی جناب عالی ملا فلانی مدرس مذکور
+    - (6) بتدریسی خالی ایستاده مذکور سرافرازی یابد مناسب  ش می گفته از روی رضا جویی عرض بنده گی نموده ند
+    - (7) بار مولایم مختارند   التقصیر التقصیر التقصیر
+
+- Case 28.2
+    - (1)  قوم خانقاه بوض النور عالی رسانیده بود اند که ملا فلانی امام مایان بی پروا و چنگره بوده تشویشمندیم
+    - (2) ملا فلانی بصلاح است امید میکنیم ازینجهت [بترکنامه / تبرکنماه] [که ان] ببنام ایندعاگوی رضاجوی شرف صدور یافته که حقیقش را
+    - (3) عرض کنید حسب الفرمان لازم الاذعانقوم خانقاه مذکور را جمع کرده پرسیده تحقنیق نموده شد
+    - (4) جهان چناها همه قوم مذکور جناب عالی را دعا نموده ملا فلانی امام مذکور را بنا بر بی پروا و جنگره [=چنگره / چنکره؟] بودنش [نخواسته؟
+    - (5) اتفاق کرده ملا فلانی بخاری ختم کرده قشاق مستحق [بیجاده؟] احوال صلاحیت بامامت داشده گی اگر 
+    - (6)  بجناب عالی  سرافرازی یابد او را بامامت خود ها خواسته دعا مینمایم گفته از مرحمت عالی امید میکند حصول
+    - (7) امامت مذکوره از بیت طلا تا [بیست پنجطلا] بوده از روی دعاگویی و رضاجوی عرض بنده گی نموده شد جناب مختار اند
+
+- Case 28.3
+    - (1) فلان [وکالة] از جانب مسمّاة فلانه و فلانه بمحضر شرعی بفلان [انی؟؟] همین ششنفر دعوا قصاص نفص فلان مقتول [مورث؟
+    - (2) مؤکلتین مذکورتین خودرا نموده در [ضمن] مرافعه شرعیه فلان مدعی مذکور فلان و فلان همین دو نفر را
+    - (3) شاهد کذا یند که موافق محضر شرعی بر طبق دعوی آن اثبات نموده بتفصیل شهادت ضرعیه داده ضرور بات
+    - (4) دینی را نیز جواب گفتن حلیه و اسامی و جای استقامت و کسب دو نفر شاهد مذکور را داشت محضر
+    - (5) شرعی آن نویشته از وجه تزکیه و تعدیل آنها مرحمت عالی چه میشده باشد گفته از روی دعا گویی 
+    - (6) و رضا جوی بجانب عالی سیّدم و قبله ام عرض بنده گی نموده شد جناب عالیحضرت و [سولایم / مولایم / لولایم
+    - (7) صاحب اختیارند    القصثیر
+
+
+#### 29b: Prayers to the royal courts: هذه الدعوات لايقه التي للسلطان
+
+#### 42- 43: Waqf-related material
+
+#### 43b-44b: Khutbas
+
+- These are sermons read at the establishment of waqfs.  They are probably exemplars, however, as they also use کذا etc. instead of proper nouns.
+
+#### 43b: A final section of qadi court reports
+
+#### 54-60: Handcopied poetry, usually couplets
+
+- 54: Strange old-Cyrillic Persian transcription.  *clearly this notebook was kept in the family and read through the Soviet period*.
+- 57b: Name عمر خان خوقند followed by some Turki poetry.
+
+- Couplet - Shirin and Farhad, Leila and Majnun (p 59)
+    - حکایت لب شرین کلام فرهاد است
+    - شکنج طرۀ لیلی تمام مجنون است
+
+- Couplet (p. 63)
+    - از شورش عشق خاک بر سر زده ام
+    - بز خجر [=حجر؟] سینه خود هزار خجر [=حجر؟] زده ام
+
+- Couplet (p. 65)
+    - ای فلاطون دعوی علم تو جهل دیگر است
+    - آنچه فهمیدی نفهمید یکه فهمیدن نداشت
+
+- Couplet (p. 65)
+    - مذهب چه داری پسر درویش را خون شد جگر
+    - از عشق [توای سمبر؟] بسیار بودم در خطط
+
+- Anecdote (p. 66):
+    - (1) حکایت   شخصی صاحبدلی را دشنام راد میرفت و شکر میگفت یکی گفتش موجب شکر گفتن چیست گفت آنکه من
+    - (2) او را دشنام دادم   قطعه ظلم ظالم ذخیره است نگو که در اخیر نصیب مظلوم است  ظالم خیره عاقبت  [جونحسل؟
+    - (3) خویشتن زان ذخیره محروم است  - [توستان / بوستان هعدی علیه الرحمه؟
+
+- Couplet (p. 66):
+    - خیال بوسه حرامست در شریعت عشق
+    - بحر نسیم؟] از ان غنچه دهن مطلب
+

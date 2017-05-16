@@ -1,0 +1,17 @@
+$:/temp/info-plugin
+
+@primary_source @archival
+
+{
+    "tiddlers": {
+        "$:/info/browser": {
+            "title": "$:/info/browser",
+            "text": "yes"
+        },
+        "$:/info/node": {
+            "title": "$:/info/node",
+            "text": "no"
+        }
+    }
+}
+

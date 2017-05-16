@@ -1,0 +1,33 @@
+Transoxanian Persian
+
+@philology @glossary @transoxania @primary_source @archival
+
+*Tracking vocabulary and grammar, but not administrative lexicon*
+
+Lexicon
+
+- bējāgardī to mean "rowdiness, disturbance"
+    - [[TsGARUz i126-1-1756-2 (79)]]
+- cho'ri, Turkic term for "maidservant"
+    - [[TsGARUz i126-1-1867-6 (94)]], [[TsGARUz i126-1-1867-13 (96)]]
+- dāman′gīr to mean "obstacle"
+    - [[TsGARUz i126-1-938-2 (82)]]
+- fuqārā to mean "people"
+    - [[TsGARUz i126-1-522-2 (73)]], [[TsGARUz i126-1-931-1 (78)]]
+- ḥāẓir حاضر to mean "now"
+    - [[TsGARUz i126-1-230-1 (72)]]
+- kema to mean "boat"
+    - alongside qayyiq: [[TsGARUz i126-1-1898-17 (182)]]
+- nātābī ناتابی to mean "illness"
+    - [[TsGARUz i126-1-522-2 (73)]]
+- nūrī: manure, моддаи органикӣ ва ғайриорганикӣ, ки қувваи ҳосилхезии заминро зиёд мекунад (аз қабили пору, селитра ва моддаҳои дигар)
+    - [[TsGARUz i126-1-1904-2 (179)]]
+- tūgh to mean a kind of grass
+    - [[TsGARUz i126-1-938-2 (82)]]
+
+Syntax
+
+- Clause as direct object, i.e. (verb)-agī rā
+    - *technical name for this?*
+    - [[TsGARUz i126-1-230-1 (72)]]
+

@@ -1,0 +1,81 @@
+Ḥashmat, Taẕkirat al-Shuʿarāʾ (al-Biruni 2728, 61)
+
+@tazkirat @poetry @primary_source
+
+[[Tazkirat Index]]
+[[Manuscripts Index]]
+
+## Sayyid Mīr Ṣadīq Tūrah Ḥashmat, Taẕkirat al-Shuʿarāʾ (al-Biruni 2728, 61)
+
+تذكرة الشعراء 
+
+[[Semenov|Semenov, ed., Sobranie Vostochnykh Rukopisei Akademii Nauk Uzbekskoi SSR]] 1, p. 141; 343, 2728/II; the second volume is #61.
+
+- Энциклопедияи Советии Тоҷик (Vol. 7, 1987) on this tazkirat: 2 volumes, the first about 85 poets, the second about 88; included lots of information about poets from Afghanistan and Iran as well (p. 229).
+- Note that Hashmat used Vazih as a source for some of his data: Оид ба шоирони доираи адабии Бохорои а. 19 муаллиф асосан ба маълумоти тазкираи Возеҳ истинод карда, дар баъзе мавридҳо (мас. дар боби Шоҳин) аз мероси шоирон намунаҳои зиёд овардааст" (p. 229). Though he also added in scholars who lived after the publication of Vazih.
+- This author had a second go at this work under the same title and under # 2729 in the collection.
+
+General Observations
+
+- There are few original entries in this tazkirat.  Most poets are already described in other tazkirat, especially [[Vażiḥ, Tuḥfat al-Aḥbāb fi Taẕkirat al-Āṣḥāb]].
+- Most of the poets are Bukharan, but there are also Iranian and Indian exemplars.
+- Hashmat is pretty good about citing his sources when he is drawing the information from elsewhere.
+
+Azad (5b-8)
+
+- An Indian poet Hashmat learned about from سبحه المرجان.  This is Azad Bilgrami, famous enough to have his own wikipedia page.
+- Opening (5b): آزاد تخلص سحبان ... سید غلامعلی بن سید نوح است
+- (cont.) Origin (5b): اصل آن جناب از واسط بوده مولود در بکرام که قصبه عظیم بوده که بقریبی ولایت [قنپوح؟؟؟
+- Birth: 1116
+
+Afghan (8-12b)
+
+- Also covered in [[Vażiḥ, Tuḥfat al-Aḥbāb fi Taẕkirat al-Āṣḥāb]]
+- مع القصه مومی الیه نیز [بفتوحی؟] افاغنه چون سابق سردار گشته رو بسو آنشهر آورد لشکر [متعدد] متعاقب هم آمده بدلیران اول ملحق گشتند حصار را [جمعی؟] حلقه خاتم در میان گرفتند بعد از کوشش بسیار حق بر باطل غالب آمده جماعه رفضه [پایمال] عساکر نصرت رفیق شده  از [سائر] طرف [رخنها] افکنده شهر مذکور را مسخر نموده دست بغارت و تاراج بر آوردند مومی الیه بسرا آن جوان رسیده در کنف حمایت خود اورا در آورده عشایر و [اقسربای] او را بحکم عالی برو بخشیدند چنانچه میگوید
+- *revisit - about the conquest of a fortress with Shah Murad - see p. 9b*
+
+Ada (12b-13)
+
+- Also covered in [[Vażiḥ, Tuḥfat al-Aḥbāb fi Taẕkirat al-Āṣḥāb]]
+- Marginalia (12b) محرر گوید آن جنابرا بصور جمیله [ميله] تمام بوده ظاهرا بنابرین جهت توجه ایشانرا در خوقند اتفاقا میافتاده [زيراكه] امیر حيدر نور مرقده [جون عمر] عم عبد العزیز در ورع و عفت و اعاله شرع بأقصی [غايت] مینموده اند خوقند همیشه در همه ازمنه توسعه داشته [نوبتی] در حین بخارا رجوع آوردن آن جناب امیر نصر الله بیک از حوض [ربانی] عنایت نموده بسعی آنجناب [فرستاده] اند که اکنون پر شده اند شأن ایشان لایق نباشد بخذمت خود از [امارد] نگاه دارند و خود را مطعنی مطمعن سازيد ايشان  در جواب اين  فردرا نويشته با عريضه مصموت نموده  ببايه سريرعالي فرستاده اند
+    - uzbek poerty:
+        - يكيت ليكدا كونكل ني اوزماديم من ديلربالاردين   = dar javoni dil nakandam az dilraboyon 
+        - قري ليكدا نجوك اوزدي مركان عصالاردين        = dar piri az baroyi chi? [dil] kandam az [onho] baroi asoho.  
+
+Ansab (13-13b)
+
+- Also covered in [[Vażiḥ, Tuḥfat al-Aḥbāb fi Taẕkirat al-Āṣḥāb]]
+
+Akbar (13b-14)
+
+- Also covered in [[Vażiḥ, Tuḥfat al-Aḥbāb fi Taẕkirat al-Āṣḥāb]]
+
+Amir (i.e. Umar Khan) (14-15)
+
+- Also covered in [[Vażiḥ, Tuḥfat al-Aḥbāb fi Taẕkirat al-Āṣḥāb]]
+- (14): مراسلات و مکاتبات بسیار واقع میشده است و بسلاطین درو و ایران نیز چنین بوده که از تواریخ معلوم میشود و در دیباچۀ
+    - (cont.) Marginal note on Timurid legacy (14): دیوان خود نوشته محرر دیدم که خاندانشان تیموری نژاد و از اولاد بابر سلطان بوده است
+
+Amlah (15-15b)
+
+- Also covered in [[Vażiḥ, Tuḥfat al-Aḥbāb fi Taẕkirat al-Āṣḥāb]]
+
+I'raj (15b-16)
+
+- Also covered in [[Vażiḥ, Tuḥfat al-Aḥbāb fi Taẕkirat al-Āṣḥāb]]
+
+Afqar (16-16b)
+
+- Also covered in [[Vażiḥ, Tuḥfat al-Aḥbāb fi Taẕkirat al-Āṣḥāb]]
+
+Asiri (17-18)
+
+- Also covered in [[Ḥājī Niʿmatallah, Taẕkirat al-Shuʿarā-i Muḥtaram (al-Biruni 2252 II)]]
+
+Arzu (18b-19)
+
+- Indian poet
+- Opening (18b): آرزو تخلص سراج الدین علی خان است که جامع معقول و متقول بود
+- (cont.) Ancestry (18b): نسب ایشان از جانب پدر بشیخ کمال الدین جواهر زادهً شیخ نصر الدین محمود میپیوندد و از طرف مادر بشیخ محمد غوث گوالیاری منتهی میگردد در اواخر سلطنت اورنگزیب عالمکیر 
+continue
+

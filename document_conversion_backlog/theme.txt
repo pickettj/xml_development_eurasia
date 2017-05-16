@@ -1,0 +1,6 @@
+$:/theme
+
+@primary_source @archival
+
+$:/themes/tiddlywiki/starlight
+

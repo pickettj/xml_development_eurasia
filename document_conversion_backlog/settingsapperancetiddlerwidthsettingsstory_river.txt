@@ -1,0 +1,6 @@
+$:/settings/apperance/TiddlerWidthSettings/story_river
+
+@width_settings @primary_source @archival
+
+
+

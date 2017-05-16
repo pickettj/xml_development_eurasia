@@ -1,0 +1,47 @@
+Goriachkin, Doklad po gorodu Samarkandu (RGIA F1396 O1 D342)
+
+@rgia @vostokovedenie @madrasa @primary_source
+
+[[RGIA Index]]
+
+1396.1.342  8 февраля 1909-20 марта 1909, ?, Доклад инспектора  Казанской татарской учительской школы А.В. Горячкина о состоянии народного образования в г. Самарканде в двух частях. 
+
+Продолжение доклада по городу Самарканду; Составить А. Горячкин (121).  Subsection: Мадрасы (138).
+
+- Puts the number of madrasas in Samarkand at 19 (138b).
+- Горячкин lists the entire madrasa sequence of education. All madrasas organized into three "departments" (отделение): beginning (адно) [ادنی], intermediate (аусат) [أَوْسَط], and advanced (а'ло) (138b).  *The numbering of the sequence is mine.*  Note from #9 p 139 begins.
+    - Beginning (адно): 
+        - 1. Introduction to Arabic grammar: Введение въ арабскую грамматику "Аввали-илмъ" на персидском языкѣ въ течении одного месяца" (138b).
+        - 2. [Бидапъ???] Arabic grammar - no more than 3 months
+        - 3. [Муз'ыза?] Arabic grammar - 3 months.
+        - 4. [Зирджапи??] Arabic grammar - 3 months.
+        - 5. [Авамиль?] [ ] - 3 months.
+        - 6. "Харакат" наука о [зпачкахъ?] - 2 months.
+        - 7. "Мир'адж" Arabic grammar - 3 months.
+        - 8. "Шафия ва Вафия" [ ], Arabic grammar - 5 months.
+        - 9. "Кофия" [ ] - 3 years. 
+        - 10. "Шархи Кофия" commentary on Kofia - 5 years.
+        - 11. "Хашия" logic.  a commentary on "Шамсия" - 1 year.
+        - 12. "Мухтассарх - ум - Викая" jurisprudence (законоведение) - 4 years.
+    - Intermediate (аусат):
+        - 1. "Акаиди Насафи" [? ?] - 4 years.
+        - 2. "Шархи [текзиди ?] - 2 years.
+        - 3. "Шархи Викая" jurisprudence - 2 years.
+    - Advanced (а'ло):
+        - 1. "Хикмат-уль-[айнъ?] - физика - 2 years. [along with?] ["Но н мокале Хикмет-ум-айнъ"] 
+        - 2. "Мулла Джилол" логика - 2 years.
+        - 3. "Хидая" jurisprudence - 5 years.
+    - Total years for the advanced sequence, according to Goriachin's tally, is 7-8 years.
+- Meetings per week: Лекции читаются мударрисом четыре раза в неделю... (139).
+    - I.e. classes do not meet on Thursday, Friday, and in some madrassas Sunday (139-139b).
+- Listing the 5 most prominent (Более известные и многолюдные) in Samarkand: Ширъ-Доръ,Улугъ-бекъ, Тиля-Кори, Шейбанилаго, [Арифъ-Джааамъ-Бай] (139b).
+- Тиля-Кори: Founded in 1631 by Ялантушъ-Бейъ.  70 students living in khudjras, and 20 walk-ins (приходящие) (139b).
+    - Of those 70 students, 32 were Tajiks, the rest Uzbek (139b).  *very interesting that this is a question of import in the first place.*
+    - Only one mudarris: мулла Имам-Назаръ-бей-Мухаммад-[оле].  "[Обчать] исключительно въ Бухаре" (139b).
+    - The madrassa also has two... "... мукаррира (репетитора): Туреунъ-Кулъ-[Мапоурбаево] и Мулла Зейяръ-Рохимъ-бек-оллы".  Both of them received their educations in Bukhara and Samarkand and (I think, but can't quite make out the script) that they were once students in the very same school: "Оба они обучались въ мадрассахъ городъ  Бухары и Самарканды и ??? мукарааирами... изъ учениковъ того же медресс" (140).
+    - Explicitly references Nalivkin's 1892/1893 report with regard to the madrassa's waqf income (140): 360 rubles to the mutawalli; 1080 split between two mudarrises; 33 rubles per khujra, of which there are 54 (140b).
+        - Now, the author notes, there is only one mudarris
+- Ширъ-Доръ: "Второя изъ старинных мадрасъ в городе Самарканде - мадраса "Ширъ-Доръ" - основана въ 610г Ялантушъ-[Бемъ]" (141b-142).  80 students, one or two walk-ins. 60 khujras (142).
+    - One Mudarris: Мулла Муса Ходжа Самарканди, 70 years old, educated in Samarkand (142).
+    - Most of the students are Tajik; only 10 Uzbek students (142).
+

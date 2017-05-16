@@ -1,0 +1,6 @@
+$:/state/ShowPaletteEditor
+
+@primary_source @archival
+
+no
+

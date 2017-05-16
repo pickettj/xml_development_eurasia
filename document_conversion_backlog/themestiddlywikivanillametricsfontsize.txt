@@ -1,0 +1,6 @@
+$:/themes/tiddlywiki/vanilla/metrics/fontsize
+
+@primary_source @archival
+
+11px
+

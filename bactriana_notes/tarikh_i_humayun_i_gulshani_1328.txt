@@ -1,0 +1,384 @@
+Tārīkh-i Humāyūn-i Gulshanī, 1328
+
+@dush_written_heritage @manuscript_persian @geography @bukhara @primary_source
+
+[[Manuscripts Index]]
+
+## Tārīkh-i Humāyūn
+Institute call number: 2968
+Title: تاریخ همایون
+Author's full name: محمّد صادق قراول بیگی (متخلّص) گلشنی بخاری
+Muhammad Ṣādiq Qarāvul Bīgiyy (mutakhalliṣ) Gulshaniyy Bukhāriyy
+Written: 1328 / 1911
+Discovered: 1999 (and hence not in any of the catalogs)
+
+Edited edition in Tajik: Jurabek Nazriev, Ta'rikhi Humoyun, Mukhammad Sodiqkhojai Gulshani, Dushanbe 2006, Pazhuhishgohi farhangi forsi-tojiki, 500 prints
+
+
+This is the manuscript version of what will soon be an edited edition; the late Amriyazdon Alimardonov was working on publishing it.  This source does not seem to be listed in any of the catalogs.  Even though it is called a history, this is really more of a geography.  Much of this text is straight-up data (i.e. number of madrasas, population size); where especially interesting, I will copy down said data and elsewhere I will merely index where it can be found.  Generally, I tried to write down the proper nouns to enable easy searching later on.
+
+#### Introduction
+1 (*note: Gulshani himself also numbers the pages starting from here, which means 1b = the author's page 2, page 2 = the author's page 3, etc.*)
+
+- Author's father's name: محمد میر سید مفتی مدرس
+- Author mentions that he has reviewed (مطالعه مینمودم) a work by شمس الدین سامی who wrote قاموس الاعلام
+- Also mentions a Russian traveler named [[Meiendorf|Meiendorf, Otryvok" iz" puteshestviia v" Bukhariiu, 1821]] (مندورف) who traveled about the region and wrote about its geography in 1820 (1228 hijri in the margin); *interesting that he uses the Christian era when referring to the travels of a Russian and the hijri everywhere else*
+1b
+
+- Remarks that in the 86 years since "Meiendorf"'s travels ago many formerly independent cities have been brought under Bukharan control: در آن وقت شهرسبز و حصار و ختلان و قره تکلین (؟) درواز همۀ اینها حکومات مستقله بوده است و اینها در ظرف یک قرن ضمیمآ دولت بخارای شریف گشته است
+- Also remarks that Bukhara made great advances (ترقی و تزاید) and that there were great changes (تفاوت بسیار) during these years.
+- The title of the book is a reference to one of Abd al-Ahad's titles: چون سال بیست و پنجم از جلوس همایون جنابعالی امیر المومنین و امام المسلمین نزدیک شد
+    - *the titles they lavish upon these khans are unbelievable... they address him as a caliph*
+2
+
+- This text is arranged into 8 chapters (مقاله) in accordance with the number of states (ایالات) of Bukhara.
+
+#### Chapter 1: Bukhara and its Environs - مقاله اول در ذکر ایالت بخارا
+2
+
+- Opens by mentioning some of the early history of Bukhara, Qutaiba, etc. starting in the year 24 h.
+2b
+
+- Qutaiba himself built 7 mosques in Bukhara.
+- حضر himself helped Qutaiba determine the proper direction for the qibla to face.
+    - Specifically, Hizr showed the qibla for the مسجد لب حوض لبک and مسجد جامع را که الآن مسجد طلان, the latter of which was destroyed in an earthquake (حرکت ارض).  The mosque that stands there now was constructed by Alb Arslan in 455 h.
+- Bukhara has 11 gates: قواله، مصلاخانه، نمازگاه، شیخ جلال، قراکول، شیر کیران، اُغلان، تل پاج، حضرت امام، ثمرقند، مزار شریف
+- City length:   از دروازه قواله تا شیر کیران نیم فرسخ است و عرض بر رخارا از دروازه مصلاخانه تا دروازه ثمرقند ربع فرسخ است
+3
+
+- Mahallas (گذر و محله) / neighborhoods: 196; each mahalla has between 1-3 mosques.
+- Houses (حوالی و بیوت) and courtyards: 5000.
+- (نفوس) Population: 180,000.
+- Stone (سنگین) madrasas: 199; (طلبۀ علم) students: 50,000, though they also study at the کورخانه and خانقاه
+- خانقاه Sufi lodges: 17
+- Mosques: 391 in the city proper, 657 in the city more broadly
+- Muezzins: 615
+- Caravansarays: 136
+3b
+
+- 20,000 travellers at any given time from the tribes (قبیل) of Pishawar, Afghan, Hindu, and Khoqandi travellers, Kashgar, and others.  These travellers bring the total number of city residents to 250,000
+- Author references the number of صلواة خان in the same sentence as صحح خان; Faizollah says that this refers to a book by مسعودی (*check*).
+- Page includes some more data about the numver of hafiz employed by the govt.
+- Govt. religious posts: و یک نفر آخوند و یک نفر اعلم و یازده نفر مفتی و یازده نفر محرر و چهار مشایخ کبار و دو صد چهل شش مدرس ششصد و هشت نفر امام و خطیب
+4
+
+- 3,320 individuals were supported by waqf all together.
+    - A government office also appoints these individuals and provides them with a robe of honor (خلعت), but their sallaries (کسب معاش) come from the waqf.
+- Mentions a mazar outside the city: و یکی (ای یک غرباخانه) خارج شهر بسر مزار قطب العارفین
+- Hamams of Bukhara: 17
+- Jewish (کنیسه یهود) Synogogues: 1
+- Prepatory (ابتدای) Maktabs: 195; remarks that their instructors are supported by waqf.
+- Bukhara's states are divided into three governments and eight districts: و ایالت بخارا منقسب میشد بر سه حکومت و هشت قضأ
+4b
+
+- Districts of Bukhara: بخارا، غجدوان، قراکول، وابکند، پیرمست، شافرکام، رامیتن، زنده نی، خیرآباد
+- Author emphasizes Bukhara's adherence to Islamic law, but notes that outside the city the Hakim is in charge: داخل شهر بخارا مفوض بقاضی اسلام و البته با حکم شرع است اما حکومت اطراف دایره حصار بخارا شرقا و غربا و شمالا و جنوبا محول و مفوض بصدارت پناه رَئِيس و محتسب 
+- The judicial administration of the emirate is divided; those inside the city are overseen by the قاضی اسلام who governs by the Sharia; however, outside the city are administratively separate and are dealt with by the hakim (?) صدارت پناه رئيس and the محتسب بخارا.
+- This page contains data on the district (قضأ) of __جنوبی رود__ which is popularly known as مزار because of the aforementioned  مزار قطب العارفین; data on madrasas, khanaqas, population, etc.
+- Also contains data on the district (قضأ) of شمالی رود
+    - Author seems to use the term تومان interchangeably with قضأ.
+5
+
+- Page covers the heavily populated and rich قضاری of __قراکول__ which is 7 farsangs from Bukhara.
+    - So rich is the populace that nearly everyone has a herd (گله) of horses.
+- The province used to be much bigger, but suffered in the last century from desertification: شمالا و جنوبا ریگ احاطه نموده است 
+    - *Transoxiana requires very active irrigation for agriculture, so this is a sign of negligence.*
+- Due to a lack of learning many in this provence becomes traders.
+- Fittingly the name of the province comes from its specialization in selling the skin of Qarakol sheep which are sold to Russia and Europe (اوروسا و فرنگستان).
+5b
+
+- Qarakol also has a salt mine which tens of thousands of people with joint-related illnesses visit for its curative properties: متجاوز از ده هزار نفر صاحب امراض عصبانی از قبیل عرق النسأ و وجع المفاصل و نقرس در این معدن از جهت تداوی میآیند
+    - *Jess helped me check on this; turns out that salt mine therapy is a real thing for this sort of condition.*
+- __پیکند__, or the ruins thereof, is also in Qarakol within the desert.  Paikand is also known as مدینه البخاره, i.e. the original, now ruined Bukhara.
+- References the campaign of عبدالله بن زیاد that destroyed the city.  Some ruins, including the Ark, can still be seen.  Treasure hunters even still look for silver and gold in the ruins. 
+6
+
+- Author remarks that Paikand was destroyed for two reasons: the Arab conquest and the desert encroachment.
+- The third government (حکومت سیوم) of Bukhara is the قضا of خَرقانرود which is also known as غجدوان, which is the older name of the province.
+- Provincial delimitating landmarks: طول آن از تخت قیر بابا دوغی تا موضع تل غندکشرقا و غربا نه فرسخ است
+- A stone Khanaqa exists at the top of بسر مزار شیخ تاج الدین
+- Mazar of فایض الانوار شیخ عبد الخالق
+- There is also a madrasa built by Ulugh Beg میرزا الوغ بیک
+6b
+
+- Province is home to a magnificent bazaar as well as a large population of Kazakhs (قزاقیه) of the Nur Ata (نور اتاأ) tribe.
+- The people of this area have a nasty habit of using fireworks on holidays and getting hurt in the process: مردمان اینتومان بموارد اعیاد ها بآتش بازی و موشک اندازی بغایت جسارت دارند هر سال چند نفر تلف و مجروح میشود
+- Also breed Arabian horses (اسبتاز) in this provence.
+- There about 500 Indian Magians (هنود مجوس) living in this province who work as moneylenders (برباخوری مشغولند).
+- Mentions a mulberry tree on the road to Bukhara in this province, the fruit of which helps couples get pregnant.  This tree is connected to the saint Ghijduvani, عبد الخالق
+7
+
+- More on the aforementioned mulberry tree: درخت توت مذکور اثر قدوم مبارک آنجاب است, i.e. traces of Ghijduvan.
+- The قضا (also in the third government...?) of __کامات__ which is better known as وابکَند.
+- Author is very enthusiastic about the quality and prosperity of this province.
+- Province contains the ruins of سُرچُق.
+7b
+
+- This tuman is home to the descendants of the Arab conquerers (اولاد مجاهدین اسلام) from the Najib tribe of Arabs (از قبیله نجیب عرب) who number about 3000.
+- About 50,000 households in the province total.  Many of the inhabitants are Turks, including members of the Manghit tribe.
+- There are Tajiks as well along with a variety of legends about the home village of Ibn Sina, some of whom say he is from نرچق or کمشکند, but the correct tradition is that he comes from a village to the south of the city.
+- The fourth قضا is __پیرمست__ which is about 4 farsangs from Bukhara.
+8
+
+- There is also an Old Pirmast (کهنه پیرمست) with some ruined Khanaqas.
+- This province is home to a large number of migrants from Khiva whose ancestors migrated long ago.
+- Province is filled with gardens and fruit.
+- Province used to be called لب رود.
+- This province is also home to about 3000 Arab households from the Najib tribe.  Even claims that they still speak Arabic: که الآن بلفظ عربی محاوره دارند
+8b
+
+- The fifth قضا of the ایالت of Bukhara is __زنده نی__ (or possibly زنده یی)
+- This province is massive in space, but has a very small population because it is an arid desert: این تومان بغایت وسیع و کثیر الاراض میباشد و قلیل النفوس است اراضی بایر غیر مزروع
+- Despite the poverty of the soil, the province is exclusively made up of farmers... they are just poor farmers.
+9
+
+- Also, only about one in a hundred people are literate in this province.
+- Mazar: مزار فایض الانوار سید احمد which is famous for the "11 Ahmads", 9 of which are located in other villages.
+9b
+
+- This province was ravaged during wars with Khiva, which is another reason the province is depopulated.
+- Only about a fourth of the province remains; the rest to the north and west has been swallowed by sand.
+- The aforementioned mazar is to the son of Uthman: مزار فایض الانوار حضرت ابان بن عثمان بن عفان
+10
+
+- Province is situated on the northwest side of Bukhara.
+- The province has another name used only in official documents: ختفر
+- The province (قصبه تومان) of __سامجن__ which is better known as رامتین. 
+- This province has a large population but little farming.
+- Entirely a farming community.
+- There is a very old ruin in this province attributed to the daughter (دخت) of افراسیاب
+10b
+
+- The province name رامتین comes from آرام تن from when Afrosiab's daughter was sick and became well again in that locale.
+- Naqshbandi mazar: مزار فایض الانوار بابای سماسس که رشد حضرت شاه نقشبند 
+- The author credits the courts (محکمه) for the prosperity int his province because it is known for its unruliness: در نهایت درجۀ شورش و غوغا اند
+11
+
+- Author includes a story about why the province is so unruly: When Adam and Eve and the serpent were cast out of heaven, the devil landed in Ramitin.
+- Sand is also overtaking this province.
+- Most of the residents are poor.
+- The قصبه تومان of __خیرآباد__ is the smallest of Bukhara's provinces.
+11b
+
+- The reason Khairabad is so small is because half of it has been enveloped by sand.
+- Before it was swallowed by the sand, Paikand used to be connected to this province as well as قراکول.
+12
+
+- Among the old buildings of this province is the قورغان named تاراب.
+- Ruins such as that of an ark reveal that there was once a grand city in this area.
+- The inhabitants of this area were also subject to a siege by the Khivans and fled to the local Qurghan.
+- Inhabitants are almost exclusively farmers.
+- The قبصه تومان of __وردانزه__ better known as شافرکام.
+- This is also a small province as a third of it was swallowed in the past century to the north and west.
+12b (*author's page 24*)
+
+- Mazar: فایض الانوار حضرت سید اتأ
+    - *what is the deal with all of these mazaars starting with* فایض الانوار? *must be a title*
+    - This mazar was celebrated in prose by میرزا صفر منشی منجمین متخلص عبدی; author repeats the verses on this page.
+- Mazar: مزار فایض الانوار حضرت خواجه عارف ماه تایان
+- This province is fairly wealthy and is made up of traders; also a large population of Kazakhs.
+13
+
+- These aforementioned Kazakhs are nomadic and herders.  They are of the کوکچی and آقا اتأ tribes.
+- The قصبه تومان of __وَغانزه__ (*Faizollah says this is an old Soghdian word*) which is better known کام ابو مسلم or گام ابو مسلم
+- This province is largely made up of Arabs of Qutaiba's armies of the Najib tribe as well as Uzbeks.
+- It is a well-off province with a renowned Bazaar.
+13b
+
+- Home to a nice Khanaqa built in 1280.
+- Large population.
+- Since the province is connected to a plain (چول ملک) many people here own horses and animals.
+- The Russian railroad extends into this province.
+
+14
+
+- Inhabitants are entirely farmers; they are generally wealthy and the province is filled with gardens.
+- The railroad is connected to the eastern end of this province; the station is called قزیل تپه.
+- 5 farsakhs from Bukhara; it is connected by the old road of میانکال.
+- Mazar: حضرت عبد الواسع
+- People here are good natured and like music and conviviality (ساز و طرب).
+- There are also a number of Hindu Magians (هنود مجوس) living in the province who work as moneylenders: و مقدار سیصد نفو از هنود مجوس در اینجا ساکن و ربواخواری مشغولند
+14b
+
+- Province has excellent Arabian horses.
+- The Zarafshan (دریای زرافشان) river is located to the southwest of the province.
+
+#### Chapter 2: MianKol - مقاله دویم در ذکر ایالت واسعۀ میانکال
+14b
+
+- Origin of the name: Historians offer several explanations.  Some say it is minspronunciation of "میان دو کوه".
+- The province is situated between two mountain ranges - نور اتأ  to the north and the متصلا mountain range to the south.
+- The seat of government is Karmina: مرکز حکومت این ایالت ولایت کرمینه میباشد
+- The province is broken into eight subgovernments (حکومت) which are: : کرمینه، ضیأ الدین، حضرت جی، باغچه کلان، نور اتآ، غجوم سرای، کان میغ، نیک قورغان
+15
+
+- The ولایت of __کرمینه__:
+- This province is also home to ruins from Afrosiab in the south near the Zarafshan river.
+- More insane sycophancy: جناب امیر المومنین و امام المسمین سید امیر عبد الاحد خان - *the "kitchen sink" approach to titles*
+- During the "Caliphate" (خلافت) of Abd al-Ahad's father, Abd al-Ahad ruled this province and he built a palace there.  This palace was built in 1290 and was of unparalleled grandeur.
+15b
+
+- The province is extremely populous and also has a lot of fruit and water.
+- Province is made up almost exclusively of Uzbeks, but there are also Najib Arabs.  In a village there are also about 200 Iranians.  In the Qurghan there are some Hindu Magians, as well as some wealthy Jews.
+16
+
+- About 50,000 households in the province.
+- Mazar: فایض الانوار حضرت قاسم شیخ
+16b
+
+- آنف البیان is the name of a famous sarai in the region and it is owned by one of the leading Qaravol (قراول) houses of Bukhara.
+- Population is mostly made up of itnerant Uzbeks.
+- This area also has some ancient ruins.
+- There is a grave of a moneylender (سودخوار) near the mazar of مزار حضرت قاسم شیخ
+17
+
+- Above the aforementioned mazar is a stone with pictures of snakes and scorpions; no matter how hard people try to rub them off, they remain.
+- The village of قرنب is located 5 farsakhs away. It is entirely mountainous.  It is entirely Uzbek.
+    - Two main groups (فرقه) of Uzbeks: اکیت و درگر یربُزبله (sp.?); also the اوج اوراغ
+17b
+
+- There is excellent hunting in this province, including gazelles. 
+- In addition to hunting there are sheepherders and camelherders in this province.
+- Between کرمینه و قرنب is a famous cave at the mountain کوه چادر تپه. The cave is known as بابا اتأ and people put a rope down it every year and go into it to tell stories.  The author himself visited the cave to inquire about it.
+- Here the author references a book published in Istanbul.
+18 
+
+- This aforementioned Turkish book says that the aforementioned cave connects to Yemen: (continuing from previous page) نقل مینماید که از جوف زمین بخارای شریف در ولایت یمن که از اقلیم افریقا است راه اسد
+- Page goes on about the value of some very excellent water that comes from a spring.
+18b
+
+- قَرنَب is located 11 farsakhs to the east of Bukhara.
+- It's inhabitants consider themselves to be sayyids: اهلی قرنب خودهایشانرا از احفاد اهل بیت بنس میدانستند
+- Likewise, the name of the province comes from قریب بنی
+- سرمیج is another village with a spring in this province.
+- All of the next page is devoted to describing the magnificent gardens of Sarmich which, according to the author, are a wonder of the earth.
+19
+
+- Composed of 200 households, mostly Uzbek.
+- The amir has a Chaharbogh in this village.
+- There is also a remarkable mulberry (توت) tree there that grows directly out of the rock: از جوف سنگ بر آمده است تحت ساق آن قطعا خاک ندارد
+- The nearby village of دادش has a spring.
+19b
+
+- Said village is also host to a community of خواجه گان, i.e. of Arab descent.
+- The next قضا is __ینگی قورغان__, which is composed of two separate parts, the second of which is called هزاره.
+- Like everywhere else, there are ancient ruins in this village.
+- It is a populous province with 7,000 families, 3,000 of which are Uzbek, 4,000 Arab.
+20
+
+- Mazar: مزار فایض الانوار مولانا عارف 
+- هزاره is composed of 3,000 households, entirely Uzbek.
+- This village is apparently also famous for its Arabian horses.
+20b
+
+- The second government (حکومت) of MianKal (the first of which was کرمینه) is __ضیأ الدین__
+    - Note that [[Hisari worked here|Muhammad Ḥisari, Yāddāshthā, 1268-1296]] for a while.
+- Also known as: نهر پَی and قلعه دبوس.
+- It is the widest (وسیع ترین) province of MinaKal at 18 farsakhs.
+- Inhabitants are largely Uzbek; one is the نیمن tribe and the other خطای
+- About two thirds of the province are urben dwellers (اهل تمدن); the rest are pastoralists.
+- They are known for their exceptional horses, which are sold in Bukhara.
+21
+
+- The province is extremely fertile and the peasants do just fine as farmers.  Also has lots of marvelous water springs coming from the surrounding mountains.
+- 70,000 residents total.
+- A railroad connects to the southern side of this province.
+- Every year 2/3 (ثلثان) of the produce of this province is sent to Bukhara (possibly by rail, though the author does not explicitly say so.
+21b
+
+- @@Many Ulama originate from this province@@: این مملکت مسقط الرأس بسیار از علمأ و فقهأ و فضلأ و شعرأ بوده
+    - Every year during the scholarly season (در ایام تحصیل) more than a thousand students go from here to Bukhara for schooling.
+- Located 18 farsakhs from Bukhara to the east.
+- In the location of توغی رباط there is a cotton factory (زود پخته - from the Russian zavod).
+    - Author notes that the cotton factory was built by the government of Bukhara: از طرف دولت بخارا بنا شده است
+    - The factory is of unparalleled volume such that: در پاریژ و برلین و لندن و مسکو نیست
+        - *interesting that author is stacking the state of Bukhara against these competing Western powers*
+- The third حکومت of MianKal of __خطیر چی__
+- A populous province of soldiers and merchants second in quantity only to Bukhara.
+22
+
+- The province is bounded on the north by a mountain range and to the south by the Zerafshan river.
+- Province is home to a population of Hindu Magian moneylenders and some Jews up to the same.  However, Uzbeks are the most populous group in this province.
+- The province also has a bit of a gambling problem.  In general the province is given to vice:  فعل منکر میسر درین بلده بسیار شیوع دارد و جوان خورد و کلان آنها باین بلیۀ مبتلا اند
+22b
+
+- Mud is a seriously problem in this province during the winter and every year a few horses are left to die at the pass.
+- Total households: 35,000.
+- 18 farsakhs from the eastern corner of Bukhara.  Adjoins the eastern side of کرمینه, which is 5 farsakhs away.
+- (marginalia) a marvel of this province is a quivering rock (سنگ جنبان)
+23
+
+- The حکومت of __باغچه کلان__
+- Even though this province is connected to Karmina (این مملکت هر چند که حاکم برأسه دارد ضمیمه حکومت ولایت کرمینه است), people go to Khatarchi to resolve disputes: لیکن من حیث المرافعه کانه از ملحقات ولایت خطیر چی
+    - Reason: the north of this province is entirely mountainous, so the citizens cannot go that way for justice.
+- Gardens of Iram reference: این ولایت بدرون کوه بلب چشمه آب ها است خصوصا موضع کوک سرای که گوی سبقت از باغ ارم ربوده است
+- Entire province is made up of Uzbek tribes.
+- 7,000 households.
+- 18 farsakhs to Bukhara.
+- Population is entirely agrarian.
+23b
+
+- The حکومت of __کان میخ__
+- Province has a formidable Qurghan on the top of a hill situated between two plains (قیر), one named خزلان and the other پای دلدل and they extend to بابا دوغی
+- این قسبه از محاذی قورغان ولایت کرمینه انتهای آن ممتد تا توقوز تپه میشود
+- This province is actually mostly made up of Karakalpaks قره قلپاق, as well as some قزاق و اندک قبیله اوزبک
+    - The karakalpaks there are sedentary (متمدن); the Kazakhs are nomadic.
+- There are even some Khirgiz قیرغز
+24
+
+- Nearby location: توقوز, where people like to hunt and farm.
+- 9,000 households; 11 farsakhs from Bukhara from Bukhara's northeast corner, 3 from Karmina.
+- The حکومت و ولایت of __نور اتاء__
+24b
+
+- Qurghan of this province is located atop a mighty mountain.
+    - This Qurghan is also notable for its connections to Alexander the Great: قورغان یلایت مذکوره از ضمله اثار ملک اسکندر ذو القرنین است
+        - بجانب جنوبی این قورغان مقدار نیم فرسخ قدم گاه ملک اسکندر نیز موجود است مشهور به ذو القرنین است الحال زیارت گاه انام است
+25
+
+- There is a sequestering house (چله خانه) where Bahauldin Naqshband used to frequent. Now it is a meeting place of the Sufi pillars of the age: پنج شب سر این چشمه خالی از مردمان پوشیده حال و اهل الله نیست محل اجماع چهل تن و قطب و اوتاد است
+- Population: 16,000 families.  Mostly merchants and knitters by profession, some farmers.  Generally a wealthy population.
+- Mazar in surrounding village: شیخ احمد کبیر
+25b
+
+- Footprints of Ali in the outskirts of Nurata: غزغان است در آنجا قدم گاه امیر المومنین حضرت علی یار چهارم
+- There is also a sacred footprint spot of قدم گاه بابا قنیر above which there is the image of a camel.
+- Nearby there is yet another footprint area of Hussain and Hasan (امامین).
+- To the north we have another Qadamgah, this time of Imam Hanifa.
+- There is also a marble quarry in the area (معدن سنگ مرمر) as well as one for lime plaster: پیشه و حرفه آنها سنگ تراش است معدن سنگ مرمر آنجا است و معدن آهک نیز در اینجا موجود است
+26
+
+- Every year 10,000 camels of آهک are exported from this mine.
+- The people there are known for the trays they make from the marble.
+- Other nearby villages: فَنِکَت - فنکت غُجومسرای - عجومسرای
+- Residents are primarily Tajikis with some Najib Arabs
+26b
+
+- There are also many Turkmen in the vicinities of this province.
+- The inhabitants of this region have developed a special kind of subterranean canal: و چشمه آبهای مصنوعی که باصطلاح اهالی کوهستان آنرا کاریز میگویند
+    - In the past this province had 360 of these کاریز; now there are only 100.
+    - *evidence of deteriorating irrigation*
+- Population home to 10,000 households of قزاق و قره قلپاق و کربیت
+- Coal working: کسب آنها بیستر انگشت سوزی و انگشت فروشی است
+- Province is surrounded by massive mountains.
+27
+
+- 18 farsakhs from Bukhara from the northeast corner of Bukhara.
+- Province is 15 farsakhs long; connected to جزخ on one side.
+- The northern mountains are well-suited to hunting foxes and سوسار, *whatever that is (Faizollah says something like a hyena).*
+- The __total population__ of میانکال is 210,000 households which amounts to about half a million individuals.
+
+#### Chapter 3: Labi Ab لب آب
+27b
+
+- This is a long thin province - east to west it is 50 farsakhs.
+- It also separates Bukhara from Afghanistan and touches Khiva.
+- The province is almost entirely made up of Turkmen. They are the bravest and most fervent of all Central Asia: که غیور و جسور ترین قبایل و عشایر اهالی و رعایایی ما ورأ النهر
+- On the importance of the Amu Darya: اکثر ایالتهای بخارا بکنار این نهر است  ازین سبب منبع و مصب این نهر را بیان نمودن خالی از منفعت نیست.  
+    - Also discusses the source of the Amu Darya in the Pamirs: بام دنیا مینامند ابتدای آمویه
+28
+
+    - The Amu Darya flows all the way to the Aral Sea (کول ارل) which is between Astrakhan and Khiva: که در میانه خیوه و هشتر خان است
+- Mentions Kirkih کرکه, which is today in Turkmenistan and called Ata Murod, named after Niyazov's father.
+- This province (ایالت) is divided into into 11 (قضاء) districts.
+

@@ -1,0 +1,53 @@
+Holistic Fiqh Handbook - 18th century (PNB F924 D596)
+
+@manuscript_persian @pburg_natsbib @fiqh @primary_source
+
+[[Rossiskaia Natsional'naia Biblioteka (St. Petersburg) Index]]
+
+## PNB F924 D 596.  149 листов.  18 в.
+
+Opis description: Неуст. соч. по фикху, содержащее примеры судебных решений.  18th century.  *note: I am unaware how the textologs determined the 18th century designation*
+
+This is an all-purpose volume on practical fiqh.  It is organized by section in the standard order of Islamic law, but has a massive variety of entries - Arabic excerpts of various legal manuals, Persian riwayyat rulings, explanations.  The riwayyat in this volume seem to be somewhat more exemplary than in some of the other books; could very well be that they were copied rulings of other muftis.  Strikes me as a qazi's practical go-to book.
+
+- Possibly originates from Samarkand?  On the first page (p. 2) it the first case reads: درانجه شرعاً زید را که زینب زوجۀ خود را که ساکنۀ سمرقند استط... (p. 2).  Also, and less convincingly, 146b references the word جغرات, which according to دهخدا is a specifically Samarkandi word for yoghurt (p. 146b).
+
+#### کتاب القضاء (p. 88b)
+
+#### Kitab al-Hudud
+
+- Case 126b.1.  No special treatment for a talib
+    - (1) در انجه زید فاسق طلح صالح متدینا خواجه زاده را بالفاظ شنیعهۀ موجب التعزیر دشنام
+    - (2) داده است شرعا درینصورت زید مستحق تعزیر بدرّه مناسب علی ما یراه القاضی شده باشد
+    - (3) و نهایت تعزیر مدرسی [و نه] باشد هر چند که زید طالب علم باشد بشرایطه الاشراف 
+
+#### Kitab al-Jihad
+
+- Case 128b.1.  Highwaymen
+    - (1) درین مسله که جمع معلومین در شب بر حوالی خالد هجوم کرده مکابرة  درآمده اند و این خالد کشته 
+    - (2) شده است بشریعت حکم این جمع حکم قطاع طریق باشد هر جند این جمع خالد 
+    - (3) بعضی ازین جمع کشته باشند و بعضی ورثۀ [یا لغین؟] خالد ازین جمع عفو کرده باشد چون اله این
+    - (4) حوالی خالد قادری امتناع نبوده اند و برین جمع قتل باشد بشرایطه باشد
+    - *lengthy justification referencing الخزانه inter alia*
+
+#### End section that seems to be spillover for a number of topics
+
+- Case 147.2.  Accusation of cursing the Rightly Guided Caliphs backfires
+    - (1) درانجه خالد میگوید که زید قبل ازین دو ماه حضرات چهار
+    - (2) یار را رضی الله عنهم دشنام کرده است و زید مسلک منکر قول خالد است و میگوید که
+    - (3) حاشالله] که از من دشنام چهار یار رضی الله عنهم وقع شده باشد بشریعت درینصورت که 
+    - (4) بر تقریر یکه زید نزد قاضی اسلام برین گفته خالد گواهی بدهد بمجرد این گواهی زید حکم بکفر و 
+    - (5) و قضا خالد توان کردن و بمجرد مذکور خالد مستحق یرغو و [شکراته] شد باشد 
+
+- Case 147b.1.  Blasphemy can affect one's wife as well
+    - (1) درانجه زید اهانت علم شرعی و دینی کرده العاذ یالله  من ذلک شرعا درینصورت زید
+    - (2) کافر و زوجۀ زید بر زید حرام شده باشد شرایطه یا باشد    من اهان العلم و العلماء
+    - (3) یکفر و هو المختار للفتوی و به اخذ الفقیه ابواللیث
+
+- Case 148.1.  Heresy accusation
+    - (1) درانجه زید مدّعی عمرو مدعا علیه را گفته که ترا بشرع 
+    - (2) می برم عمرو مذکور گفته که بشرع نمی روم شرعا عمرو
+    - (3) کافر شده باشد و برین عمرو توبه و استغفار وا گردد
+    - (4) خدا باشد تجدید نکاح میان وی و میان زن وی
+    - (5) باشد بشرایطه یا بینوا بوجه وا باشد و الله اعلم
+

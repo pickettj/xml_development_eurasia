@@ -1,0 +1,56 @@
+Card Catologue - Alisher Navoi Rare Books Collection
+
+@tash_navoi @index @library @catalog @primary_source
+
+Manuscripts
+
+- Ni'matullah Bukhari, Divan-i Muhtaram: Пв-32
+- Munshi bin Khwajah Baqa, Tazkirai Muqimkhan: Пв-197
+- Hamadoni, Jame al-Tavarikh (in Uzbek, Tehran): Пв-13
+
+Lithographs
+
+- Akhunkhan Marghinani, Manasaki Haj (Tashkent, 1904): Пв-57
+    - This is a guide about how to perform the hajj properly.
+- Maqamati Amir Kulal: Пв-125
+- Chahar Kitab (Tashkent, 1896): Пв-335, Пв-59, Пв-80
+- Hajnamai turkii (in Uzbek, Tashkent): Пв-159
+- Rasuli, Rahbari forsii - Fors tili darsligi (in Uzbek, Tashkent, 1917): Пв-254
+- Rasuli, Qiroati Farsi (in Uzbek, Tashkent, 1916): Пв-254
+
+Farsi Newspapers
+
+- [[Bukharai Sharif|Bukhara-i Sharif (1912 Farsi newspaper, Navoi F-72)]] (Samarkand, Farsi): F-72
+    - Issues: 1912, no.: 1-8, 10-15, 17-19, 21-32, 34-36, 41-45, 48-50, 52-54, 56-57, 59-63, 65-72, 74-87, 90-98, 100, 139
+- Avazi Tajik (Samarkand, Farsi): F-66
+    - Issues: 1928, no.: 235-261
+- Zamindar (Indian publication in Tashkent, Farsi and Urdu): F-68
+    - Issues: 1920, no: 1
+- Ittifaqi Islam (Farsi, publication location unlisted, 1921 no. 9): F-69 (сб. 2)
+
+Russian Newspapers
+
+- Golos Samarkanda - Organ samarkanskogo Soveta soldatskikh, rabochikh, krest'ianskikh i musul'manskikh deputatov (Г-6)
+- Golos Srednei Azii (Г-5)
+- Zeravshan" gazety: Samarkand" (1906: 1-56 fevral'-aprel'): Г-33
+- Na rubezhe: Gazeta politicheskaia, obshchestv. i literaturnaia, bez partiinaia (Tashkent): Г- 23
+- Novyi Samarkand" - Gazeta obshchestvenno-ekonomicheskaia i literaturnaia (1906: no. 1-33): Г-26
+- Okraina - Gazeta politicheskaia, obshchestvennaia, literaturnaia (1898: no. 2-107, 1897: no. 1-142): Г-25
+
+Uzbek Newspapers
+
+- [[Turon (Bukhara, 1912): F-72|Turan (1912 Turki newspaper, Navoi F-72)]]
+
+Books
+
+- [[Наливкин, Руководство к пракитческому изучению персидского языка (Samarkand, 1900)|Nalivkin, Rukovodstvo k prakticheskomu izucheniu persidskago iazyka (1900)]]: Пя 10080
+- Спорник материалов по вопросу об изучении туземных языков служашими по военно-народному управлению Туркестанского края (1906): Пя 10408
+    - *note that I have scans of this from P-Burg*
+- Дынин, В.В., Таджики: Очеркъ быта горцевъ верховьевъ Зеравшана (1914): Пя 1723.
+- Кузенцов, П.Е., О таджиках Ташкенского уезда (1900): Пу 9969
+- [[Шишов, А. Таджики: Этнографическое и антропологическое исследование (1910)|Shishkov, Tadzhiki (1910)]]: Пя 9103
+- Липский, В.И.. Горная Бухара: Результаты трехлетниъ путешествий в Ср. Азию в 1896, 1897, 1899.  СпБ, 1902: Пя 8676
+- Бертельс, Э. Персидская поэзия в Бухаре Х век. Москва, 1935: Пя 8850.
+    - Only concerns poetry in the Samanid period.
+- [[Маев, Н. А. Очерки Бухарскаго ханства.  Ташкент, 1875: Пу 1984.|Maev, Ocherki Bukharskago khanstva]]
+

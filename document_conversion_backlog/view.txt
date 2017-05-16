@@ -1,0 +1,6 @@
+$:/view
+
+@primary_source @archival
+
+classic
+

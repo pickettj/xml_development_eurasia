@@ -1,0 +1,79 @@
+<?xml-model href="../../schemas/schema_coding_primary_texts.rnc" type="application/relax-ng-compact-syntax"?>
+<document>
+    <metadata>
+        <archive>
+            <name>NLR</name>
+            <call>Fond 940 (Kun), no. 144</call>
+            <fol>1-2</fol>
+        </archive>
+        <serial>190</serial>
+        <entity>Russia</entity>
+        <original type="scan"/>
+        <complete type="partial"/>
+        <cat_gloss>N/A</cat_gloss>
+        <cat_date>N/A</cat_date>
+        <gloss>Simple list of books covered in madrasa curriculum, collected by Alexander
+            Kun.</gloss>
+        <keywords>education madrasa</keywords>
+    </metadata>
+    <body>
+        <!-- Cross-referenced with Sarfraz Khan, Muslim Reformist Political Thought: Revivalists, Modernists and Free Will (Routledge, 2013).-->
+        <div type="heading">طریق تحصیل
+            <flag type="orthography">پایان</flag>
+             بمشکلات</div>
+        <div type="line">اینکه اوّلاً
+            <intertext>اوّلِ علم
+                <!-- Avval-i-Ilm ('Beginning of knowledge') - a book written in Tajiki that covered the most
+        essential religious rules in a question-answer form" (Khan, 40). -->
+            </intertext>
+             بعد از ان
+            <intertext>بدان<!-- "(i) The study began with Bidan (know!) - a customary name of an
+        anonymous treatise on Arabic grammar, widely used in Central Asia as a textbook. This book
+        explained fundamentals of Arabic grammar in Tajiki with examples in Arabic" (Khan, 40). --></intertext>
+             را</div>
+        
+        
+        (3) Al-Muizzi: بعد از ان مُعِْزی را ** "(iv) Al-muizzi, an anonymous treatise on Arabic
+        morphology attributed to Izzuddin Zanjani (1257) and Avomil al-In'a ('Necessary Factors'),
+        written by Abdulqahar Jurjani (d. 1080), that dealt with Arabic syntax were used to learn
+        Arabic etymology and syntax. Students memorized Arabic idioms and learnt their meanings in
+        Tajiki" (Khan, 40). * (4) بعد از ان نه [بخانی \ نجانی] را **‌ ??? * (5) Awamil: بعد از ان
+        عوامل ** Awamil al-Nahw? * (6) Harakat: بعد از ان حرکات را و این مجموع را علم صرف میگویند *
+        (7) Qafia: بعد از ان شروع بکافیه میکنند و این مشتمل بر هفت مبحث اولا بحث اسم و ثانیا مرفوعات
+        بعد از ان منصوبات و بعد از ان مجرورات و بعد از ان [مبنیات] بعد از ان بحث فعل بعد از ان بحث
+        حرف ** "(v) This was followed by a partial reading of Qafia fi-n-nahv ('Rhyme in Grammar') -
+        one of the most widely read textbooks on Arabic grammar, written by Ibn al-Hajib (d. 1249).
+        The book discussed Arabic syntax in some detail. The study of these books was considered
+        sufficient to become a mulla. Sometimes students took up to ten years to complete this
+        stage" (Khan, 40). ** //Note misspelling if قافیه in the Kun version.// * (8) Sharh-i Mulla:
+        و بعد از ان شروع بشرح ملا میکنند و این شرح کافیه ست ** "The next stage of advanced learning
+        began with the reading of Sharh-i-Mulla ('Explanation of mulla'), a commentary written by
+        Abdurahman Jami (d. 1492) on Qafia fi-n-nahv" (Khan, 40). * (9) Abd al-Ghafur's grammar: و
+        بر بالای شرح ملا ملا عبد الغفور را قراة میکنند و این مجموع را علم نحو میگویند * (10)
+        Shamsiyya: و بعد از ان شروع بشمسیه میکنند ** "This stage took five years and included the
+        study of Najamuddin Qazvini's (d. 1276) book on logic, Arrisalat ash-Shamsia fi-l-Qavaid
+        al-Mantiqia (Treatise on rules of Logic), commonly known as Shamsia" (Khan, 40). * (11)
+        Hashiya: و بعد از ان شروع بحاشیه میکنند ** "Students spent another year in reading a
+        commentary by Qutbiddin Razi (d. 1365) on Shamsia, known as F. 2 Hoshia-a-Qutbi ('Notes of
+        Qutbi')" (40). * (12) بر بالای حاشیه [میر سید / مرشید] شریف و ملا احمد را قراءة میککند ** ??
+        * (13) بر بالای مر سید شریف مولوی عبد الحکیم را قراءت میکنند ** ?? * (14) بر بالای ملا عبد
+        الحکیم قل احمد را قراءت میکنند ** ?? * (continuing from 14??): و این شرح شمسیه است و این را
+        علم منطق میگویند * (15) Aqa'id: و بعد از ان شروع بعقاید میکنند ** "Simultaneously, students
+        studied Aqaid-i-Nasafi ('Beliefs of Nasafi'), a theological compilation by Najmuddin Abu
+        Hafs Nasafi (1068-1148)" (Khan, 40). * (16) و بر بالای عقاید مولوی خیالی و مولوی عبد الحکیم
+        و مولوی احمد را قرأة میکنند ** ??? * (17) Tahzib: و بعد از ان شروع بر [سر تاج؟] تهذیب میکنند
+        ** "Tahzib ul-Mantiq va-l-Kalam ('Refinement of Logic and Kalam'), a compilation of logic
+        and theology written by Taftazani was studied for two years" (Khan, 40). * (18) و بر بالای
+        تهذیب مولوی خاجه جمال و آخوند و میرزا زاهد جان و قاضی مبارک شاه را قراء میکنند ** ??? * (19)
+        Hikmat al-Ayn: و بعد از ان شروع بحکمة العین میکنند ** "and then [after Tahzib] Hikmat-ul-Ain
+        ('Exact Wisdom') written by Najamuddin Qazvini, dealing with natural history and
+        metaphysics, was studied for two more years" (Khan, 40). * (20) و بر بالای حکمة العین میر
+        سید شریف و اخوند و میرزا جان را قراة میکنند ** ??? - same as above * (21) Mulla Jalal: و بعد
+        از ان شروع بملا جلال میکنند ** ""For another two years students learned Mulla Jalal - a
+        commentary written by Jalal-ud-Din Dawwani (d. 1502) on a theological treatise called Aqaid
+        ul-Adudiyat ('Beliefs of Adud') by Adud ad-Din al-Iji (d. 1326)" (Khan, 40-41). * (22) و بر
+        بالای ملا جلال اخوند خانقای و تتمه را قراء میکنند ** ??? * (23) و بعد از ان شروع بتوضیح
+        میککند ** ??? * (24) و بر بالای توضیح تلویح را قرأء میکنند ** ??? * (25) و بعد از ان شروع
+        بمشکاة ** ??? * (26) Tafsir: و بعد از ان بتفسیر میکنند * Graduation: و بعد از ان ان از
+        استادان فاتحه میگیرند </body>
+</document>

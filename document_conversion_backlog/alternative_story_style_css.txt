@@ -1,0 +1,42 @@
+Alternative Story Style CSS
+
+@width_settings @tagsstylesheet @primary_source @archival
+
+<$set name=WidthOption value={{$:/settings/apperance/TiddlerWidthSettings!!width_option}}>
+<$set name=StoryRiverWidth filter=**[[$:/settings/apperance/TiddlerWidthSettings/story_river]get<WidthOption>]**>
+<$set name=SidebarScrollableLeft filter=**[[$:/settings/apperance/TiddlerWidthSettings/sidebar_scrollable]get<WidthOption>]**>
+<$set name=TiddlerFrameWidth filter=**[[$:/settings/apperance/TiddlerWidthSettings/tiddler_frame]get<WidthOption>]**>
+
+.tc-story-river {
+        width: <<StoryRiverWidth>>;
+        left: 0px;
+        top: 0px;
+        padding: 42px;
+}
+
+.tc-sidebar-scrollable {
+    position: fixed;
+    top: 0px;
+    left: <<SidebarScrollableLeft>>;
+    bottom: 0px;
+    right: 0px;
+    overflow: auto;
+    margin: 0px 0px 0px -42px;
+    padding: 71px 0px 28px 42px;
+}
+
+.tc-tiddler-frame {
+    padding: 28px 42px 42px;
+    width: <<TiddlerFrameWidth>>;
+    border-radius: 2px;
+}
+
+.tc-tiddler-frame .tc-tiddler-body {
+    font-size: 180%;
+    line-height:150%;
+}
+
+</$set>
+</$set>
+</$set>
+

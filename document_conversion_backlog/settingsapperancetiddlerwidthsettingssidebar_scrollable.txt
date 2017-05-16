@@ -1,0 +1,6 @@
+$:/settings/apperance/TiddlerWidthSettings/sidebar_scrollable
+
+@width_settings @primary_source @archival
+
+
+

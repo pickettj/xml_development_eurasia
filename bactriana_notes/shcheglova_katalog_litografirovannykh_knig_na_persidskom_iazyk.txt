@@ -1,0 +1,32 @@
+Shcheglova, Katalog litografirovannykh knig na persidskom iazyk
+
+@pburg_instvost @catalog @lithographs @primary_source
+
+[[Repository Index]]
+
+## Olimpiada Pavlovna Shcheglova, Katalog litografirovannykh knig na persidskom iazyk v sobranii leningradskogo otdeleniia AN SSSR, 2 vols. (Moscow: Glavnaia redaktsiia vostochnoi literatury, 1975).
+
+Problem: The catalog only lists where a publication was produced, not where it was acquired.  Hence it is difficult to see whether Turkestanis were using lithographs produced in India before the late 19th century.  (Lithographs became widespread in India in the 1830s, but not in Central Asia until the 1880s).
+
+#### Introduction
+
+- Lithograph production spread to Central Asia in the last third of the nineteenth century and the first decade of the twentieth (8).
+- Everything that had previously been in manuscript form was eligible to be lithographed: "Популярные в рукописях труды по истории, философии, лексикографии, поризведение классической литературы, прежде всего посложившие материалом для литографирования, стали доступны большему числу читателей..." (8).
+- History of the collection: Starting in 1904, Russian orientalists began picking up lithographs in Europe and the Middle East.  Then, (important): "В 1912 г. В.А. Иванов купил в Бухаре для Азиатского музея большую коллекцию рукописей и значительное число книг и литографий на персидском и арабском языках.  Эти книги, содержавшие богословские труды, сочинения по фикху, бехаитские и шейхитсие работы, были инвентаризированы в 1916 г." (11).
+- Figures: Current collection is 1856 in number (1257 separate titles) (13).
+    - 700 from India; 616 from Iran; 146 from Central Asia
+
+#### Selections
+چهار کتاب Ташкент, "Литография С.И. Лахтина" 1310/1892.  Fiqh.  p. 287, #650; code: Тк Ш 7
+
+- Издатель Рахим Хваджа б. 'Али Ишан
+- Collection of instructions for carrying out Islamic rituals properly.
+- Interesting because there are lots of copies, most coming from Tashkent, but also from:
+    - Бухара, "Типо-лит. Бендецского", 1324/1906-07; Издатель Мирза Ахмад.
+    - Самарканд, "Тип. С. Газарова", 1329/1911.
+    - Коканд, "Тип. Шемакова", 1335/1916-17; Издатель Мулла Абд ас-Сами Хаджжи.  Note that this is the only lithograph from Kokand in the Petersburg collection.
+
+مقامات حضرت خواجه نقشبند Бухара, Издал книготорговец Мулла Султан б. Мулла Сабир Бухари 1327/1909.  Sufism.  p. 228, #228; code: Рл 405
+
+- This is a lithograph of the treatise of the founder of the Naqshbandis.
+

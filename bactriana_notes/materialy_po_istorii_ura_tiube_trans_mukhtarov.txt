@@ -1,0 +1,68 @@
+Materialy po istorii Ura-Tiube (trans Mukhtarov)
+
+@translated_persian @yarliq @ferghana @khoqand @primary_source
+
+[[Translated Sources Index]]
+[[Khoqand Chronicles Index]]
+
+## A.A> Semenov and O.D. Chekhovich, eds., Materialy po istorii Ura-Tiube: Sbornik aktov XVII-XIX vv., trans. A. Mukhtarov (Moscow: Izdatel’stvo Vostochnoi Literatury, 1963).
+
+Intro (Predislovie by A. Mukhtarov)
+
+- An incredible amount of medieval documents remain unexamined in the Ferdosi library, Dushanbe (3).
+- This particular collection obtained from an ishan-zada from Uratepa (3).
+- Uratepa was generally subject to Samarqand or Bukhara, but in the mid 18th century it gained independence.  It also controlled Penjikent, Khujand, and Jizakh; even part of Tashkent paid tribute at times (4).
+    - "Его владетели не только успешно защищались от нападений своих соседей, но и совершали военные походы с целю грабежа и захвата територий соседних ханств" (4).
+- Apparently the ruler of Uratepa had diplomatic relations with Afghanistan and pushed (tolknul) Timurshah to go to war with Bukhara; though that campaign ended in defeat for Afghanistan (4).
+    - *not the case re defeat Afghanistan*
+    - Here citing Dushanbe copy of [[Muhammad Vifā-ī Karmīnagī, Tuhfat al-Khānī (al-Biruni, 2721)]], l. 62.
+- Some basic facts on the dynasty: "За период с начала XIX в. до присоединения к России в октябре 1866 г. в Ура-Тюбе сменилось 17 правителей. Из них только Мухаммад-Рахим-аталику удалось продержаться у власти 12 лет (1816-1828).  Остальные правили недолго: от двух лет до одной недели" (3).
+    - (no source cited)
+- Constant warfare devastated the local population: "В результате к середине XIX в. Ура-Тюбе был одним из самых разоренных районов Средней Азии" (4).
+    - (no source cited)
+- Kokand essentially controlled Uratepa during the reign of Umar: "В 1813-1814 гг. в политической жизни Ура-Тюбе наблютается анархия; соседние ханы неперерывно вмешиваются в дела Ура-Тюбе, произвол назначаемых ими правителей достигает предела.  Кокандский хан Омар, подозревая измену со стороны хакима Ура-Тюбе Махмуд-хана, сместил его и отправил в Коканд, назначив вместо него своего дядю Сейид-кул-бия-дадху, но через неделю передал г. Ура-Тюбе Касим-белу, а еще месяц - Раджабу-диванбеги" (11).
+    - Citing Mu'ini, Tarikh-i Bukhara, IVTadj 1229 f. 123.
+
+Doc. 18: 1702-1711 appointment of Uratepa governorship from Ubaydalla Khan (p. 35)
+
+- Document in fact informing Ishan Musa Khwaja of this development.
+- Appointment of Akbute Qushbegi to Uratepa, Khujand, and Andijan (35): درینولا ولایت اواتپه و خجند و چهار صدۀ انکان ببنده خانزاد آقبوته قوشبیکی مرحمت نمودیم
+- See also similar doc. 20 (1714).
+
+Doc. 22: 1750 order from Muhammad Fazil Bey in the name of the "khan" granting water rights to an ishan (p. 40).
+
+- Opening: По повелению его величества хана - حضرت خان حکمدین
+- *so in 1750 Uratepa governor is still enacting orders in the name of the khan, though it does not mention which khan*
+
+Doc. 23: 1773 order appointing Mir Hasan mudarris of the Friday mosque (p. 42)
+
+- Wording clear that it is the ulama who are doing the appointing: حضرت خان حکمدین نظام الدین محمد فاضل بی سوزوم درینولا معلوم فضلا و علما و اشراف و اعیان ولایت اوراتپه بوده باشد که شفقت و مهربامنی خود را شامل حال و قرین آمال فضیلت پناه سیادت دستگاه دولت خواه بلا اشتباه حضرت آخوند ملا میر حسن گردانیده تدریسی مسجد جامع را...
+
+Doc. 25: Late 18th century  order from Muhammad Khudayar Divanbegi (p. 45)
+
+- Includes language حضرت خان حکمدین
+
+Doc. 26: 1804 Yarlik from Amir Haydar appointing a mudarris in the Khudayar Divanbegi madrasa in Uratepa (p. 47)
+
+- Opening: هو الحی ابو الفتح سید امیر حیدر بهادر پادشاه سمزومیز
+
+Doc. 27: 1805 order from Haydar to keep saying the Friday prayer in Ubaydallah's name in a local mosque (p. 48)
+
+- Opening: هو الحی ابو الفتح سید امیر حیدر بهادر پادشاه سوزومیز
+- (cont.) Premise - Muhammad Salih was ordered by Ubaydallah Khan to do the Friday prayer: درینولا در مسجد گذر سیادت پناه نتیجة العظام محمد صالح خواجم از ولایت اوراتپه خاقان مرحوم حضرت عبیدالله خان نور مرقده امر بنماز جمعه خواندن کرده حکم داده بوده اند
+- (cont.) Haydar reaffirms that appointment: آن مانیز حکم خاقان مرحومی حضرت عبید الله خان نور مرقده را امضا نمودیم باید که در مسجد مذکور نماز جمعه خوانند 
+- (cont.) Though apparently there were some muhtasibs stopping him from doing so: محتسبان ولایت مذکوره مانه نه آیند برینموجب موافق نوشته عمل نمایند خلاف و انحراف نورزند فی شوال سنه 1220
+- (related) Doc. 28 is Haydar offering Salih various economic benefits.
+
+Doc. 31: 1814 yarlik from Umar Khan appointing a sadr of Uratepa (p. 52)
+
+- Opening: هو الله الملک المستعان ابو المظفر و المنصور سید محمد عمر بهادر خان سوزومیز
+
+Doc. 32: 1817 yarlik from Umar Khan appointing a Mir-i Asad (p. 54)
+
+Doc. 35: 1825 yarlik from Muhammad Ali Khan appointing Muhammad Salih Khwaja khwaja kalan in Uratepa (p. 58)
+
+Doc. 38: 1832 yarlik from Muhammad Ali similar to doc. 35, i.e. also appointing Muhamamd Salih Khwaja Kalan
+
+- Makes it rather clear that local notables are driving this appointment.
+
