@@ -12,6 +12,7 @@
 <!-- 2. Turkic Nobility -->
     <role xml:id="beg" emic="бек бег بیگ بیک" type="title"/>
     <role xml:id="qarawul-begi" emic="قراول بیگی" type="title"/>
+    <role xml:id="mir" emic="میر" type="title"/>
 <!-- 3. Ulama -->
     <role xml:id="akhund" emic="آخوند" type="title"/>
     <role xml:id="alam" emic="اعلم" type="title occupation"/>
@@ -22,6 +23,7 @@
     <role xml:id="mufti" emic="مفتی" type="title occupation"/>
     <role xml:id="mulla" emic="ملا" type="title"/>
     <role xml:id="qazi" emic="قاضی" type="title occupation"/>
+    <role xml:id="qazi_kalan" emic="قاضی کلان" type="title"/>
     <role xml:id="sadr" emic="صدر" type="title"
     <role xml:id="sayyid" emic="سید" type="title"/>
  <!-- Ethnoynms -->

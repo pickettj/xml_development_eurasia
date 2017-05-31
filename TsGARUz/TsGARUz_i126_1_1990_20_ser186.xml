@@ -17,7 +17,9 @@
     </metadata>
 
     <body>
-        <div type="invocatio">بنده نوازا</div>
+        <div type="invocatio">
+            <honorific>بنده نوازا</honorific>
+        </div>
         <div type="line">تصدق عالی حضرتم شوم</div>
         <div type="line">
             <individual>
@@ -29,19 +31,20 @@
         <div type="line">مدرّس حجرات
             <location>مسجد گذر قوش</location>
              ولایت
-            <location>شهرسبز</location>
+            <location id="shahrisabz_province">شهرسبز</location>
              فوتیده جای مدرس</div>
         <div type="line">و صلواتخوانی او را
             <individual>
                 <role id="mulla">ملا</role>
                  ایش محمد نام ختم کردۀ
-                <location>شهرسبزی</location>
+                <location id="shahrisabz_province">شهرسبزی<!-- note: in the absence of clarifying information, nisbats refer to the province level --></location>
             </individual>
              امید کرده</div>
         <div type="line">
             <individual>جناب عالی</individual>
-             را دعا مینماید حصول مدرّسی او <financial type="salary">پنجاه تنگه</financial> می شده
-            ست</div>
+             را دعا مینماید حصول مدرّسی او
+            <financial type="salary">پنجاه تنگه</financial>
+             می شده ست</div>
         <div type="line">گفته عرض کرده اند
             <individual>جناب عالیً حضرتم</individual>
              بهتر میدانند</div>

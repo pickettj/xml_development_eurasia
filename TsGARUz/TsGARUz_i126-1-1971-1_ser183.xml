@@ -16,7 +16,7 @@
         <keywords>indian conversion</keywords>
     </metadata>
     <body>
-        <div type="invocatio">
+        <div type="line">
             <honorific>تصدق سر عزیز مبارک جناب عالیملایم شوم</honorific>
         </div>
         <div type="line">بنده نواز تصدق شوم
@@ -25,7 +25,7 @@
             </individual>
         </div>
         <div type="line">درینولایت
-            <location id="baljuvan_prov">بلجوان</location>
+            <location id="baljuvan_province">بلجوان</location>
              بوده است که از
             <honorific>دولت پر شرافت جناب عالی</honorific>
         </div>

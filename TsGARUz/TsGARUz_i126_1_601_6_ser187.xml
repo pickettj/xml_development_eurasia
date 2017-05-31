@@ -16,7 +16,9 @@
         <keywords>financial</keywords>
     </metadata>
     <body>
-        <div type="invocatio">مرحمت پناها </div>
+        <div type="invocatio">
+            <honorific>مرحمت پناها</honorific>
+        </div>
         <div type="line">از
             <flag type="meaning">دولت عالی</flag>
             <financial type="price">سه هزار پانصد تنگه</financial>
@@ -24,9 +26,10 @@
             <flag type="orthography">امنیاتهً</flag>
         </div>
         <div type="line">
-            <location id="qurghanteppa_wilayat">ولایت قورغان تپه</location>
+            <location id="qurghanteppa_province">ولایت قورغان تپه</location>
             <individual>شاده ن بیک بی</individual>
-            <language type="grammar tajik">فرستاده گی</language></div>
+            <language type="grammar tajik">فرستاده گی</language>
+        </div>
         <div type="line">و
             <financial>پانصد سی تنگه</financial>
              از وجه

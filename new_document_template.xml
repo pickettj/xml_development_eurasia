@@ -1,0 +1,24 @@
+<?xml-model href="../schemas/schema_coding_primary_texts.rnc" type="application/relax-ng-compact-syntax"?>
+<document>
+    
+    <metadata>
+        <archive>
+            <name></name>
+            <call></call>
+            <fol></fol>
+        </archive>
+        <serial></serial>
+        <entity></entity>
+        <original type=""/>
+        <complete type=""/>
+        <cat_gloss></cat_gloss>
+        <cat_date></cat_date>
+        <gloss></gloss>/>
+        <keywords></keywords>
+    </metadata>
+    
+    <body>
+    </body>
+    
+</document>
+        

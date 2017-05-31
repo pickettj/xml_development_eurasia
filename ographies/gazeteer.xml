@@ -18,24 +18,42 @@
     </node>
 
     <!-- Nodes 2: Provinces -->
-
+    
+    <node xml:id="baljuvan_province">
+        <designation type="wilayat" emic="ولایت"></designation>
+    </node>
+    
     <node xml:id="bukhara_province">
         <designation type="wilayat" emic="ولایت">
             <years min="1700" max="1920"/>
         </designation>
     </node>
 
+    <node xml:id="khatlan_province" emic_name="ختلان"/> <!-- Note: usually synonymous with Khatlan province; equivalency coded below -->
+
+    <node xml:id="qurghanteppa_province" emic_name="قرغان تپه"> <!-- Note: usually synonymous with Khatlan province; equivalency coded below -->
+        <designation type="wilayat" emic="ولایت"/>
+    </node>
+    
     <node xml:id="samarqand_province">
         <designation type="oblast" emic="область">
             <years min="1868" max="1920"/>
         </designation>
     </node>
+    
+    <node xml:id="shahrisabz_province">
+        <designation type="wilayat" emic="ولایت"/>
+    </node>
+
 
     <!-- Nodes 3: Cities -->
 
     <node xml:id="bukhara_city" emic_name="بخارا" fm_ref="loc_3"
         uid_thurayya="BUKHARA_644N398E_C17BUKHARA_644N398E_C17"/>
+    
     <node xml:id="samarqand_city" emic_name="سمرقند"/>
+    
+    <node xml:id="shahrisabz_city" emic_name="شهرسبز"/>
 
     <!-- Nodes 4: Villages -->
 
@@ -46,6 +64,10 @@
         <designation type="neighborhood" emic="گذر"/>
     </node>
 
+    <node xml:id="bukh_habiballah_dist" emic="حاجی حبیب الله">
+        <designation type="neighborhood" emic="گذر"/>
+    </node>
+
 
     <!-- Nodes 6: Religious Institutions (Mosques, Madrasas, Khanaqas) -->
 
@@ -53,30 +75,61 @@
         <designation type="madrasa" emic="مدرسه"/>
     </node>
 
-
     <node id="bukh_qush_dist_mosque" emic="مسجد گذر قوش">
         <designation type="mosque" emic="مسجد"/>
+    </node>
+
+    <node id="bukh_farman_qul_bi" emic="فرمانقل بی">
+        <designation type="mosque" emic="مسجد"/>
+    </node>
+
+
+    <node id="bukh_qalmaq_jan_ayyim" fm_ref="mad_28" emic="قلماق جان آییم">
+        <designation type="madrasa" emic="مدرسه"/>
     </node>
 
 
 
     <!-- RELATIONSHIPS -->
-
-    <!-- Relationships 1: Parent-Child -->
-
-    <!-- Provinces of Bukhara -->
-    <relation type="subordinate_to" parent="bukhara_polity" child="samarqand_province">
-        <years min="1747" max="1868"/>
-    </relation>
+    
     <relation type="subordinate_to" parent="russia_polity" child="russian_turkestan_polity">
         <years min="1867" max="1920"/>
     </relation>
 
+    <!-- Relationships 1: Parent-Child -->
 
+    <!-- Provinces of Bukhara -->
+    
+    <relation type="subordinate_to" parent="bukhara_polity" child="baljuvan_province">
+        <years min="1868" max="1920"/>
+    </relation>
+    
+    <relation type="subordinate_to" parent="bukhara_polity" child="qurghanteppa_province">
+        <years min="1868" max="1920"/>
+    </relation>
+    
+    <relation type="subordinate_to" parent="bukhara_polity" child="samarqand_province">
+        <years min="1747" max="1868"/>
+    </relation>
+    
+    <relation type="subordinate_to" parent="bukhara_polity" child="shahrisabz_province">
+        <years min="1870" max="1920"/>
+    </relation>
+
+   
+    
+    
+    <!-- Cities of Bukhara -->
+    
+    <relation type="subordinate_to" parent="shahrisabz_province" child="shahrisabz_city"/>   
+    
 
     <!-- Provinces of Russian Turkestan -->
 
-
+    <relation type="subordinate_to" parent="russian_turkestan_polity" child="samarqand_province">
+        <years min="1868" max="1920"/>
+    </relation>
+    
 
     <!-- Religious Institutions of Bukhara -->
 
@@ -86,21 +139,25 @@
     <!-- Neighborhoods of Bukhara -->
 
     <relation type="subordinate_to" parent="bukhara_city" child="bukh_qush_dist"/>
+    <relation type="subordinate_to" parent="bukhara_city" child="bukh_habiballah_dist"/>
 
 
     <!-- Religious Institutions of Bukhara -->
 
     <relation type="subordinate_to" parent="bukh_qush_dist" child="bukh_qush_dist_mosque"/>
+    <relation type="subordinate_to" parent="bukh_habiballah_dist" child="bukh_qalmaq_jan_ayyim"/>
+
 
 
     <!-- Relationships 2: Conquests -->
-    
-    <relation type="conquest" conqueror="russia_polity" defeated="bukhara_polity" conquered="samarqand_city" greg_date="1868"/>
+
+    <relation type="conquest" conqueror="russia_polity" defeated="bukhara_polity"
+        conquered="samarqand_city" greg_date="1868"/>
 
 
     <!-- Relationships 3: Equvalencies -->
 
-
+    <relation type="equivalency" node1="khatlan_province" node2="qurghanteppa_province"/> <!-- In modern Tajikistan, Qurghanteppa is the captial city of the province of Khatlan; historically, Qurghanteppa was also used to refer to the province -->
 
 
 </gazeteer>
