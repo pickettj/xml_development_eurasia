@@ -1,6 +1,0 @@
-$:/tags/Stylesheet
-
-@tagsstylesheet @primary_source @archival
-
-.tc-edit-texteditor { font-size:200%; };
-

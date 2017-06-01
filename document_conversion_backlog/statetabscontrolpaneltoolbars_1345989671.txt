@@ -1,6 +1,0 @@
-$:/state/tabs/controlpanel/toolbars-1345989671
-
-@primary_source @archival
-
-$:/core/ui/ControlPanel/Toolbars/EditToolbar
-

@@ -1,6 +1,0 @@
-$:/themes/tiddlywiki/vanilla/metrics/bodyfontsize
-
-@primary_source @archival
-
-15px
-

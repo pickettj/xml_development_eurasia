@@ -1,6 +1,0 @@
-translation
-
-@primary_source @archival
-
-
-

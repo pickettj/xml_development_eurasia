@@ -1,6 +1,0 @@
-$:/state/sidebar
-
-@primary_source @archival
-
-yes
-

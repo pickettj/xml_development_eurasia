@@ -1,6 +1,0 @@
-$:/DefaultTiddlers
-
-@primary_source @archival
-
-
-

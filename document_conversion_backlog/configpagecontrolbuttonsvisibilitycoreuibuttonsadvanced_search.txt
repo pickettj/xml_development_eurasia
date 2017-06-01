@@ -1,6 +1,0 @@
-$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/advanced-search
-
-@primary_source @archival
-
-show
-

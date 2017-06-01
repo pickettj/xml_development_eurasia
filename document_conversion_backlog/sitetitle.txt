@@ -1,6 +1,0 @@
-$:/SiteTitle
-
-@primary_source @archival
-
-Seeing like a Princely State
-

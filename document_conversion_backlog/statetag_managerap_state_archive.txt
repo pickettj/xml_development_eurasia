@@ -1,6 +1,0 @@
-$:/state/tag-manager/AP State Archive
-
-@primary_source @archival
-
-closed
-

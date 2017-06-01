@@ -1,6 +1,0 @@
-$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/more-page-actions
-
-@primary_source @archival
-
-show
-

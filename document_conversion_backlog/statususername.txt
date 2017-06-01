@@ -1,6 +1,0 @@
-$:/status/UserName
-
-@primary_source @archival
-
-James
-

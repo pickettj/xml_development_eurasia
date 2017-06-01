@@ -1,6 +1,0 @@
-$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/close-all
-
-@primary_source @archival
-
-show
-

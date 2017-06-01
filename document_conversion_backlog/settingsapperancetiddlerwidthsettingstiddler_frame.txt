@@ -1,6 +1,0 @@
-$:/settings/apperance/TiddlerWidthSettings/tiddler_frame
-
-@width_settings @primary_source @archival
-
-subtract 84 from the tiddler width
-
