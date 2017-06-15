@@ -1,0 +1,73 @@
+<?xml-model href="../schemas/schema_coding_primary_texts.rnc" type="application/relax-ng-compact-syntax"?>
+<document>
+
+    <metadata>
+        <archive>
+            <name>TsGARUz</name>
+            <call>i126-1-1160</call>
+            <fol>1a</fol>
+        </archive>
+        <serial>193</serial>
+        <entity>Bukhara</entity>
+        <original type="scan"/>
+        <complete type="partial"/>
+        <cat_gloss/>
+        <cat_date/>
+        <language type="persian"/>
+        <gloss>Biography of Mahdi Khwaja Bey</gloss>
+        <keywords>turkic_nobility biography</keywords>
+    </metadata>
+
+    <body>
+        <div type="heading">تاریخ حیات
+            <individual id="ind_955">
+                <role id="imarat_panah">امارت پناه</role>
+                 میرزا مهدیخواجه
+                <role id="bey">بی</role>
+            </individual>
+        </div>
+        <div type="line">در عصر
+            <individual id="ind_367">
+                <role id="amir">امیر</role>
+                 عبد الاحد
+                <role id="khan_ruler">خان</role>
+            </individual>
+             و در وقت وزارت
+            <individual id="ind_566">جان میرزا بی کل قوش بیگی</individual>
+             بخذمت دولتخانه داخل شده</div>
+        <div type="line">
+            <location id="loc_216">بمیرزا خانه قوش بیگی</location>
+             چند وقت بمیرزا شده و از آنجا بوقت بسیار ایلچی به
+            <location id="loc_217">توقسابه خانه</location>
+             نایب</div>
+        <div type="line">عملدار دولتخانه بحضور
+            <location id="loc_218">ایلچی خانه</location>
+             می ایستاده گی گردیده بعد از چند وقت باز
+            <location id="loc_216">بمیرزا خانه قوش بیگی</location>
+        </div>
+        <div type="line">مامور شده باز بوقت
+            <flag type="orthography">نوشتن</flag>
+             به عملداری حضور
+            <location id="loc_218">ایلجی خانه</location>
+             مامور شده آمده مدت بازده سال</div>
+        <div type="line">باین ماموریت بوده بوقت بیله یف از این ماموریت بحاکمی قبادیان تعیین شده رفته </div>
+        <div type="line">دو سال در ان جا بوده بعد از آن بحکومت
+            <location id="loc_96"
+                ><!-- Since this is referring to the government, assuming here that this refers to the province, not the city -->قورغان
+                تیپه</location>
+             مامور گردیده دو سال</div>
+        <div type="line">دران جا بوده سنه <date greg_date="1917">۱۹۱۷</date> بعد از انقلاب بخارا از
+            آنجا به بخارا آمده نامزدگی به نزد</div>
+        <div type="line">
+            <individual id="ind_371">
+                <role id="junab-ali">جنابعالی</role>
+            </individual>
+             بود که حاضر
+            <location id="loc_218">ایلچیخانه</location>
+            از طرف <individual id="ind_371">
+                <role id="junab-ali">جنابعالی</role>
+            </individual>
+            تعیین گرده گی باشد سن اش ۵۸ </div>
+    </body>
+
+</document>

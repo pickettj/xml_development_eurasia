@@ -8,9 +8,13 @@
 <!-- BUKHARA -->
 <!-- 1. Royalty -->
     <role xml:id="amir" emic="амир امیر" type="rank title" polity="bukhara"/>
+    <role xml:id="junab-ali" emic="جنابعالی" type="title" polity="bukhara"/>
+    <role xml:id="khan_ruler" emic="خان" type="rank title" polity="bukhara"/>
     <role xml:id="umdat_al-mulk" emic="عمدة المرک" type="title" polity="bukhara"/>
 <!-- 2. Turkic Nobility -->
     <role xml:id="beg" emic="бек бег بیگ بیک" type="title"/>
+    <role xml:id="bey" emic="بی" type="title"/>
+    <role xml:id="imarat_panah" emic="امرات پناه" type="title"/>
     <role xml:id="qarawul-begi" emic="قراول بیگی" type="title"/>
     <role xml:id="mir" emic="میر" type="title"/>
 <!-- 3. Ulama -->
