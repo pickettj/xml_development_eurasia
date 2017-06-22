@@ -1,4 +1,4 @@
-
+<?xml-model href="schemas/schema_coding_primary_texts.rnc" type="application/relax-ng-compact-syntax"?>
 <document>
     
     <metadata>
@@ -9,6 +9,7 @@
         </archive>
         <serial></serial>
         <entity></entity>
+        <language/>
         <original type=""/>
         <complete type=""/>
         <cat_gloss></cat_gloss>

@@ -3,7 +3,7 @@ document = element document {metadata, body}
 # document always refers to the entire textual unit in question, from a half page archival document to a 500 page manuscript
 
 #METADATA
-metadata = element metadata {archive, serial, entity, original, complete, cat_gloss, cat_date, gloss, keywords}
+metadata = element metadata {archive, serial, entity, language, original, complete, cat_gloss, cat_date, gloss, keywords}
 archive = element archive {arc_name, call, fol}
 arc_name = element name {"IVANUz"|"NAI"|"RGVIA"|"RGIA"|"TsGARUz"|"USSR"}
 #Refers to Archive Acronym
@@ -68,7 +68,7 @@ text_id = attribute text_id {text}
 #Topical Coding
 #__Language__ tracks linguistic points of note within a text
 language = element language {language_type, text}
-language_type = attribute type {list {("grammar" | "vocab" | "tajik" | "turkic" | "urdu")+}}
+language_type = attribute type {list {("grammar" | "vocab" | "tajik" | "turkic" | "urdu" | "persian" | "russian")+}}
 #__Financial__ data, e.g. prices, salaries, etc.
 financial = element financial {financial_type, text}
 financial_type = attribute type {"salary" | "price" | "debt"}
