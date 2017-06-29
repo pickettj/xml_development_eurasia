@@ -54,3 +54,19 @@ ul.dropdown-content {
 div.dropdown:hover ul.dropdown-content {
     display: block;
 }
+.comment, .flag {
+    color: red;
+}
+.ind, .int {
+    color: blue;
+}
+.loc {
+    color: green;
+}
+.date {
+    text-decoration: underline;
+}
+.gloss {
+    text-decoration-style: dotted;
+    text-decoration: underline;
+}

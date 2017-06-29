@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
-   <xsl:output method="xml"/>
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0"
+    xmlns="http://www.w3.org/1999/xhtml">
+    <xsl:output method="xml" doctype-system="about:legacy-compat" indent="yes"/>
     <xsl:template match="/">
-        <html xmlns="http://www.w3.org/1999/xhtml">
+        <html>
             <head>
                 <title>Reading View</title>
                 <link rel="stylesheet" type="text/css" href="readingview.css"/>
@@ -64,6 +65,11 @@
         </div>
     </xsl:template>
     <xsl:template match="body/div">
+        <xsl:if test="@type='gloss'">
+            <div class="gloss">
+                <xsl:apply-templates/>
+            </div>
+        </xsl:if>
         <div>
             <xsl:apply-templates/>
         </div>
@@ -71,7 +77,20 @@
     <!-- PAGE BREAKS -->
     <xsl:template match="pg">
         <hr/>
-        <p><xsl:value-of select="@folio"/></p>
+        <p>
+            <xsl:value-of select="@folio"/>
+        </p>
+    </xsl:template>
+    <!-- XML COMMENTS -->
+    <xsl:template match="div/comment()">
+        <div class="dropdown">
+            <span class="comment"> * </span>
+            <ul class="dropdown-content">
+                <li>
+                    <xsl:value-of select="."/>
+                </li>
+            </ul>
+        </div>
     </xsl:template>
     <!-- CSS DROP DIV ELEMENT FOR INDIVIDUALS -->
     <xsl:template match="individual">
@@ -88,13 +107,19 @@
                     <xsl:text>Role ID: </xsl:text>
                     <xsl:value-of select="role/@id"/>
                 </li>
+                <xsl:if test="./location">
+                    <li>
+                        <xsl:text>Location ID:  </xsl:text>
+                        <xsl:value-of select="@loc_id"/>
+                    </li>
+                </xsl:if>
             </ul>
         </div>
     </xsl:template>
     <!-- CSS DROP DIV ELEMENT FOR INTERTEXT -->
     <xsl:template match="intertext">
         <div class="dropdown">
-            <span class="ind">
+            <span class="int">
                 <xsl:apply-templates/>
             </span>
             <ul class="dropdown-content">
@@ -105,5 +130,65 @@
             </ul>
         </div>
     </xsl:template>
-
+    <!-- CSS DROP DIV ELEMENT FOR LOCATION -->
+    <xsl:template match="div/location">
+        <div class="dropdown">
+            <span class="loc">
+                <xsl:apply-templates/>
+            </span>
+            <ul class="dropdown-content">
+                <li>
+                    <xsl:text>Location ID: </xsl:text>
+                    <xsl:value-of select="@id"/>
+                </li>
+            </ul>
+        </div>
+    </xsl:template>
+    <!-- CSS DROP DIV ELEMENT FOR FLAGS -->
+    <xsl:template match="flag">
+        <div class="dropdown">
+            <span class="flag">
+                <xsl:apply-templates/>
+            </span>
+            <ul class="dropdown-content">
+                <li>
+                    <xsl:value-of select="@type"/>
+                </li>
+            </ul>
+        </div>
+    </xsl:template>
+    <!-- CSS DROP DIV ELEMENT FOR DATES -->
+    <xsl:template match="date">
+        <div class="dropdown">
+            <span class="date">
+                <xsl:apply-templates/>
+            </span>
+            <ul class="dropdown-content">
+                <xsl:if test="comment()">
+                    <li>
+                        <xsl:text>Comment:  </xsl:text>
+                        <xsl:value-of select="comment()"/>
+                    </li>
+                </xsl:if>
+                <xsl:if test="@jul_date">
+                    <li>
+                        <xsl:text>Julian date:  </xsl:text>
+                        <xsl:value-of select="@jul_date"/>
+                    </li>
+                </xsl:if>
+                <xsl:if test="@hij_date">
+                    <li>
+                        <xsl:text>Hijri date:  </xsl:text>
+                        <xsl:value-of select="@hij_date"/>
+                    </li>
+                </xsl:if>
+                <xsl:if test="@greg_date">
+                    <li>
+                        <xsl:text>Gregorian date:  </xsl:text>
+                        <xsl:value-of select="@greg_date"/>
+                    </li>
+                </xsl:if>
+            </ul>
+        </div>
+    </xsl:template>
 </xsl:stylesheet>
