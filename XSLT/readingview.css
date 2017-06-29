@@ -5,6 +5,15 @@ h2 {
     padding: 10px;
     font-size: 32px;
 }
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
 div.meta {
     background-color: #B1D6A2;
     opacity: .75;
@@ -24,17 +33,15 @@ body {background-color:#8FBC8F;
     overflow: auto;
     opacity: 0.90;}
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: block;
+  list-style-type: circle;
+  display: block;
 }
 div.dropdown {
     position: relative;
     display: inline-block;
 }
 
-div.dropdown-content {
+ul.dropdown-content {
     display: none;
     position: absolute;
     background-color: #f9f9f9;
@@ -44,6 +51,6 @@ div.dropdown-content {
     z-index: 1;
 }
 
-div.dropdown:hover div.dropdown-content {
+div.dropdown:hover ul.dropdown-content {
     display: block;
 }

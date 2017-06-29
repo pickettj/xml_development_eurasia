@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
-    <xsl:output method="xml" doctype-system="about:legacy-compat"/>
+   <xsl:output method="xml"/>
     <xsl:template match="/">
-        <html>
-            <head xmlns="http://www.w3.org/1999/xhtml">
+        <html xmlns="http://www.w3.org/1999/xhtml">
+            <head>
                 <title>Reading View</title>
                 <link rel="stylesheet" type="text/css" href="readingview.css"/>
             </head>
@@ -64,13 +64,14 @@
         </div>
     </xsl:template>
     <xsl:template match="body/div">
-        <p>
+        <div>
             <xsl:apply-templates/>
-        </p>
+        </div>
     </xsl:template>
     <!-- PAGE BREAKS -->
     <xsl:template match="pg">
         <hr/>
+        <p><xsl:value-of select="@folio"/></p>
     </xsl:template>
     <!-- CSS DROP DIV ELEMENT FOR INDIVIDUALS -->
     <xsl:template match="individual">
@@ -78,16 +79,16 @@
             <span class="ind">
                 <xsl:apply-templates/>
             </span>
-            <div class="dropdown-content">
-                <a>
+            <ul class="dropdown-content">
+                <li>
                     <xsl:text>Ind ID:</xsl:text>
                     <xsl:value-of select="@ind_id"/>
-                </a>
-                <a>
+                </li>
+                <li>
                     <xsl:text>Role ID: </xsl:text>
                     <xsl:value-of select="role/@id"/>
-                </a>
-            </div>
+                </li>
+            </ul>
         </div>
     </xsl:template>
     <!-- CSS DROP DIV ELEMENT FOR INTERTEXT -->
@@ -96,12 +97,12 @@
             <span class="ind">
                 <xsl:apply-templates/>
             </span>
-            <div class="dropdown-content">
-                <a>
+            <ul class="dropdown-content">
+                <li>
                     <xsl:text>Quran ID: </xsl:text>
                     <xsl:value-of select="@quran_id"/>
-                </a>
-            </div>
+                </li>
+            </ul>
         </div>
     </xsl:template>
 
