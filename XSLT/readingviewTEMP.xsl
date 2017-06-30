@@ -82,6 +82,16 @@
         </p>
     </xsl:template>
     <!-- XML COMMENTS -->
+    <xsl:template match="body/comment()">
+        <div class="dropdown">
+            <span class="comment"> * </span>
+            <ul class="dropdown-content">
+                <li>
+                    <xsl:value-of select="."/>
+                </li>
+            </ul>
+        </div>
+    </xsl:template>
     <xsl:template match="div/comment()">
         <div class="dropdown">
             <span class="comment"> * </span>
