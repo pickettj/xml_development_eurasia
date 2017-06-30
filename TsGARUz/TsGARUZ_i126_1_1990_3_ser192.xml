@@ -9,6 +9,7 @@
         </archive>
         <serial>192</serial>
         <entity>Bukhara</entity>
+        <language type="persian"></language>
         <original type="scan"/>
         <complete type="partial"/>
         <cat_gloss/>
