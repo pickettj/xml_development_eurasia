@@ -1,0 +1,52 @@
+<?xml-model href="../schemas/schema_coding_primary_texts.rnc" type="application/relax-ng-compact-syntax"?>
+<document>
+
+    <metadata>
+        <archive>
+            <name>TsGARUz</name>
+            <call>i126-1-1730</call>
+            <fol>19a</fol>
+        </archive>
+        <serial>218</serial>
+        <entity>Bukhara</entity>
+        <language type="persian"/>
+        <original type="scan"/>
+        <complete type="partial"/>
+        <cat_gloss/>
+        <cat_date/>
+        <gloss/>
+        <keywords/>
+    </metadata>
+
+    <body>
+        <div type="preamble">تیمنا بذکره الاعلی ما قول ائمة الاسلام رضی الله تعالی عنهم اجمعینتیمنا
+            بذکره الاعلی ما قول ائمة الاسلام رضی الله تعالی عنهم اجمعین
+            <!-- "Finding good omen in bearing the sublime God in mind, I ask you: what opinion do the authoritative scholars of Islam - may the sublime God be satisfied with them all - have concerning the following question?" -->
+        </div>
+        <div type="section">
+            <div type="line">
+                <div type="heading">درین مسئله که</div>
+                <div type="line">بر تقدیر انکه نار مراد
+                    <flag type="orthography">بی</flag>
+                     کچیک آی زوجه شرعیه مطلقه ذات الحمل بای نظر بای را قبل از</div>
+            </div>
+            <div type="line">وضع حمل در نکاح فاسد خود در اورده باشد که حامله بودن آن معلوم شده حاکم
+                شرع شریف بینهما تفریق نموده مسماة مذکوره بعد ذلک</div>
+            <div type="line">خوفاً علی نفسها و متاعها بامر حضرت مشار الیه از خانهً نار مراد خارجه شده بخانهً والیدین خود رفته نشسته باشد که خانهً والدین آن
+                مذکور</div>
+            <div type="line">کمان مأمون بوده باشد</div>
+            <div type="section">
+                <div type="line">
+                    <div type="heading">بشرعیت درینصورت</div>
+                    <div type="line">خروج مسماة مذکوره از منزل نار مراد مذکور بنابر ذلک الوجه درست و بعد ذلک</div>
+                </div>
+                <div type="line">خروج آن از مکان مذکور والدین خود نادرست باشد</div>
+                
+            </div>
+        </div>
+
+
+
+    </body>
+
+</document>
