@@ -1,0 +1,63 @@
+<?xml-model href="../schemas/schema_coding_primary_texts.rnc" type="application/relax-ng-compact-syntax"?>
+<document>
+
+    <metadata>
+        <archive>
+            <name>TsGARUz</name>
+            <call>i126-1-1730</call>
+            <fol>99a</fol>
+        </archive>
+        <serial>215</serial>
+        <entity>Bukhara</entity>
+        <language type="persian"/>
+        <original type="scan"/>
+        <complete type="partial"/>
+        <cat_gloss/>
+        <cat_date/>
+        <gloss/>
+        <keywords>@fatwa @jurisdiction</keywords>
+    </metadata>
+
+    <body>
+
+
+        <div type="section">
+            <!-- insert opening formula -->
+            <div type="line">
+                <div type="heading">درین مسئله که بشریعت</div>
+                 حضرت نبوی رسول اکرم
+                <flag type="orthography">؟؟</flag>
+                 و بمذهب مهذّب</div>
+            <div type="line">سراج
+                <flag type="orthography">الاحم</flag>
+                 حضرت امام اعظم رحمة الله
+                <flag type="orthography">عنه</flag>
+                 انقیاد و اطاعت حضرت پادشاه اسلام ظل الله المبسوط بین الانام و نایب عالی</div>
+            <!-- Enjoining everyone to follow the dictates of a monarch who is correctly following Sharia (big caveat) -->
+            <div type="line">حضرت مشار الیه در اموریکه موافق شریعت
+                <flag type="orthography">؟؟</flag>
+                 بوده باشد بر همه اهل اسلام از قضاء و حکام و خواص و عوام واجب و لازم و عدم
+                اطاعت</div>
+            <div type="line">در امور مذکوره مخالف باشد</div>
+        </div>
+        <div type="section">
+            <div type="line">
+                <div type="heading">بشرایط یا نی</div>
+                 و گر عمدة الملک ولینعمی که نایب بالاستقلال و مفوض الیه حضرت مشار الیه میباشند</div>
+            <div type="line">امیر عدابت نهاد حکم کرده باشند که قضاة ؟؟ که هر یک منصوب بعمل قضا و قطع
+                قطع خصومات بین الناس اند دعوی مدعی را بعد از</div>
+            <div type="line">قرن شرعی که سی سال است سماع نمایند و مفتیان بر عدم سماع دعوی مذکوره و
+                بطلانی آن فتوی دهند</div>
+        </div>
+        <div type="section">
+            <div type="heading">درینصورت</div>
+            <div type="line">این حکم از عمده الملک</div>
+            <div type="line">و امیر مذکورین درست و معتبر و انقیاد و مطاع این حکم بر همه قضاة که منصوب بحکم جهان مطاعت عالم مطیع ایشانان اند واجب و لازم باشد</div>
+        </div>
+
+
+
+
+    </body>
+
+</document>
