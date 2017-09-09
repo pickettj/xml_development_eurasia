@@ -70,7 +70,7 @@
                 <xsl:apply-templates/>
             </div>
         </xsl:if>
-        <div>
+        <div class="body">
             <xsl:apply-templates/>
         </div>
     </xsl:template>
@@ -110,8 +110,8 @@
             </span>
             <ul class="dropdown-content">
                 <li>
-                    <xsl:text>Ind ID:</xsl:text>
-                    <xsl:value-of select="@ind_id"/>
+                    <xsl:text>Ind ID: </xsl:text>
+                    <xsl:value-of select="@id"/>
                 </li>
                 <li>
                     <xsl:text>Role ID: </xsl:text>
