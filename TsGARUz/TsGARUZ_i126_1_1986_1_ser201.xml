@@ -35,7 +35,7 @@
                     <honorific>غلام رضا جوی</honorific>
                      دعا گویان</individual>
                  راسخ الاعتقاد صمیمی موروثی عقیدت وفور</div>
-            <div type="line">بدرۀ باریافتگان آستان
+            <div type="line">بذروِۀ باریافتگان آستان
                 <honorific>عدالت نشان</honorific>
                 <honorific>فریدون شوکت</honorific>
                 <honorific>بهرام صولت</honorific>
@@ -73,6 +73,7 @@
             </div>
             <div type="line">تصدق سر مبارک جناب عالیحضرتما هزاران</div>
             <!-- Actual issue starts here; everything previous honorifics and preamble -->
+            <!-- Taṣadduq shawam: "I sacrifice myself to you" -->
             <div type="line">هزار مرتبه شوم یوم یشکشنبه نماز عصری بود که
                 <individual id="ind_960">ملا نظر</individual>
                  نام موضع
@@ -104,6 +105,7 @@
             <!-- The author investigating the case was not sure of the trustworthiness of the accusers, and sent for the aqsaqal -->
             <div type="line">رضاجویان و دعاگویان گفته آدمان بسته آوردگی و شوهر ش را اعتبار ندانسته
                 آدم فرستاده آقساقال و کلان شوده گانی آنموضع را</div>
+            <!-- Village elders conducted a thorough inquiry into the matter (taḥqīq); they inquired what sort of a person this Mulla Nazar is -->
             <div type="line">جمع کرده آورده از زنان آقصالان و کلان شوندگان آنجا خوب تحقیق نموده
                 پرسیدیکه ملا نظر چه نوع آدم میباشد همه آقسقالان</div>
             <!-- The village elders testify that this particular imam has enaged in other counter-sharia behavior as well -->

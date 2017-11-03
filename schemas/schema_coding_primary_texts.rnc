@@ -43,7 +43,7 @@ div_type = attribute type {"closing" | "couplet" | "gloss" | "heading" | "invoca
 lb = element lb {empty}
 #gloss refers to extra-textual commentary added by me, and signifies a break in the actual text.
 #___Individual__: id refers to personography; currently using FileMaker system, with 'ind_' prefixed to the serial number.
-individual = element individual {mixed {ind_id?, (role? | honorific? | location?)*}}
+individual = element individual {mixed {ind_id?, (role? | honorific? | location? | flag?)*}}
 ind_id = attribute id {text} #will eventually refer to an idref#
 #__Roles & Honorifics__: Ranks & Titles are conceptually distinguished from Honorifics; the former ar tracked in a Rankography, and the latter merely flag hortoric text
 role = element role {role_id, text}

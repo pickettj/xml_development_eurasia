@@ -15,10 +15,14 @@
         <cat_gloss/>
         <cat_date/>
         <gloss/>
-        <keywords>@fatwa @jurisdiction</keywords>
+        <keywords>@fatwa @jurisdiction @qazi</keywords>
     </metadata>
 
     <body>
+
+
+
+
 
 
         <div type="section">
@@ -29,7 +33,7 @@
                 <flag type="orthography">؟؟</flag>
                  و بمذهب مهذّب</div>
             <div type="line">سراج
-                <flag type="orthography">الاحم</flag>
+                <flag type="orthography">الامم</flag>
                  حضرت امام اعظم رحمة الله
                 <flag type="orthography">عنه</flag>
                  انقیاد و اطاعت حضرت پادشاه اسلام ظل الله المبسوط بین الانام و نایب عالی</div>
@@ -38,22 +42,61 @@
                 <flag type="orthography">؟؟</flag>
                  بوده باشد بر همه اهل اسلام از قضاء و حکام و خواص و عوام واجب و لازم و عدم
                 اطاعت</div>
-            <div type="line">در امور مذکوره مخالف باشد</div>
+            <div type="line">در امور مذکوره مخالف شرع باشد</div>
         </div>
         <div type="section">
             <div type="line">
                 <div type="heading">بشرایط یا نی</div>
                  و گر عمدة الملک ولینعمی که نایب بالاستقلال و مفوض الیه حضرت مشار الیه میباشند</div>
-            <div type="line">امیر عدابت نهاد حکم کرده باشند که قضاة ؟؟ که هر یک منصوب بعمل قضا و قطع
-                قطع خصومات بین الناس اند دعوی مدعی را بعد از</div>
-            <div type="line">قرن شرعی که سی سال است سماع نمایند و مفتیان بر عدم سماع دعوی مذکوره و
-                بطلانی آن فتوی دهند</div>
+            <div type="line">امیر عدالت نهاد حکم کرده باشند که قضاة
+                <flag type="orthography">؟؟</flag>
+                 که هر یک منصوب بعمل قضا و قطع قطع خصومات بین الناس اند دعوی مدعی را بعد از</div>
+            <div type="line">
+                <legal>قرن شرعی</legal>
+                 که سی سال است سماع نمایند و مفتیان بر عدم سماع دعوی مذکوره و بطلانی آن فتوی
+                دهند</div>
         </div>
         <div type="section">
             <div type="heading">درینصورت</div>
             <div type="line">این حکم از عمده الملک</div>
-            <div type="line">و امیر مذکورین درست و معتبر و انقیاد و مطاع این حکم بر همه قضاة که منصوب بحکم جهان مطاعت عالم مطیع ایشانان اند واجب و لازم باشد</div>
+            <div type="line">و امیر مذکورین درست و معتبر و انقیاد و مطاع این حکم بر همه قضاة که
+                منصوب بحکم جهان مطاعت عالم مطیع ایشانان اند واجب و لازم باشد</div>
+            <div type="line"/>
         </div>
+        <div type="section">
+            <div type="heading">بشرایطه یا نی</div>
+            <div type="line">و حکم نمودن قضاة بر خلاف حکم مذکور که</div>
+            <div type="marginalia">دین حکم قاضی
+                <flag type="orthography">نیستند</flag>
+            </div>
+            <div type="line">غیر نافذ و واجب النقض باشد</div>
+        </div>
+        <div type="section">
+            <div type="heading">بشرایطه یا نی</div>
+            <div type="line">و قول قضاة که از حکم کردۀ</div>
+            <div type="line">خود ها نمیکردیم گشتن بامیان درست نیست نا مسموع و غیر مقبول باشد</div>
+        </div>
+        <div type="section">
+            <div type="heading">بشرایطه یا نه</div>
+            <div type="line">و باید عمدة الملک و امیر مذکورین را که حکمیکه از</div>
+            <div type="line">قضاة نایبان ایشان اند بر خلاف امر
+                <flag type="orthography">مشار الیهما</flag>
+                 صادر و واقع شده است نقض نموده حکم ببطلان دعوی مدعی بعد از قرن </div>
+            <div type="line">نمایند</div>
+        </div>
+        <div type="section">
+            <div type="heading">بشرایطه یا نی</div>
+            <div type="line">و بسبب مذکور مذکور مشار الیهما را
+                <flag type="orthography">؟؟</flag>
+                 عظیم باشد</div>
+        </div>
+        <div type="section">
+            <div type="heading">بشرایطه یا نی</div>
+            <div type="line">چون قضاة در امریکه من له الولایه استثنا کرده اند</div>
+            <div type="line">مقلد نی بوده قضاء آنها نادرست بوده است </div>
+            <div type="marginalia">??</div>
+        </div>
+
 
 
 
