@@ -1,0 +1,69 @@
+<?xml-model href="../schemas/schema_coding_primary_texts.rnc" type="application/relax-ng-compact-syntax"?>
+<document>
+
+    <metadata>
+        <archive>
+            <name>TsGARUz</name>
+            <call>i126-1-542-6i126-1-542</call>
+            <fol>6</fol>
+        </archive>
+        <serial>237</serial>
+        <entity>Bukhara</entity>
+        <language type="persian"/>
+        <original type="scan"/>
+        <complete type="partial"/>
+        <cat_gloss/>
+        <cat_date/>
+        <gloss>Mirshab report on death of Indian after visit to doctor.</gloss>
+        <keywords>@mirshab @health @indians</keywords>
+    </metadata>
+
+    <body>
+        <div type="invocatio">بسم الله خير الاسماء</div>
+        <div type="line">عرض بنده گیً غلام رضا جوی جانسپار فرمان بردار
+            <individual id="ind_1045">محمد رجب میرشب</individual>
+            <location id="loc_69">کامات</location>
+        </div>
+        <div type="line">
+            <honorific>رکاب همایون</honorific>
+            <honorific>عالیحضرت سیدم</honorific>
+             و مولایم بهزاران فروتنی و
+            <flag type="orthography">ج</flag>
+             انسپار جنین</div>
+        <div type="line">میرسانمکه صاحبا بنده نوازا تصدق سر مبارکعالی حضرتم شوم از دولت سراسر
+            معدلت</div>
+        <div type="line">جناب عالیحضرتم همه بنده و بیچاره
+            <flag type="orthography">در مها</flag>
+             و آسایش و رفاهیت بوده بدعا دوام</div>
+        <!-- Beginning of substance -->
+        <div type="line">دولت جنابعالی مشغول میباشند تصدق شوم
+            <individual>پوکهً</individual>
+             هندو نام
+            <location id="loc_21">خطرچی</location>
+             گی</div>
+        <div type="line">بتیاب شده به طبیب
+            <flag type="orthography">سرزادهً</flag>
+             خود طبابت مینمایم گفته در وابکند آمده بوده است</div>
+        <div type="line">مدت یکهفته گذشته بیگاه سه شنبه سزدهم ماه رجب فوتیده بوده است که</div>
+        <div type="line">دعاگویشان فضیلت پناه قاضی ملا
+            <flag type="orthography">امام</flag>
+             الدین صدور اینغلام رضا جوی را مع</div>
+        <div type="line">آقسقالان وابکند بسرای هندوها از برای تحقیق احوال آن فرستادند که</div>
+        <div type="line">اینغلام رضا جوی همراه آقسقالان بسرای هندو رفته هندوها را جمع نموده</div>
+        <div type="line">از چز چارهً آن تحقیق بلیغ نمودم همهً هندوها جناب عالیحضرتم را دعاها</div>
+        <div type="line">نموده میگویند که پوکهً هندوی مذکور محض از برای طبابت کنانیدن همراه
+            <flag type="orthography">بکوسینی</flag>
+             نام</div>
+        <div type="line">سر خود بعرابه کرا کرده آمده بود که هیچ جز همراه خودش ناورده است حجره</div>
+        <div type="line">و پل بسیار در ولایت خطرچی دارد اینغلام رضا جوی آنچه دیده و دانستهً</div>
+        <div type="line">خود را معلوم جناب عالیحضرتم و ملایم شود گفته از روی غلامی عرض بندگی</div>
+        <div type="line">نمودم آلهی آفتاب عدالت عالیملوایم بر سر غلامان ابداً تابان
+            <flag type="orthography">بادا ابین</flag>
+        </div>
+
+
+
+
+    </body>
+
+</document>

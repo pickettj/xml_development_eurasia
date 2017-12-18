@@ -55,7 +55,7 @@
                     <role id="amir">امیر</role>
                 </individual>
                  بخارا یکروز از تحت
-                <location>مدرسهً کوکلتاش</location>
+                <location id="loc_1100">مدرسهً کوکلتاش</location>
                  گذشته بهمان وقت</div>
             <div type="line"><!-- rough tran.: one day when the amir was passing by the Kokaltash madrasa, Damulla Hasan told someone to signal the amir that he wanted to discuss a matter with him -->
                 <flag type="orthography">در شخصی</flag>
@@ -108,7 +108,8 @@
                 <individual>
                     <role id="amir">امیر</role>
                      مظفر</individual>
-                 وفات یافته گی</div></div>
+                 وفات یافته گی</div>
+        </div>
 
         <!-- 2.  Najm al-Din Makhdum Bukhari-->
         <div type="section">
@@ -321,7 +322,9 @@
                 <flag type="orthography">داعی</flag>
                  بدرون
                 <location id="loc_3">بخارا</location>
-                 بوده اخیر بمدرسهً کوکلتاش مدرس</div>
+                 بوده اخیر بمدرسهً
+                <location id="loc_1100">کوکلتاش</location>
+                 مدرس</div>
             <div type="line">و
                 <individual id="ind_195">
                     <role id="role_19">اخوند</role>
@@ -384,6 +387,45 @@
                  شده</div>
             <div type="line">بایام امیر مظفر وفات</div>
         </div>
+
+        <!-- 12. Hamid Arab Bukhari -->
+        <div type="section">
+            <div type="line">
+                <individual id="ind_1046">ملا حامد عرب بخاری</individual>
+                 بعد از ختم کتب مدرس شده درس گوی مشهور بود بمدرسه
+                <flag type="orthography">هل</flag>
+                 کلان بخارا</div>
+            <div type="line">مدرس ثانیا مفتی مهردار شده وفات یافت در ایام امیر عبد الاحد بوده</div>
+        </div>
+
+        <!-- 13. Mulla Baqa Khwaja -->
+
+        <!-- 14. Mulla Muhammad Baqa Khwaja Bukhari (i.e. Qazi Kalan after Badr al-Din) -->
+        <div type="section">
+            <div type="line">
+                <individual id="ind_287">ملا محمد بقا خواجه بخاری</individual>
+                 بعد از ختم کتب بولایت ها و تومانها قاضیگی نمود</div>
+            <div type="line">مفتی شده در ایام عبد الاحد بدرون بخارا رئیس شده ثانی قاضی کلان شده</div>
+            <div type="line">باز بیکار شده در ایام امیر عالم شیخ الاسلام شده از امیر تنخا گرفته وفات یافت</div>
+        </div>
+        
+        
+        <!-- 15. Mulla Arif Khwaja bin Mulla Muhammad Baqa Khwaja -->
+        
+        <!-- 16. Mulla Ahmad Makhdum bin Abd al-Hakim Akhund -->
+        
+        <!-- 17. Mulla Ghiyas al-Din Bukhari (prob. 463) -->
+        
+        <!-- 18. Siraj al-Din Bukhari (astrologer) -->
+        
+        <!-- 19. Mulla Sharif Khwaja "Mawlawi" -->
+        
+        <!-- 20. Mulla Isma'il Khwaja Bukhari -->
+
+
+
+
+
 
 
 
