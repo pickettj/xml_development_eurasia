@@ -20,8 +20,7 @@
     </metadata>
     <body>
         <div type="preamble">
-            <pg folio="10b"/>
-             آنچه ملایان درس گوئی مشهوری بدوران
+            <pg folio="10b"/> آنچه ملایان درس گوئی مشهوری بدوران
             <individual id="ind_308">
                 <role id="amir">امیر</role>
                  مظفر</individual>
@@ -135,9 +134,7 @@
                  شده معنی اعلم بخارا گفتن همین که</div>
             <div type="sentence">
                 <legal>بروایت</legal>
-                <legal>جزا</legal>
-                 و
-                <legal>قصاص</legal>
+                <legal>جزا</legal> و <legal>قصاص</legal>
                 <flag type="orthography">مادام</flag>
                  که اعلم بخارا اخذ نکند اجرا نمیشده در ایام امیر مظفر فوتینده</div>
         </div>
@@ -405,22 +402,89 @@
             <div type="line">
                 <individual id="ind_287">ملا محمد بقا خواجه بخاری</individual>
                  بعد از ختم کتب بولایت ها و تومانها قاضیگی نمود</div>
-            <div type="line">مفتی شده در ایام عبد الاحد بدرون بخارا رئیس شده ثانی قاضی کلان شده</div>
-            <div type="line">باز بیکار شده در ایام امیر عالم شیخ الاسلام شده از امیر تنخا گرفته وفات یافت</div>
+            <div type="line">مفتی شده در ایام عبد الاحد بدرون بخارا رئیس شده ثانی قاضی کلان
+                شده</div>
+            <div type="line">باز بیکار شده در ایام امیر عالم شیخ الاسلام شده از امیر تنخا گرفته وفات
+                یافت</div>
         </div>
-        
-        
+
+
         <!-- 15. Mulla Arif Khwaja bin Mulla Muhammad Baqa Khwaja -->
-        
-        <!-- 16. Mulla Ahmad Makhdum bin Abd al-Hakim Akhund -->
-        
+        <!-- Son of the famous Qazi Kalan, brother of Hamid Khwaja who wrote 1927 treatise; went on standard qazi circuit until Revolution -->
+        <div type="section">
+            <div type="line">
+                <individual id="ind_1052">ملا عارف خواجه بن ملا محمد بقا خواجه</individual>
+                 بعد از ختم کتب بتومانها قاضی شده بعد از ان امیر عالم</div>
+            <div type="line">آورده معفی جلو و صدور نموده بود دععی برکام امیر بود طالب علم خوب</div>
+            <div type="line">و
+                <flag type="orthography">با اوراک</flag>
+                 بود بعد از انقلاب وفات یافت</div>
+        </div>
+
+
+        <!-- 16. Mulla Ahmad Makhdum bin Abd al-Hakim Akhund (a qalandar-type) -->
+        <div type="section">
+            <pg folio="8a"/>
+            <div type="line">
+                <individual id="ind_400">ملا احمد مخدوم بن عبد الحکیم اخوند</individual>
+                 ملای درس گو و هم شاعر بود مفتی مُهر دار بود از بسکه</div>
+            <div type="line">آدم فاضل و قلندر مشرب بود و هم بسیار سخن گوی بود بنابرین داعی برکاب
+                امیر عبد الاحد که</div>
+            <div type="line">بخودش مفتی جلو کرده بود در ایام عبد الاحد وفات یافته</div>
+        </div>
+
+
         <!-- 17. Mulla Ghiyas al-Din Bukhari (prob. 463) -->
-        
+        <div type="section">
+            <div type="line">
+                <individual id="ind_463">ملا غیاث الدین بخاری</individual>
+                 بعد از ختم کتب درس گوی خوب شده بود امیر مظفر بنابر ملائی</div>
+            <div type="line">مشهوری بودنش مفتی و صدور کرده اخیر اخوند و اعلم کرده بود در ایام</div>
+            <div type="line">ایمر عبد الاحد وفات یافت</div>
+        </div>
+
+
         <!-- 18. Siraj al-Din Bukhari (astrologer) -->
-        
+        <div type="section">
+            <div type="line">
+                <individual id="ind_1053">ملا سراج الدین بخاری</individual>
+                 بعد از ختم کتب مدرس شده بود از علم نجوم و علم هندسه</div>
+            <div type="line">واقف بود هر سال در ایام نوروز در ایمر بخارا یکدانه تحویل کرده میداد بعد
+                از ان</div>
+            <!-- What is going on in this line? Transmutation of a substance? -->
+            <div type="line">بدرون بخارا آخوند و صدر شده بود در ایام امیر الاحد وفات یافت</div>
+        </div>
+
         <!-- 19. Mulla Sharif Khwaja "Mawlawi" -->
-        
+        <!-- ُThis is probably Muhammad Sharif ibn Ata'allah Khwaja of the Hadi Khwaja line; the only problem is that Muhammad Sharif died during the reign of Nasrallah, not Muzaffar-->
+        <div type="section">
+            <div type="line">
+                <individual id="ind_256">ملا شریف خواجه ملقب بمولوی</individual>
+                 بوده از راه خواجه گی و مولوی زاه گی بدرون بخارا مفتی و مدرس شده</div>
+            <div type="line">درجه شیخی اش از درجهً علمی زیاد بوده مع ذلک در بخارا قاضی کلان بایام
+                امیر مظفر</div>
+            <!-- This is a very interesting line, distinguishing between shaykh-qualities and qazi qualities -->
+            <div type="line">وفات یافته</div>
+        </div>
+
+
         <!-- 20. Mulla Isma'il Khwaja Bukhari -->
+        <div type="section">
+            <div type="line"><individual id="ind_461">ملا اسماعیل خواجه بخاری</individual> بعد از ختم کتب مدرس شده او هم بچند پیر ها دست
+                انابت داده مرشد شده</div>
+            <div type="line">باوجود شیخی هوس قاضی نموده بتومان ها قاضی گی کرده اسبباب و
+                <flag type="orthography">انجام</flag>
+                 بسیار جمع نموده</div>
+            <!-- Used position of provincial qazi to enrich self -->
+            <div type="line">حویلی ها خوب بناء نموده بعد از ان معزول شده باز بدرون بخارا مفتی مهر دار</div>
+            <div type="line">شده در ایام عبد الاحد وفات یافت</div>
+        </div>
+
+
+
+
+
+
 
 
 
