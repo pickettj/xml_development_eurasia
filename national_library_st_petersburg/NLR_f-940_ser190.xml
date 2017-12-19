@@ -19,8 +19,7 @@
 
     <body>
         <!-- Cross-referenced with Sarfraz Khan, Muslim Reformist Political Thought: Revivalists, Modernists and Free Will (Routledge, 2013).-->
-        <div type="heading">طریق تحصیل
-            <pg folio="1a"/>
+        <div type="heading">طریق تحصیل <pg folio="1a"/>
             <flag type="orthography">پایان</flag>
              بمشکلات</div>
         <div type="line">اینکه اوّلاً <!-- (1) "Avval-i-Ilm ('Beginning of knowledge') - a book written in Tajiki that covered the most
@@ -95,32 +94,48 @@
              و
             <intertext text_id="clas_145">مولوی احمد</intertext>
              را قرأة</div>
-        <div type="line">میکنند و بعد از ان شروع بر
-            <flag type="orthography">سر تاج</flag>
-             تهذیب میکنند و بر بالای</div>
-        <div type="line">بهذیب
+        <div type="line">میکنند و بعد از ان شروع بر <!-- (19) Sharh-i Tahzib -->
+            <intertext text_id="clas_128">شرح تهذیب</intertext>
+             میکنند و بر بالای</div>
+        <div type="line">بهذیب <!-- (20) Mawlawi Khwaja Jamal -->
             <intertext text_id="clas_146">مولوی خاجه جمال</intertext>
-             و
+             و <!-- (21) Akhund -->
             <intertext text_id="clas_147">آخوند</intertext>
-             و
+             و <!-- (22) Mirza Zahid -->
             <intertext text_id="clas_148">میرزا زاهد</intertext>
+            <!-- (23) Qazi Mubarak Shah -->
             <div type="line">و
                 <intertext text_id="clas_149">قاضی مبارک شاه</intertext>
                  را قراة میکنند و بعد از ان شروع</div>
+            <!-- (24) Hikmat al-Ayn -->
             <!-- "and then [after Tahzib] Hikmat-ul-Ain ('Exact Wisdom') written by Najamuddin Qazvini, dealing with natural history and metaphysics, was studied for two more years" (Khan, 40). -->
             <div type="line">
                 <intertext text_id="clas_142">بحکمة العین</intertext>
-                 میکنند و بر بالای حکمة العین
+                 میکنند و بر بالای حکمة العین <!-- (25) Mir Sayyid Sharif -->
                 <intertext text_id="clas_115">میر سید شریف</intertext>
             </div>
+            <!-- Akhund again -->
+            <!-- (26) Mirza Jan -->
             <div type="line">و اخوند و
                 <intertext text_id="clas_150">میرزا جان</intertext>
                  را قرأء میکنند و بعد از ان</div>
-            <div type="line">شروع <intertext text_id="clas_97">بملا جلال</intertext> میکنند و بر بالای ملا جلال </div>
+            <div type="line">شروع <!-- (27) Mulla Jalal -->
+                <intertext text_id="clas_97">بملا جلال</intertext>
+                 میکنند و بر بالای ملا جلال </div>
+            <!-- (28) Khanaqa wa Tatamma -->
             <div type="line">خانقای و تتمّه را قرأة میکنند و بعد از ان شروع</div>
         </div>
-        
-        
+        <!-- (29) Tawzih and (30) Talwih -->
+        <div type="line">
+            <intertext text_id="clas_89">بتوضیح</intertext>
+             میکنند و بر بالای توضیح
+            <intertext text_id="clas_90">تلویح</intertext>
+             را قرأة میکنند</div>
+        <!-- (30) Mishkat (hadith) -->
+        <div type="line">و بعد از ان شروع
+            <intertext text_id="clas_92">بمشکاة</intertext>
+             و بعد از ان شروع به تفسیر میکنند</div>
+        <div type="marginalia">و بعد از ان از استاذان فاتحه میگیرند</div>
          (11) Hashiya: و بعد از ان شروع بحاشیه میکنند ** * (12) بر بالای حاشیه [میر سید / مرشید]
         شریف و ملا احمد را قراءة میککند ** ?? * (13) بر بالای مر سید شریف مولوی عبد الحکیم را قراءت
         میکنند ** ?? * (14) بر بالای ملا عبد الحکیم قل احمد را قراءت میکنند ** ?? * (continuing from
@@ -128,14 +143,14 @@
         میکنند ** "Simultaneously, students studied Aqaid-i-Nasafi ('Beliefs of Nasafi'), a
         theological compilation by Najmuddin Abu Hafs Nasafi (1068-1148)" (Khan, 40). * (16) و بر
         بالای عقاید مولوی خیالی و مولوی عبد الحکیم و مولوی احمد را قرأة میکنند ** ??? * (17) Tahzib:
-        و بعد از ان شروع بر [سر تاج؟] تهذیب میکنند **  * (18) و بر بالای تهذیب مولوی خاجه جمال و آخوند و میرزا زاهد جان و
-        قاضی مبارک شاه را قراء میکنند ** ??? * (19) Hikmat al-Ayn: و بعد از ان شروع بحکمة العین
-        میکنند **  * (20) و بر بالای حکمة العین میر سید شریف و اخوند و میرزا جان را قراة میکنند **
-        ??? - same as above * (21) Mulla Jalal: و بعد از ان شروع بملا جلال میکنند ** ""For another
-        two years students learned Mulla Jalal - a commentary written by Jalal-ud-Din Dawwani (d.
-        1502) on a theological treatise called Aqaid ul-Adudiyat ('Beliefs of Adud') by Adud ad-Din
-        al-Iji (d. 1326)" (Khan, 40-41). * (22) و بر بالای ملا جلال اخوند خانقای و تتمه را قراء
-        میکنند ** ??? * (23) و بعد از ان شروع بتوضیح میککند ** ??? * (24) و بر بالای توضیح تلویح را
-        قرأء میکنند ** ??? * (25) و بعد از ان شروع بمشکاة ** ??? * (26) Tafsir: و بعد از ان بتفسیر
-        میکنند * Graduation: و بعد از ان ان از استادان فاتحه میگیرند </body>
+        و بعد از ان شروع بر [سر تاج؟] تهذیب میکنند ** * (18) و بر بالای تهذیب مولوی خاجه جمال و
+        آخوند و میرزا زاهد جان و قاضی مبارک شاه را قراء میکنند ** ??? * (19) Hikmat al-Ayn: و بعد از
+        ان شروع بحکمة العین میکنند ** * (20) و بر بالای حکمة العین میر سید شریف و اخوند و میرزا جان
+        را قراة میکنند ** ??? - same as above * (21) Mulla Jalal: و بعد از ان شروع بملا جلال میکنند
+        ** ""For another two years students learned Mulla Jalal - a commentary written by
+        Jalal-ud-Din Dawwani (d. 1502) on a theological treatise called Aqaid ul-Adudiyat ('Beliefs
+        of Adud') by Adud ad-Din al-Iji (d. 1326)" (Khan, 40-41). * (22) و بر بالای ملا جلال اخوند
+        خانقای و تتمه را قراء میکنند ** ??? * (23) و بعد از ان شروع بتوضیح میککند ** ??? * (24) و بر
+        بالای توضیح تلویح را قرأء میکنند ** ??? * (25) و بعد از ان شروع بمشکاة ** ??? * (26) Tafsir:
+        و بعد از ان بتفسیر میکنند * Graduation: و بعد از ان ان از استادان فاتحه میگیرند </body>
 </document>
