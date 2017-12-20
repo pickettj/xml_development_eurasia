@@ -8,6 +8,7 @@
         </archive>
         <serial>190</serial>
         <entity>Russia</entity>
+        <language type="persian"/>
         <original type="scan"/>
         <complete type="partial"/>
         <cat_gloss>N/A</cat_gloss>
@@ -17,140 +18,148 @@
         <keywords>education madrasa</keywords>
     </metadata>
 
+    <!-- Cross-referenced with Sarfraz Khan, Muslim Reformist Political Thought: Revivalists, Modernists and Free Will (Routledge, 2013).-->
     <body>
-        <!-- Cross-referenced with Sarfraz Khan, Muslim Reformist Political Thought: Revivalists, Modernists and Free Will (Routledge, 2013).-->
-        <div type="heading">طریق تحصیل <pg folio="1a"/>
-            <flag type="orthography">پایان</flag>
-             بمشکلات</div>
-        <div type="line">اینکه اوّلاً <!-- (1) "Avval-i-Ilm ('Beginning of knowledge') - a book written in Tajiki that covered the most
+        <div type="section">
+            <!-- First two pages appear to be the basic reading list -->
+            <div type="heading">طریق تحصیل
+                <pg folio="1a"/>
+                <flag type="orthography">پایان</flag>
+                 بمشکلات</div>
+            <div type="line"><!-- (1) Awwal-i Ilm - a book written in Tajiki that covered the most
         essential religious rules in a question-answer form" (Khan, 40). -->
-            <intertext text_id="clas_96">اوّلِ علم</intertext>
-             بعد از ان <!-- (2) Bidan: "(i) The study began with Bidan (know!) - a customary name of an
+                <intertext text_id="clas_96">اوّلِ علم</intertext>
+                <!-- (2) Bidan: "(i) The study began with Bidan (know!) - a customary name of an
         anonymous treatise on Arabic grammar, widely used in Central Asia as a textbook. This book
         explained fundamentals of Arabic grammar in Tajiki with examples in Arabic" (Khan, 40). -->
-            <intertext text_id="clas_105">بدان</intertext>
-             را</div>
-        <!-- (3) Al-Muizzi: "(iv) Al-muizzi, an anonymous treatise on Arabic
+                بعد از ان
+                <intertext text_id="clas_105">بدان</intertext>
+                 را</div>
+            <!-- (3) Al-Muizzi: "(iv) Al-muizzi, an anonymous treatise on Arabic
         morphology attributed to Izzuddin Zanjani (1257) and Avomil al-In'a ('Necessary Factors'),
         written by Abdulqahar Jurjani (d. 1080), that dealt with Arabic syntax were used to learn
         Arabic etymology and syntax. Students memorized Arabic idioms and learnt their meanings in
         Tajiki" (Khan, 40). -->
-        <div type="line">بعد از ان
-            <intertext text_id="clas_106">مُعِْزی</intertext>
-             را بعد از ان <!-- (4) Bikhani -->
-            <intertext text_id="clas_107">بخانی</intertext>
-             را بعد از ان </div>
-        <div type="line">
-            <!-- (5) Awamil --> بعد از ان
-            <intertext text_id="clas_108">عوامل</intertext>
-             بعد از ان <!-- (6) Harakat / Ilm-i Sarf -->
-            <intertext text_id="clas_190">حرکات</intertext>
-             را و این مجموع را </div>
-        <div type="line"> علم صرف میگویند بعد از ان شروع <!-- (7) Kafia: "(v) This was followed by a partial reading of Qafia fi-n-nahv ('Rhyme in Grammar') - one of the
+            <div type="line">بعد از ان
+                <intertext text_id="clas_106">مُعِْزی</intertext>
+                 را بعد از ان <!-- (4) Bikhani -->
+                <intertext text_id="clas_107">بخانی</intertext>
+                 را بعد از ان </div>
+            <div type="line">
+                <!-- (5) Awamil --> بعد از ان
+                <intertext text_id="clas_108">عوامل</intertext>
+                 بعد از ان <!-- (6) Harakat / Ilm-i Sarf -->
+                <intertext text_id="clas_190">حرکات</intertext>
+                 را و این مجموع را </div>
+            <div type="line"> علم صرف میگویند بعد از ان شروع <!-- (7) Kafia: "(v) This was followed by a partial reading of Qafia fi-n-nahv ('Rhyme in Grammar') - one of the
         most widely read textbooks on Arabic grammar, written by Ibn al-Hajib (d. 1249). The book
         discussed Arabic syntax in some detail. The study of these books was considered sufficient
         to become a mulla. Sometimes students took up to ten years to complete this stage" (Khan,
         40).  -->
-            <intertext text_id="clas_110">بکافیهً</intertext>
-             میکنند </div>
-        <div type="line">و این مشتمل بر هفت مبحث اولا بحث اسم و ثانیاً مرفوعات</div>
-        <div type="line">بعد از ان منصوبات و بعد از ان محچرورات و بعد از ان</div>
-        <div type="line">
-            <flag type="orthography">مبنیات</flag>
-             بعد از ان بحث فعل بعد از ان بحث حرف</div>
-        <div type="line">و بعد از ان شروع <!-- (8) Shahr-i Mulla: "The next stage of advanced learning began with the reading of Sharh-i-Mulla ('Explanation of mulla'), a commentary written by Abdurahman Jami (d. 1492) on Qafia fi-n-nahv" (Khan, 40). -->
-            <intertext text_id="clas_84">بشرح ملا</intertext>
-             میکنند و این شرح کافیه است</div>
-        <div type="line">و بر بالای شرح ملّا <!-- (9) Mulla Abd al-Ghafur, commentary of a commentar -->
-            <intertext text_id="clas_112">ملا عبد الغفور</intertext>
-             را قرأَ میکنند</div>
-        <div type="line">و این مجموع را علم نحو میگویند و بعد از ان شروع </div>
-        <!-- (10) Shamsiyya: "This stage took five years and included the study of Najamuddin Qazvini's (d. 1276) book on logic, Arrisalat ash-Shamsia fi-l-Qavaid al-Mantiqia (Treatise on rules of Logic), commonly known as Shamsia" (Khan, 40). -->
-        <!-- (11) Hashiya: "Students spent another year in reading a commentary by Qutbiddin Razi (d. 1365) on Shamsia, known as F. 2 Hoshia-a-Qutbi ('Notes of Qutbi')" (Khan, 40). -->
-        <div type="line">
-            <intertext text_id="clas_113">بشمسیه</intertext>
-             میکنند
-            <intertext text_id="clas_114">بحاشیه</intertext>
-             میکنند</div>
-        <pg folio="1b"/>
-        <!-- (12) Sayyid Sharif and (13) Mulla Ahmad -->
-        <div type="line">بر بالای حاشیه
-            <intertext text_id="clas_115">میر سید شریف</intertext>
-             و
-            <intertext text_id="clas_115">ملا احمد</intertext>
-             را قراءت می کنند</div>
-        <!-- (14) Mawlawi Abd al-Hakim and (15) Qul Ahmad -->
-        <div type="marginalia">بر بالای میر سید شریف
-            <intertext text_id="clas_117">مولوی عبد الحکیم</intertext>
-             را قراءت میکنند بر بالای ملا عبد الحکیم
-            <intertext text_id="clas_118">قل احمد</intertext>
-             را را قراءت میکنند</div>
-        <div type="line">و بعد از ان شروع بعقاید می کنند و بر بالای عقاید</div>
-        <!-- (16) Mawlawi Khiyali, (17) Mawlawi Abd al-Hakim, (18) Mawlawi Ahmad -->
-        <div type="line">
-            <intertext text_id="clas_143">مولوی خیالی</intertext>
-             و
-            <intertext text_id="clas_144">مولوی عبد الحکیم</intertext>
-             و
-            <intertext text_id="clas_145">مولوی احمد</intertext>
-             را قرأة</div>
-        <div type="line">میکنند و بعد از ان شروع بر <!-- (19) Sharh-i Tahzib -->
-            <intertext text_id="clas_128">شرح تهذیب</intertext>
-             میکنند و بر بالای</div>
-        <div type="line">بهذیب <!-- (20) Mawlawi Khwaja Jamal -->
-            <intertext text_id="clas_146">مولوی خاجه جمال</intertext>
-             و <!-- (21) Akhund -->
-            <intertext text_id="clas_147">آخوند</intertext>
-             و <!-- (22) Mirza Zahid -->
-            <intertext text_id="clas_148">میرزا زاهد</intertext>
-            <!-- (23) Qazi Mubarak Shah -->
-            <div type="line">و
-                <intertext text_id="clas_149">قاضی مبارک شاه</intertext>
-                 را قراة میکنند و بعد از ان شروع</div>
-            <!-- (24) Hikmat al-Ayn -->
-            <!-- "and then [after Tahzib] Hikmat-ul-Ain ('Exact Wisdom') written by Najamuddin Qazvini, dealing with natural history and metaphysics, was studied for two more years" (Khan, 40). -->
+                <intertext text_id="clas_110">بکافیهً</intertext>
+                 میکنند </div>
+            <div type="line">و این مشتمل بر هفت مبحث اولا بحث اسم و ثانیاً مرفوعات</div>
+            <div type="line">بعد از ان منصوبات و بعد از ان محچرورات و بعد از ان</div>
             <div type="line">
-                <intertext text_id="clas_142">بحکمة العین</intertext>
-                 میکنند و بر بالای حکمة العین <!-- (25) Mir Sayyid Sharif -->
+                <flag type="orthography">مبنیات</flag>
+                 بعد از ان بحث فعل بعد از ان بحث حرف</div>
+            <div type="line">و بعد از ان شروع <!-- (8) Shahr-i Mulla: "The next stage of advanced learning began with the reading of Sharh-i-Mulla ('Explanation of mulla'), a commentary written by Abdurahman Jami (d. 1492) on Qafia fi-n-nahv" (Khan, 40). -->
+                <intertext text_id="clas_84">بشرح ملا</intertext>
+                 میکنند و این شرح کافیه است</div>
+            <div type="line">و بر بالای شرح ملّا <!-- (9) Mulla Abd al-Ghafur, commentary of a commentar -->
+                <intertext text_id="clas_112">ملا عبد الغفور</intertext>
+                 را قرأَ میکنند</div>
+            <div type="line">و این مجموع را علم نحو میگویند و بعد از ان شروع </div>
+            <!-- (10) Shamsiyya: "This stage took five years and included the study of Najamuddin Qazvini's (d. 1276) book on logic, Arrisalat ash-Shamsia fi-l-Qavaid al-Mantiqia (Treatise on rules of Logic), commonly known as Shamsia" (Khan, 40). -->
+            <!-- (11) Hashiya: "Students spent another year in reading a commentary by Qutbiddin Razi (d. 1365) on Shamsia, known as F. 2 Hoshia-a-Qutbi ('Notes of Qutbi')" (Khan, 40). -->
+            <div type="line">
+                <intertext text_id="clas_113">بشمسیه</intertext>
+                 میکنند
+                <intertext text_id="clas_114">بحاشیه</intertext>
+                 میکنند</div>
+            <pg folio="1b"/>
+            <!-- (12) Sayyid Sharif and (13) Mulla Ahmad -->
+            <div type="line">بر بالای حاشیه
                 <intertext text_id="clas_115">میر سید شریف</intertext>
+                 و
+                <intertext text_id="clas_115">ملا احمد</intertext>
+                 را قراءت می کنند</div>
+            <!-- (14) Mawlawi Abd al-Hakim and (15) Qul Ahmad -->
+            <div type="marginalia">بر بالای میر سید شریف
+                <intertext text_id="clas_117">مولوی عبد الحکیم</intertext>
+                 را قراءت میکنند بر بالای ملا عبد الحکیم
+                <intertext text_id="clas_118">قل احمد</intertext>
+                 را را قراءت میکنند</div>
+            <div type="line">و بعد از ان شروع بعقاید می کنند و بر بالای عقاید</div>
+            <!-- (16) Mawlawi Khiyali, (17) Mawlawi Abd al-Hakim, (18) Mawlawi Ahmad -->
+            <div type="line">
+                <intertext text_id="clas_143">مولوی خیالی</intertext>
+                 و
+                <intertext text_id="clas_144">مولوی عبد الحکیم</intertext>
+                 و
+                <intertext text_id="clas_145">مولوی احمد</intertext>
+                 را قرأة</div>
+            <div type="line">میکنند و بعد از ان شروع بر <!-- (19) Sharh-i Tahzib -->
+                <intertext text_id="clas_128">شرح تهذیب</intertext>
+                 میکنند و بر بالای</div>
+            <div type="line">بهذیب <!-- (20) Mawlawi Khwaja Jamal -->
+                <intertext text_id="clas_146">مولوی خاجه جمال</intertext>
+                 و <!-- (21) Akhund -->
+                <intertext text_id="clas_147">آخوند</intertext>
+                 و <!-- (22) Mirza Zahid -->
+                <intertext text_id="clas_148">میرزا زاهد</intertext>
+                <!-- (23) Qazi Mubarak Shah -->
+                <div type="line">و
+                    <intertext text_id="clas_149">قاضی مبارک شاه</intertext>
+                     را قراة میکنند و بعد از ان شروع</div>
+                <!-- (24) Hikmat al-Ayn -->
+                <!-- "and then [after Tahzib] Hikmat-ul-Ain ('Exact Wisdom') written by Najamuddin Qazvini, dealing with natural history and metaphysics, was studied for two more years" (Khan, 40). -->
+                <div type="line">
+                    <intertext text_id="clas_142">بحکمة العین</intertext>
+                     میکنند و بر بالای حکمة العین <!-- (25) Mir Sayyid Sharif -->
+                    <intertext text_id="clas_115">میر سید شریف</intertext>
+                </div>
+                <!-- Akhund again -->
+                <!-- (26) Mirza Jan -->
+                <div type="line">و اخوند و
+                    <intertext text_id="clas_150">میرزا جان</intertext>
+                     را قرأء میکنند و بعد از ان</div>
+                <div type="line">شروع <!-- (27) Mulla Jalal -->
+                    <intertext text_id="clas_97">بملا جلال</intertext>
+                     میکنند و بر بالای ملا جلال </div>
+                <!-- (28) Khanaqa wa Tatamma -->
+                <div type="line">خانقای و تتمّه را قرأة میکنند و بعد از ان شروع</div>
             </div>
-            <!-- Akhund again -->
-            <!-- (26) Mirza Jan -->
-            <div type="line">و اخوند و
-                <intertext text_id="clas_150">میرزا جان</intertext>
-                 را قرأء میکنند و بعد از ان</div>
-            <div type="line">شروع <!-- (27) Mulla Jalal -->
-                <intertext text_id="clas_97">بملا جلال</intertext>
-                 میکنند و بر بالای ملا جلال </div>
-            <!-- (28) Khanaqa wa Tatamma -->
-            <div type="line">خانقای و تتمّه را قرأة میکنند و بعد از ان شروع</div>
+            <!-- (29) Tawzih and (30) Talwih -->
+            <div type="line">
+                <intertext text_id="clas_89">بتوضیح</intertext>
+                 میکنند و بر بالای توضیح
+                <intertext text_id="clas_90">تلویح</intertext>
+                 را قرأة میکنند</div>
+            <!-- (31) Mishkat (hadith) -->
+            <div type="line">و بعد از ان شروع
+                <intertext text_id="clas_92">بمشکاة</intertext>
+                 و بعد از ان شروع به تفسیر میکنند</div>
+            <div type="marginalia">و بعد از ان از استاذان فاتحه میگیرند</div>
         </div>
-        <!-- (29) Tawzih and (30) Talwih -->
-        <div type="line">
-            <intertext text_id="clas_89">بتوضیح</intertext>
-             میکنند و بر بالای توضیح
-            <intertext text_id="clas_90">تلویح</intertext>
-             را قرأة میکنند</div>
-        <!-- (30) Mishkat (hadith) -->
-        <div type="line">و بعد از ان شروع
-            <intertext text_id="clas_92">بمشکاة</intertext>
-             و بعد از ان شروع به تفسیر میکنند</div>
-        <div type="marginalia">و بعد از ان از استاذان فاتحه میگیرند</div>
-         (11) Hashiya: و بعد از ان شروع بحاشیه میکنند ** * (12) بر بالای حاشیه [میر سید / مرشید]
-        شریف و ملا احمد را قراءة میککند ** ?? * (13) بر بالای مر سید شریف مولوی عبد الحکیم را قراءت
-        میکنند ** ?? * (14) بر بالای ملا عبد الحکیم قل احمد را قراءت میکنند ** ?? * (continuing from
-        14??): و این شرح شمسیه است و این را علم منطق میگویند * (15) Aqa'id: و بعد از ان شروع بعقاید
-        میکنند ** "Simultaneously, students studied Aqaid-i-Nasafi ('Beliefs of Nasafi'), a
-        theological compilation by Najmuddin Abu Hafs Nasafi (1068-1148)" (Khan, 40). * (16) و بر
-        بالای عقاید مولوی خیالی و مولوی عبد الحکیم و مولوی احمد را قرأة میکنند ** ??? * (17) Tahzib:
-        و بعد از ان شروع بر [سر تاج؟] تهذیب میکنند ** * (18) و بر بالای تهذیب مولوی خاجه جمال و
-        آخوند و میرزا زاهد جان و قاضی مبارک شاه را قراء میکنند ** ??? * (19) Hikmat al-Ayn: و بعد از
-        ان شروع بحکمة العین میکنند ** * (20) و بر بالای حکمة العین میر سید شریف و اخوند و میرزا جان
-        را قراة میکنند ** ??? - same as above * (21) Mulla Jalal: و بعد از ان شروع بملا جلال میکنند
-        ** ""For another two years students learned Mulla Jalal - a commentary written by
-        Jalal-ud-Din Dawwani (d. 1502) on a theological treatise called Aqaid ul-Adudiyat ('Beliefs
-        of Adud') by Adud ad-Din al-Iji (d. 1326)" (Khan, 40-41). * (22) و بر بالای ملا جلال اخوند
-        خانقای و تتمه را قراء میکنند ** ??? * (23) و بعد از ان شروع بتوضیح میککند ** ??? * (24) و بر
-        بالای توضیح تلویح را قرأء میکنند ** ??? * (25) و بعد از ان شروع بمشکاة ** ??? * (26) Tafsir:
-        و بعد از ان بتفسیر میکنند * Graduation: و بعد از ان ان از استادان فاتحه میگیرند </body>
+        <div type="section">
+            <!-- "Masala" Section: Lists legal books -->
+            <pg folio="2a"/>
+            <!-- (32) Fiqh-i Kidani -->
+            <div type="line">تحصیل مسئله بر اینرویش اول
+                <intertext text_id="clas_26">فقه کیدانی</intertext>
+                 میخوانند</div>
+            <div type="line">بعد از ان
+            <!-- (33) Mukhtasar al-Wiqaya, then (34) Fakhr al-Din [IDENTIFY - possibly Tabyin al-Haqaiq, id 10, of the Deoband curriculum] -->
+                <intertext text_id="clas_11">مختصر وقایه</intertext>
+                 بر بالای این <intertext>مولوی فخر الدین</intertext></div>
+            <div type="line">و مولوی شمس الدین محمد را استعمال میکنند بعد از ان</div>
+        </div>
+
+
+
+
+
+
+    </body>
 </document>
