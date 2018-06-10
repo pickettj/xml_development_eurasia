@@ -1,0 +1,56 @@
+<?xml-model href="../schemas/schema_coding_primary_texts.rnc" type="application/relax-ng-compact-syntax"?>
+<document>
+    <metadata>
+        <archive>
+            <name>TsGARUz</name>
+            <call>i126-1-1730</call>
+            <fol>2</fol>
+        </archive>
+        <serial>188</serial>
+        <entity>Bukhara</entity>
+        <original type="scan"/>
+        <complete type="yes"/>
+        <cat_gloss>TBD</cat_gloss>
+        <cat_date>TBD</cat_date>
+        <gloss/>
+        <keywords>fatwa prayer mosque</keywords>
+    </metadata>
+    <body>
+        <div type="preamble">تیمنا بذکره الاعلی ما قول ائمة الاسلام رضی الله تعالی عنهم اجمعینتیمنا
+            بذکره الاعلی ما قول ائمة الاسلام رضی الله تعالی عنهم اجمعین
+            <!-- "Finding good omen in bearing the sublime God in mind, I ask you: what opinion do the authoritative scholars of Islam - may the sublime God be satisfied with them all - have concerning the following question?" --></div>
+        <div type="line">درین مسئله که زیدِ عاقلِ مکلَّفِ عالم باحکام شرعیّۀ صلَوَات</div>
+        <div type="line">و مصایل ضروریّۀ مکتوبات بمسجد گذا که واقع در موضع کذا است مستقیم بوده
+            بجماعۀ معلومه که در ان مسجد</div>
+        <div type="line">اداء صلوات میکرده اند مدّت هشت ماه بل زیاده از ان که اکثر سنه است امامت
+            کرده در اقامت امر مذکور</div>
+        <div type="line">بیعذر شرعی خلل نی رسانیده باشند و بعد ذلک جماعۀ مذکوره بعد از اتضاء مدّت
+            مذکوره بزید مذکور که امام خود ها ست رخصت</div>
+        <div type="line">باستخلاص آن داده باشند </div>
+        <div type="heading">بشریعت درینصورتبشریعت
+            درینصورت<!-- "according to the Islamic law, in the case described above""according to the Islamic law, in the case described above" --></div>
+        <div type="marginalia">بروایت علیه الفتوی</div>
+        <div type="line">زید مذکور بسبب اقامت امامت مذکوره در مدت</div>
+        <div type="line">مذکوره مستحقّ تمام اجرۀ معهودۀ بر سال سال کامل شده باشند
+            <flag type="orthography">کثیر اللطه</flag>
+             یا نی <!-- need special tags for section of a fatwa -eg. after ya na--> و اگر جماعۀ
+            مذکوره میگفته باشند که</div>
+        <div type="line">بر تقدیر التماس زید مذکور حمایت از حکّام ذوی الاحترام در اجرای معاملۀ آن
+            لازم باشد
+            <flag type="orthography">کبیر الطه ما</flag>
+             و بدین سبب حکام شرع
+            <flag type="orthography">بشریف</flag>
+        </div>
+        <div type="line">مثاب و مأجور باشند
+            <flag type="orthography"><!-- same phrase as previous -->کبیر الطریا</flag>
+             و اگر جماعۀ مذکوره بدادن پیوستهای
+            <flag type="orthography">قربانی</flag>
+             و مثل وی بزید کذکور وعده کرده باشند این وعده از انها </div>
+        <div type="marginalia">و في الامامة بسبب اقامة اكثر السّنة يجب الاجرة تماماُ و عليه الفتوی
+            <intertext>مجمع الاحكام <!-- needs to link to a bibliography id --></intertext>
+            <flag type="orthography">فی یص</flag>
+        </div>
+
+
+    </body>
+</document>
