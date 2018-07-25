@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>title of document</title> <!-- Documents will generally not have a title; assume 'incipit' has a different code (?), though probably not necessary for me; does this become a "given" normalized title? -->
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority> <!-- Generally not relevant for my purposes / the same as 'repository' -->
+                <idno type="filename"></idno> <!-- would this be the filename of the document? or the serial number in my case? -->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>TsGARUz</repository>
+                        <idno>i126-1-1903-9</idno> <!-- How to deal with my own personal UID? -->
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>description of object/monument (likely to include <material/>
+                                    and <objectType/> information, <dimensions/>, etc.)</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Two main columns, one central, and one diagonal to the right of the fold.</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>description of letters, possibly including <height>letter-heights</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Bukhara</origPlace> <!-- Should use the normalized spelling corresponding to a unique identifier in database. -->
+                            <origDate>Date of origin</origDate> <!-- Will often be empty. -->
+                        </origin>
+                        <provenance type="found"> Findspot and circumstances/context
+                        </provenance>
+                        <provenance type="observed">Modern location(s) (if different from repository, above)
+                        </provenance> <!-- Information generally captured in the repository information -->
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="photograph of text or monument"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve"> <!-- Does this system mark headings? What about marginalia (and how does it track place of insertion)? -->
+                <ab>
+                    <lb n="1"/> <!-- Why does it need a line number to be entered automatically? -->
+                    <lb/> آبروی دارین و سعادت کونین که ااعظم 
+                        <gap reason="illegible" quantity="4" unit="character"/>
+                    آلهی است
+                    <lb/> روزی و نصیب آنشریعت و شرافت و وزارتدناهان
+                    <lb/> فرعت و نزلت جایگاهان دولت و حکومت دستگاهان
+                    <lb/> بوده باد بعد از اظهار مراهم دعا بوده میدارد که
+                    <lb/> الله الحمد و 
+                        <unclear>المنه</unclear>
+                    بمهربانی و بشرفدولت خداداد مراتب حالات 
+                    <lb/> 
+                        <unclear>وین</unclear>
+                    شکر و رضا بوده همواره بسلامتی ذاتعالی
+                    <lb/> و عافیت مندی آنمرحمت پناهان 
+                        <gap reason="illegible" extent="unknown" unit="character"/>
+                    <lb/> این کتاب  است
+                  
+                </ab>
+                <ab>
+                    <lb/> بقیه السلام آنکه
+                    <lb/> آصف مقامانا چنانچه بمهربانی خداوندی
+                    <lb/> در کفهای داعی از تحت رکوبی چیزی برامده هم یم بدن ورم گرده
+                    <lb/> مدت دوازده روز میشود که از پای ما مانده است که جنبانیده تا توانسته خواب گردیدم
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+            <div type="translation">
+                <p>translation(s)</p>
+            </div>
+            <div type="commentary">
+                <p>ُDisease of swelling (waram) reported in Bukhara.</p>
+            </div>
+            <div type="bibliography"> <!-- This will very rarely be used for my document corpus. -->
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

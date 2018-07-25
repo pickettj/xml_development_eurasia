@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schemas/schema_coding_primary_texts_2.0.rnc" type="application/relax-ng-compact-syntax"?>
+
+<document>
+
+    <metadata>
+        <unique_id>ser561</unique_id>
+    </metadata>
+    <body>
+        <pg folio="13a"/>
+        <div type="marginalia">
+            <!-- Top Marginalia -->
+            <ts type="inscriptio"/>
+            <lb>جنابعالیمولایم سلمه الله متعالی</lb>
+            <lb>جناب مرحمت و شفقت پناهی وزارتپناه مهربانی پروا
+                <flag type="unclear"/>
+                <flag type="unclear"/>
+                <flag type="unclear"/>
+            </lb>
+            <lb>دام دولته</lb>
+            <lb/>
+        </div>
+        <div type="section">
+            <ts type="salutatio"/>
+            <lb> عالیجاه رفیع جایگاه امیر الامراء
+                <flag type="unclear">انتظام</flag>
+                 محیت و مؤدت ارتسام </lb>
+            <flag type="unclear"/>
+            <lb> مستغنی عن تعریف و توصیف را بمعرض
+                <flag type="unclear">قبول</flag>
+                 چنین رسانیده </lb>
+            <lb> میشود که الحمد و المنه مجاریً احوال بکرم و دولت
+                <flag type="unclear">بخیر</flag>
+                 بوده </lb>
+            <lb> سلامتیً ذات اشراف همایونی آبرو
+                <flag type="unclear">مسندی</flag>
+                 مطلوب مستدعا است </lb>
+            <lb/>
+            <ts type="narratio"/> نهفته و خفی مباد که والا جاها چنانجه درینآوان
+            <flag type="unclear"/>
+            <lb> شان و
+                <flag type="unclear"/>
+                 از برای غلطانیده آمده
+                <flag type="unclear"/>
+            </lb>
+            <lb> بدریا بودهً
+                <flag type="unclear">تدمانها رمیه</flag>
+            </lb>
+        </div>
+        <div type="section">
+            <!-- Right diagonal column -->
+            <lb> نوازش
+                <flag type="unclear">پرور</flag>
+            </lb>
+            <lb> ارسالداشته بوده در بهترین </lb>
+            <lb> زمان آمده رسیده بمطالعه پیوسته از مضامین بلاغت
+                <flag type="unclear">آیین</flag>
+            </lb>
+            <lb> او خورسندی بحصول پیوسته گردید
+                <ts type="narratio"/> امیدگاها احوال اینخدمت کار
+                <flag type="unclear">بجنابشان</flag>
+            </lb>
+            <lb> کالینبغی معلوم میباشد از بیگاه اینجانب یکدم آلهی اندک تب و
+                <flag type="unclear">فراشاط ناک</flag>
+                 شده در طبعیت </lb>
+            <flag type="unclear"/>
+            <lb> پیدا شد از اینوجه بقاضی و املاکداران تومان خط کرده آدم خود را همراه
+                <flag type="unclear"/>
+                 روانه نمودم دیگر اینکه </lb>
+            <lb> مهربان پناها مبارکنامهً فقرایان بجنابشان منظور شده
+                <flag type="unclear">کیست</flag>
+                 بمثل آن یک
+                <term type="genre">مبارکنامهً</term>
+                 <term type="order">حکم</term> عرض کرده گرفته طیاری نموده مانند </lb>
+            <lb> بهتر است گفته از روی نادانی انمعنی صلاح می افتیده باشدنکته آگاهی نموده فرستادم دیگر
+                از دولت عالی بخاطر جمعی بوده
+                <flag type="unclear"/>
+                 را </lb>
+            <lb> بفقرایان نوبت دار کما کان رسانیده بذاتعای دعا گرفته استاده ایم ازینوجه خدمتکار
+                ایشان خوب مذمت کرده استاده اند </lb>
+            <lb> فقر همه وقت بدعا
+                <flag type="unclear">یار</flag>
+                <flag type="unclear">نیز</flag>
+                 از دعای مقرون الاجابت اولا ذاتعالی طفیلی امیدوارم السلام
+                <flag type="unclear"/>
+            </lb>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </body>
+
+
+
+</document>
