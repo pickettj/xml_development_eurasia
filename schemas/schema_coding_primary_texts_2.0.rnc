@@ -69,7 +69,7 @@ doc_div =
             (doc_div
              | individual
              | intertext
-             | language
+             | work
              | lb
              | ts
              | term
@@ -78,6 +78,8 @@ doc_div =
              | date
              | pg
              | flag
+             | etym
+             | sem
              | honorific
              | financial
              | legal)*
@@ -88,7 +90,7 @@ doc_div =
 # removed from permissible attricute values: "line" which is now a separate element (<lb>); "gloss" (contained in relational database); and "report (specific to Russian documents, which will not use this schema)
 
 div_type =
-    attribute type { "heading" | "marginalia" | "section" | "sentence" }
+    attribute type { "heading" | "marginalia" | "section" | "sentence" | "seal" }
 
 # (i-c) Lines
 # I don't see any reason to code lines as milestones, as in EpiDoc. 
@@ -100,12 +102,14 @@ lb =
             (doc_div
              | individual
              | intertext
-             | language
+             | work
              | term
              | lb
              | ts
              | location
              | emic_id
+             | etym
+             | sem
              | date
              | pg
              | flag
@@ -181,30 +185,22 @@ role_id = attribute id { text }
 
 
 # (iv-e) Technical Terminology
+# consistency / definitional issues: what qualifies as a "technical term"?
 
 term = element term { term_type?, text }
-term_type = attribute type { "admin" | "genre" | "order" }
+term_type = attribute type { "admin" | "genre" | "injunction" | "request" }
+# "injunction" is an order from a superior to an inferior; "request" is the inverse, a missive 
 
 
+# (iv-f) Textual Works
+# Tag for anytime the title of another work (usually a classical source of some kind) is invoked in the text.
 
+work = element work {text}
 
-# Defunct: "honorific" as a category should be phased out.
-honorific =
-    element honorific {
-        mixed { pg? }
-    }
-    
- 
+# (iv-g) Intertextual Reference
+# Separate ids for Qur'an, Hadith, and references to the Bibliography (text_id)
+# This element wraps around the entire quoted text.
 
-
-
-# __Date__ format is day/month/year for all three
-date =
-    element date {
-        mixed { jul_date | greg_date | hij_date }
-    }
-
-# __Intertextual Reference__ with separate ids for Qur'an, Hadith, and references to the Bibliography (text_id)
 intertext =
     element intertext {
         mixed { quran_id | hadith_id | text_id }
@@ -214,13 +210,52 @@ hadith_id = attribute hadith_id { text }
 text_id = attribute text_id { text }
 
 
-# Topical Coding
-# __Language__ tracks linguistic points of note within a text
-language = element language { language_type, text }
-language_type =
-    attribute type {
-        list { ("grammar" | "vocab" | "tajik" | "turkic" | "urdu" | "persian" | "russian")+ }
+# (iv-h) Honorifics
+# This is a loose category (not currently corresponding to any table in the relational database) designed to produce a lexicon of common honorifics.
+# Targets the smallest possible unit.
+
+honorific =
+    element honorific {
+        mixed { pg? }
     }
+    
+ 
+ 
+# (V) Linguistic Annotation
+
+# (v-i) Etymology
+# Names of places and people not marked: only words for which the semantic meaning is central.
+# This primarily targets unusual occurances; Arabic loan words are ubiquitous in Persian and (presumably) easy to mark by machine, so not marked with this element.
+# Meanwhile, Indic loan words and Turkic loan words are relatively uncommon in writing, and a lexicon created by this element may be useful down the road.
+
+etym = element etym { etym_type, text }
+etym_type = attribute type { "turkic" | "indic" | "english" | "russian" }
+
+
+# (v-ii) Semantics
+# Flags words with an unusual meaning. Specifically, this generally marks etymologically Arabic and Persian words used with a meaning specific to the regional context (i.e. Central or South Asia).
+
+sem = element sem {text}
+
+# (v-iii) Language Flag
+# This element flags linguistic features that may later be useful for systemic analysis (e.g. calques, grammar).
+
+langu = element lang { lang_type, text }
+lang_type =
+   attribute type {
+        list { ("turk_calque" | "indic_calque" | "syntax" | "tajik")+ } }
+# "tajik" marks any construction that is specific to Central Asia, but not directly borrowed from Turkic.
+
+
+
+
+# __Date__ format is day/month/year for all three
+date =
+    element date {
+        mixed { jul_date | greg_date | hij_date }
+    }
+
+
         
 # __Financial__ data, e.g. prices, salaries, etc.
 financial = element financial { financial_type, text }
