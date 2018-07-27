@@ -80,6 +80,7 @@ doc_div =
              | flag
              | etym
              | sem
+             | orth
              | honorific
              | financial
              | legal)*
@@ -110,6 +111,7 @@ lb =
              | emic_id
              | etym
              | sem
+             | orth
              | date
              | pg
              | flag
@@ -240,12 +242,15 @@ sem = element sem {text}
 # (v-iii) Language Flag
 # This element flags linguistic features that may later be useful for systemic analysis (e.g. calques, grammar).
 
-langu = element lang { lang_type, text }
+lang = element lang { lang_type, text }
 lang_type =
    attribute type {
         list { ("turk_calque" | "indic_calque" | "syntax" | "tajik")+ } }
 # "tajik" marks any construction that is specific to Central Asia, but not directly borrowed from Turkic.
 
+orth = element orth { orth_type, text }
+orth_type = attribute type { "misspelling" }
+# Currently this is used mostly to track common mispellings, not including proper nouns.
 
 
 
