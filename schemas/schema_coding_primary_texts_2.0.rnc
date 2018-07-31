@@ -79,6 +79,7 @@ doc_div =
              | pg
              | flag
              | etym
+             | lang
              | sem
              | orth
              | honorific
