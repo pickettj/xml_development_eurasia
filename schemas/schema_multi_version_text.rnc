@@ -45,32 +45,12 @@ vers_id = attribute vers_id {text}
 #??? I'm not sure if this should be a text element type, or something like xsd:id (or how you declare the latter)
 #??? It's not technically a unique ID, since it corresponds to another text... but you could get around that with r_4 corresponding to p_4, for two different languages.
 
-doc_div =
-    element div {
-        div_type,
-        mixed {
-            (doc_div
-             | individual
-             | cor
-             | intertext
-             | work
-             | l
-             | ts
-             | term
-             | location
-             | emic_id
-             | date
-             | pg
-             | flag
-             | etym
-             | lang
-             | sem
-             | orth
-             | honorific
-             | financial
-             | legal)*
-        }
-    }
+
+
+divLike = mixed { ( doc_div | individual | intertext | work | term | cor | ts | location | emic_id | etym | sem | orth | date | pg | flag | honorific | financial | legal)* }
+
+
+doc_div = element div {div_type, divLike }
     
  
 #This is the element to be used to trace finer-grain correspondences, e.g. specific words or phrases.
@@ -88,30 +68,8 @@ pg = element pg { folio, empty }
 folio = attribute folio { text }
 
     
-l =
-    element l {
-        mixed {
-            (doc_div
-             | individual
-             | intertext
-             | work
-             | term
-             | l
-             | cor
-             | ts
-             | location
-             | emic_id
-             | etym
-             | sem
-             | orth
-             | date
-             | pg
-             | flag
-             | honorific
-             | financial
-             | legal)*
-        }
-    }
+l = element l { doc_div, divLike }
+        
 # l = element l { mixed {(flag)}*}
 
 

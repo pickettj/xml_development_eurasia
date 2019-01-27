@@ -43,6 +43,17 @@ unique_id = element unique_id { text }
 jul_date = attribute jul_date { text }
 greg_date = attribute greg_date { text }
 hij_date = attribute hij_date { text }
+
+
+# On the topic of dates, we encourage you to explore the xsd:dateTime datatype and consider its 
+# usefulness for you in defining what a date should actually look like in your document. It uses ISO 
+# format, and it's particularly useful if you have to do date arithmetic, or determine the day of the
+# week for a particular date. The downside is that ISO 8601 dates are always Gregorian because they
+# refer to the date as a fact, and not as recorded in a particular document. Some developers will write
+# the date as it appears in the document (perhaps according to the Julian calendar) and then include
+# the ISO date (necessarily Gregorian) as an attribute value. 
+
+
 # gloss = element gloss { text }
 # An ad-hoc description of the contents (in English)
 # keywords = element keywords { text }
@@ -64,31 +75,12 @@ page = attribute page { text }
 
 # (i-b) Document division can refer to any kind of structural divider within a text: paragraph, invocatio, diagonal writing, etc.
 
-doc_div =
-    element div {
-        div_type,
-        mixed {
-            (doc_div
-             | individual
-             | intertext
-             | work
-             | lb
-             | ts
-             | term
-             | location
-             | emic_id
-             | date
-             | pg
-             | flag
-             | etym
-             | lang
-             | sem
-             | orth
-             | honorific
-             | financial
-             | legal)*
-        }
-    }
+
+divLike = mixed { ( lb | doc_div | individual | intertext | work | term | ts | location | emic_id | etym | sem | orth | date | pg | flag | honorific | financial | legal)* }
+
+
+doc_div = element div {div_type, divLike }
+
 
 # removed from permissible attribute values: "closing", "couplet", and "preamble", because these are all topical structures, and should therefore be captured by <ts>
 # removed from permissible attricute values: "line" which is now a separate element (<lb>); "gloss" (contained in relational database); and "report (specific to Russian documents, which will not use this schema)
@@ -106,29 +98,8 @@ div_type =
 #faithful to its intended use. XML processors don't know what element names mean, which is why tag abuse isn't an XML error, 
 # but life is easier for humans if element and attribute names correspond to what we think they mean intuitively.
 
-lb =
-    element lb {
-        mixed {
-            (doc_div
-             | individual
-             | intertext
-             | work
-             | term
-             | lb
-             | ts
-             | location
-             | emic_id
-             | etym
-             | sem
-             | orth
-             | date
-             | pg
-             | flag
-             | honorific
-             | financial
-             | legal)*
-        }
-    }
+lb = element lb { empty }
+
 # lb = element lb { mixed {(flag)}*}
 
 
