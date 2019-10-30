@@ -12,7 +12,7 @@ serial = attribute serial { xsd:int }
 # In previous versions a lot more metadata was held at the document level. 
 # However, for now all information but the document Unique ID will be held in the relational database instead (which is why the previous categories are commented out).
 
-metadata = element metadata { unique_id }
+#metadata = element metadata { unique_id }
 unique_id = element unique_id { text }
 
 # metadata =
@@ -76,7 +76,7 @@ page = attribute page { text }
 # (i-b) Document division can refer to any kind of structural divider within a text: paragraph, invocatio, diagonal writing, etc.
 
 
-divLike = mixed { ( lb | doc_div | individual | intertext | work | term | ts | location | emic_id | etym | sem | orth | date | pg | flag | honorific | financial | legal)* }
+divLike = mixed { ( glossed | lb | doc_div | individual | intertext | work | term | ts | location | emic_id | etym | sem | orth | date | pg | flag | honorific | financial | legal | lang)* }
 
 
 doc_div = element div {div_type, divLike }
@@ -99,6 +99,12 @@ div_type =
 # but life is easier for humans if element and attribute names correspond to what we think they mean intuitively.
 
 lb = element lb { empty }
+
+# Gloss: Formalized commentary for display purposes; comments reserved for informal notes.
+
+glossed = element glossed {target, gloss }
+gloss = element gloss {text}
+target = element target {text}
 
 # lb = element lb { mixed {(flag)}*}
 
@@ -140,8 +146,8 @@ flag_type = attribute type { "orthography" | "transcription" | "meaning" | "uncl
 # This is used exclusively for proper nouns, i.e. when the name of an individual is referenced. (Previously I coded implicit references as well: no longer.)
 
 individual =
-    element individual {
-        mixed { ind_id?, (role? | honorific? | location? | flag?)* }
+    element individual {ind_id?,
+        mixed { (role | honorific | location | flag)* }
     }
 ind_id = attribute id { text }
 
