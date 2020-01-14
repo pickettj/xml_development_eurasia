@@ -123,7 +123,7 @@ target = element target {text}
 # usually followed by a formula of greeting (salutatio)."
 
 ts = element ts { ts_type, empty }
-ts_type = attribute type { "salutatio" | "narratio" | "inscriptio" | "intitulatio" | "invocatio" }
+ts_type = attribute type { "salutatio" | "narratio" | "apprecatio" | "inscriptio" | "intitulatio" | "invocatio" }
 
 
 # (III) Transcription Annotation
@@ -147,7 +147,7 @@ flag_type = attribute type { "orthography" | "transcription" | "meaning" | "uncl
 
 individual =
     element individual {ind_id?,
-        mixed { (role | honorific | location | flag)* }
+        mixed { (role | honorific | location | flag | lb)* }
     }
 ind_id = attribute id { text }
 
@@ -201,6 +201,7 @@ text_id = attribute text_id { text }
 # (iv-h) Honorifics
 # This is a loose category (not currently corresponding to any table in the relational database) designed to produce a lexicon of common honorifics.
 # Targets the smallest possible unit.
+# Should vaguely have an individual in mind.
 
 honorific =
     element honorific {
