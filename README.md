@@ -3,6 +3,10 @@
 Developing schemas for encoding and marking up Persian documents.
 
 
+## Methodology Resources
+
+- [EpiDoc](https://sourceforge.net/p/epidoc/wiki/Home/)
+
 
 ## Example Projects
 
