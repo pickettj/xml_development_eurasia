@@ -71,7 +71,7 @@ os.listdir(xml_path)
 os.chdir(md_path)
 
 # Test if it is all functioning properly:
-print (pf.parse_md(os.listdir(md_path)[5]))
+#print (pf.parse_md(os.listdir(md_path)[5]))
 
 
 # ### Run parser on every file in the input directory, copy to output directory
