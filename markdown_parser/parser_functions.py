@@ -43,7 +43,8 @@ def parse_md (input_file):
     # Parsing the Markdown into XML using f-strings
     conv = text
     conv = re.sub(r'^ *\- ', r'\t<lb/>', conv, flags=re.MULTILINE)
-    conv = re.sub(r'\----', r'</div>\n<div>', conv, flags=re.MULTILINE)
+    conv = re.sub(r'(\-){3,5}', r'</div>\n<div>', conv, flags=re.MULTILINE)
+    #exact match for above was r'(\-){3,5}'
     conv = re.sub(r'(\*[^\*\n]+\*)', r'<flag>\1</flag>', conv)
     conv = re.sub(r'\*', r'', conv)
     conv = re.sub(r'^> (.*)$', r'<!-- \1 -->', conv, flags=re.MULTILINE)
@@ -53,7 +54,7 @@ def parse_md (input_file):
     <?xml-model href="../../../../../Projects/xml_development_eurasia/schemas/persian_documents_schema_basic.rnc" type="application/relax-ng-compact-syntax"?>
     <document>
     {body}
-    </document>
+    </div></document>
     """.strip()
 
     final = re.sub(r'</div>', '', final, count=1)
