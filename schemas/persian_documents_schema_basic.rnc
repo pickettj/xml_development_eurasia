@@ -45,7 +45,7 @@ lb = element lb { empty }
 # This schema narrows it down to: mispellings and other irregularities ("orthography"); smudges, tears, creases, or other intrinsic reasons the text is "obscured".
 
 diplo = element diplo { mixed { diploType, intended? } }
-diploType = attribute type {"orthography" | "obscured"}
+diploType = attribute type {"orthography" | "obscured" | "ambig"}
 # Optional intended element specifies likely intended word.
 intended = attribute indended { text }
 
@@ -151,7 +151,8 @@ honType = attribute type { "superior" | "inferior"}
 
 # Stock Phrases
 # Tag for extracting stock bureaucratic phrases for later use.
-phrase = element phrase {mixed {divLike} }
+phrase = element phrase {mixed {divLike, phraseType} }
+phraseType = attribute type { "admin" | "literary" }
 
 
 # __Linguistic Annotation__
