@@ -3,11 +3,14 @@
 	<div type="heading">
 		<!-- inscriptio -->
 		<ts type="inscriptio"/>
-		 جناب حضرت وزارت پناهی امیدگاهی و صاحب دولتم سلمه الله تعالی
 		<lb/>
+		
+		 جناب حضرت وزارت پناهی امیدگاهی و صاحب دولتم سلمه الله تعالی
+		
 	</div>
 	<div type="section">
 		<!-- left column -->
+		<lb/>
 		<ts type="apprecatio"/>
 		 عرضه داشت اینغلام
 		<honorific type="inferior">رضاجوی</honorific>
@@ -33,9 +36,9 @@
 		 اینغلام رضاجوی بفضل و کرم الهی بهمین دولت ابد مدة
 		<lb/>
 		 ظفر نمون بدرجه خوشی در گذر بوده سلامی جنابمولایم را از درگاه --- <!-- Right column (diagonal) -->
-		<lb/>
-	</div>
+			</div>
 	<div type="section">
+		<lb/>
 		<flag type="meaning">ایزید</flag>
 		 مراد بخش خواسته
 		<lb/>
@@ -135,7 +138,7 @@
 		 الفقر الفقر
 		<lb/>
 		 الفقر الفقر
-		<lb/>
+		
 	</div>
 
 </document>
