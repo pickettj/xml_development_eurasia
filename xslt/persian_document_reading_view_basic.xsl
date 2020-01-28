@@ -101,6 +101,21 @@
 
     <!-- Diplomatic Sections -->
     
+<!--    <xsl:template match="div">
+        <div class = "section">
+            <xsl:for-each-group select="descendant::text() | lb" group-starting-with="lb">
+                <span class="numeration">
+                    <xsl:text>(</xsl:text>
+                    <xsl:value-of select="position()"/>
+                    <xsl:text>) </xsl:text></span>
+                    <xsl:value-of select="current-group()"/>
+                <br/>
+            </xsl:for-each-group>
+        </div>
+    </xsl:template>-->
+    
+       
+    
     <xsl:template match="div">
         <h4>
          <xsl:value-of select="count(preceding-sibling::div)+1"/><xsl:text>. </xsl:text>
@@ -112,10 +127,11 @@
     <!-- Lines -->
     
     <xsl:template match="lb">
-        <span class = "numeration">(<xsl:value-of select="count(preceding-sibling::lb)+1"/>)</span>
         <br/>
+        <span class = "numeration">(<xsl:value-of select="count(preceding-sibling::lb)+1"/>)</span>
     </xsl:template>
-    
+   
+   
     <!-- Thematic Sections -->
     
     <xsl:template match="ts">
