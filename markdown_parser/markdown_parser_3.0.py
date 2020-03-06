@@ -9,7 +9,7 @@
 # - Code batch processing (i.e. open all files in one directory, output to another).
 # - Automate transfer of process files to new directory to simplify workflow.
 
-# In[196]:
+# In[2]:
 
 
 # Notes on Version 2 (From General Hanley):
@@ -33,7 +33,7 @@ import parser_functions as pf
 
 # Nice [[explanation of using the os library]](https://automatetheboringstuff.com/chapter8/).
 
-# In[2]:
+# In[13]:
 
 
 # Input Folder
@@ -42,41 +42,38 @@ md_rel_path = "/Box/Notes/Primary_Sources/transcription_markdown_drafting_stage1
 md_path = hdir + md_rel_path
 
 # Destination Folder
-xml_rel_path = r"/Box/Notes/Primary_sources/xml_notes_stage2/parser_depository"
+xml_rel_path = r"/Box/Notes/Primary_Sources/xml_notes_stage2/parser_depository"
 xml_path = hdir + xml_rel_path
 
 # Folder to archive old Markdown files
 archive_rel_path = "/Box/Notes/Primary_Sources/transcription_markdown_drafting_stage1/archive_docs_now_at_xml_stage_do_not_use"
 archive_path = hdir + archive_rel_path
 
-print ("Files currently in input folder ", os.path.dirname(md_path), ":")
-os.listdir(md_path)
+print ("Files currently in input folder ", os.path.dirname(md_path), ":\n")
+print(os.listdir(md_path))
 
 
-# In[3]:
+# In[11]:
 
 
 # Minor: note that os.path.dirname lists the name of the parent folder, not the targeted one
-print ("Files currently in destination folder ", os.path.dirname(xml_path), ":")
+print ("Files currently in destination folder ", os.path.dirname(xml_path), ":\n")
 
-os.listdir(xml_path)
+print(os.listdir(xml_path))
 
 
 # ## The Parser
 
-# In[11]:
+# In[4]:
 
 
 # Making sure in correct directory:
 os.chdir(md_path)
 
-# Test if it is all functioning properly:
-#print (pf.parse_md(os.listdir(md_path)[5]))
-
 
 # ### Run parser on every file in the input directory, copy to output directory
 
-# In[4]:
+# In[5]:
 
 
 for filename in os.listdir(md_path):
@@ -99,3 +96,13 @@ for filename in os.listdir(md_path):
 
         # Move active file to the archive folder
         shutil.move(md_path + "/" + filename, archive_path + "/" + archive_file)
+
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
