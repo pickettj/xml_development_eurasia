@@ -19,7 +19,8 @@ serial = attribute serial { xsd:int }
 
 #  Page number is a milestone element; attribute Folio refers to internal pagination
 pg = element pg { folio, empty }
-folio = attribute folio { xsd:ID }
+folio = attribute folio { text }
+# folio was formerly xml:id, but those can't start with a number. how better to do this? perhaps schematron?
 
 # Document division can refer to any kind of structural divider within a text: paragraph, invocatio, diagonal writing, etc.
 doc_div = element div {div_type, divLike, n? }
@@ -31,7 +32,7 @@ note_n = attribute n { text }
 
 
 # divLike lists all the elements that a set of text can contain:
-divLike = mixed { ( diplo | glossed | lb | doc_div | individual | intertext | work | term | ts | location | emic_id | etym | sem | date | pg | flag | honorific | financial | legal | lang | note)* }
+divLike = mixed { ( phrase | diplo | glossed | lb | doc_div | individual | intertext | work | term | ts | location | emic_id | etym | sem | date | pg | flag | honorific | financial | legal | lang | note)* }
 
 div_type =
     attribute type { "heading" | "marginalia" | "section" | "sentence" | "seal" }
@@ -117,7 +118,7 @@ emic_type = attribute type { text }
 # Social Role
 # Any generalized term that refers to a person (e.g. military rank, confession, ethnicity).
 
-role = element role { role_id, text }
+role = element role { role_id?, text }
 role_id = attribute id { xsd:int }
 
 # Knowledge Form
@@ -159,8 +160,8 @@ honType = attribute type { "superior" | "inferior"}
 
 # Stock Phrases
 # Tag for extracting stock bureaucratic phrases for later use.
-phrase = element phrase {mixed {divLike, phraseType} }
-phraseType = attribute type { "admin" | "literary" }
+phrase = element phrase {mixed {phraseType?, lb*} }
+phraseType = attribute type { "admin" | "literary" | "cermonial" }
 
 
 # __Linguistic Annotation__
