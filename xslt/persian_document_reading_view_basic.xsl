@@ -1,12 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0"
+    xmlns:prv="https://www.bactriana.org"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
     xmlns="http://www.w3.org/1999/xhtml">
     <xsl:output method="xml" doctype-system="about:legacy-compat" indent="yes"/>
+
+<!-- ================================================================ -->
+<!-- Global Variables   -->
+<!-- ================================================================ -->
+    <!-- solution for getting unique ids with values (Birnbaum): https://github.com/obdurodon/dh_course/issues/459 -->
+    <xsl:variable name="locations" as="element(location)*" select="//location"/>
+ 
+ 
+<!-- ================================================================ -->
+<!-- Functions                                                        -->
+<!-- ================================================================ -->
+    <xsl:function name="prv:unique_elements" as="element(xhtml:li)">
+        <!-- ============================================================ -->
+        <!-- prv:unique_elements                                          -->
+        <!-- Synopsis:     -->
+        <!--                                 -->
+        <!--                                                              -->
+        <!-- Parameters                                                   -->
+        <!--   input as element sequence                                  -->
+        <!-- Return:                                                      -->
+        <!--   unique elements with table markup                    -->
+        <!-- ============================================================ -->
+        <xsl:param name="input" as="element(*)*"/>
+        <xsl:for-each select="distinct-values($input)">
+            <!-- assign local variable -->
+            <xsl:variable name="id" select="$locations[. eq current()][1]/@id"
+                as="attribute(id)?"/>
+            <li>
+                <xsl:value-of
+                    select="
+                    if ($id) then
+                    concat($id, ': ')
+                    else
+                    (),
+                    ."
+                />
+            </li>
+        </xsl:for-each>
+    </xsl:function>
+        
+ 
+ 
+<!-- ================================================================ -->
+<!-- Stylesheet   -->
     <xsl:template match="/">
         <html>
             <head>
-                <title>Reading View</title>
+                <title>Document no. <xsl:apply-templates select="//document/@serial" mode="serial"
+                /></title>
                 <link rel="stylesheet" type="text/css" href="persian_document_reading_view.css"/>
                 <link href="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet"/>
                 <link href="https://fonts.googleapis.com/css?family=Scheherazade" rel="stylesheet"/>
@@ -29,6 +76,12 @@
                     <tr>
                         <td>
                             <ul>
+                                <li>
+                                    <xsl:for-each select="//document">
+                                        <xsl:text>Line Count:</xsl:text>
+                                        <xsl:value-of select="count(//lb)"/>
+                                    </xsl:for-each>
+                                </li>
                                 <li>
                                     <xsl:for-each select="//document">
                                         <xsl:text>Character Count:</xsl:text>
@@ -57,14 +110,24 @@
                         </td>
                         <td>
                             <ul>
-                                <xsl:for-each select="//location">
+                                
+                                <xsl:sequence select="prv:unique_elements($locations)"/>
+                                    
+                     <!--           <xsl:for-each select="distinct-values($locations)">
+                                    <!-\- assign local variable -\->
+                                    <xsl:variable name="id" select="$locations[. eq current()][1]/@id"
+                                            as="attribute(id)?"/>
                                     <li>
-                                        <xsl:if test="./@id != ''"><xsl:text>id </xsl:text>
-                                        <xsl:value-of select="./@id"/>
-                                        <xsl:text>: </xsl:text></xsl:if>
-                                        <xsl:value-of select="distinct-values(.)"/>
+                                        <xsl:value-of
+                                            select="
+                                            if ($id) then
+                                            concat($id, ': ')
+                                            else
+                                            (),
+                                            ."
+                                        />
                                     </li>
-                                </xsl:for-each>
+                                </xsl:for-each>-->
                             </ul>
                         </td>
                         <td>
@@ -87,13 +150,15 @@
 
                 <xsl:apply-templates/>
                 
-                <h3>Deciphering</h3>
+                <!--<h3>Deciphering</h3>-->
+                
             </body>
         </html>
     </xsl:template>
 
 
-
+<!-- ================================================================ -->
+    
     <!-- Formatting Heading -->
     <xsl:template match="document" mode="serial"/>
 
