@@ -111,10 +111,10 @@
                         <td>
                             <ul>
                                 
-                                <xsl:sequence select="prv:unique_elements($locations)"/>
+                                <!--<xsl:sequence select="prv:unique_elements($locations)"/>-->
                                     
-                     <!--           <xsl:for-each select="distinct-values($locations)">
-                                    <!-\- assign local variable -\->
+                                <xsl:for-each select="distinct-values($locations)">
+                                    <!-- assign local variable -->
                                     <xsl:variable name="id" select="$locations[. eq current()][1]/@id"
                                             as="attribute(id)?"/>
                                     <li>
@@ -127,7 +127,7 @@
                                             ."
                                         />
                                     </li>
-                                </xsl:for-each>-->
+                                </xsl:for-each>
                             </ul>
                         </td>
                         <td>
