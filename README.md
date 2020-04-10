@@ -34,4 +34,6 @@ Usage
 - For simple transformations on the Java platform, use the command:
   - `java net.sf.saxon.Transform -s:source -xsl:stylesheet -o:output`
   - where source, stylesheet, and output are the source XML file, the XSLT stylesheet, and the output file respectively.
+  - note: Saxon will expect input and output specifications; if the XSLT already specifies the input and /or output in the code itself, then you need the flag `-it` to tell Saxon not to look for an input document.
+    - as far as output: you can specify an output file, but only XSLT results not sent internally somewhere else will output there
 - If the source is a folder, it will iterate over all of the contents.
