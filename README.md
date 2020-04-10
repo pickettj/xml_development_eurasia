@@ -19,6 +19,7 @@ Developing schemas for encoding and marking up Persian documents.
 Saxon can implement XSLT and XQUERY.
 
 Installation
+- Can install via Homebrew (recommended)
 - [Saxonica installation instructions](http://www.saxonica.com/documentation/index.html#!about/installationjava/installingjava) (somewhat vague / targeted at developers)
 - [Download Saxon HE](http://saxonica.com/products/products.xml) (click on SourceForge download link)
   - Move zip file to "a suitable directory" (generally the bin folder in the home directory)
