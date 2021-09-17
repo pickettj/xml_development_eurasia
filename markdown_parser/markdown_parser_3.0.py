@@ -38,15 +38,15 @@ import parser_functions as pf
 
 # Input Folder
 hdir = os.path.expanduser('~')
-md_rel_path = "/Box/Notes/Primary_Sources/transcription_markdown_drafting_stage1"
+md_rel_path = "/Dropbox/Active_Directories/Notes/Primary_Sources/transcription_markdown_drafting_stage1"
 md_path = hdir + md_rel_path
 
 # Destination Folder
-xml_rel_path = r"/Box/Notes/Primary_Sources/xml_notes_stage2/parser_depository"
+xml_rel_path = r"/Dropbox/Active_Directories/Notes/Primary_Sources/xml_notes_stage2/parser_depository"
 xml_path = hdir + xml_rel_path
 
 # Folder to archive old Markdown files
-archive_rel_path = "/Box/Notes/Primary_Sources/transcription_markdown_drafting_stage1/archive_docs_now_at_xml_stage_do_not_use"
+archive_rel_path = "/Dropbox/Active_Directories/Notes/Primary_Sources/transcription_markdown_drafting_stage1/archive_docs_now_at_xml_stage_do_not_use"
 archive_path = hdir + archive_rel_path
 
 print ("Files currently in input folder ", os.path.dirname(md_path), ":\n")
