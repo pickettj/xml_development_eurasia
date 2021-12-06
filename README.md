@@ -20,6 +20,7 @@ Saxon can implement XSLT and XQUERY.
 
 Installation
 - Can install via Homebrew (recommended)
+  - in practice this can be difficult to get working; can also simply sync the jar file and aim at the same folder
 - [Saxonica installation instructions](http://www.saxonica.com/documentation/index.html#!about/installationjava/installingjava) (somewhat vague / targeted at developers)
 - [Download Saxon HE](http://saxonica.com/products/products.xml) (click on SourceForge download link)
   - Move zip file to "a suitable directory" (generally the bin folder in the home directory)
