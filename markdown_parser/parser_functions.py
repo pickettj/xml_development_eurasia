@@ -52,7 +52,7 @@ def parse_md (input_file):
     body = '\n'.join([f'\t{s}' for s in conv.split('\n')])
     final = f"""
     <?xml-model href="../../../../../../Projects/xml_development_eurasia/schemas/persian_documents_schema_basic.rnc" type="application/relax-ng-compact-syntax"?>
-
+    <document serial ="{doc_serial}"><div>
     {body}
     </div></document>
     """.strip()
