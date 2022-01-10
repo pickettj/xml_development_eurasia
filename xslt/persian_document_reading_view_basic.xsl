@@ -264,6 +264,22 @@
         </span>
     </xsl:template>
     
+    
+   <!-- Pointers / References -->
+    <!-- quite often documents put the name of the sovereign in the top margin and then reference them in the text with symbols or spaces -->
+    <!-- this code takes the value in the <ref> element in the top margin and copies it to the <ptr/> empty element -->
+
+    
+    <xsl:template match="ptr[@target]">
+        
+        <span class="interpolated_individual">
+            
+            <xsl:value-of select="id(@target)"/>
+            
+        </span>
+        
+    </xsl:template>
+    
 
 <!--
     <!-\- XML COMMENTS -\->
