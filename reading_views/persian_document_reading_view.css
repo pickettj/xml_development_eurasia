@@ -138,6 +138,12 @@ div.meta {
     color: #325C74;
 }
 
+/* visually flags that text is interpolated from a top-page reference */
+.interpolated_individual{
+    border:2px dashed #DBA901;  
+    padding:0.03em 0.25em;
+}
+
 
 /* Dropdown Formatting */
 
