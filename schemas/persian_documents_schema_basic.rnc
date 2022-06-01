@@ -37,7 +37,7 @@ ptr_target = attribute target { text }
 divLike = mixed { ( phrase | diplo | glossed | lb | doc_div | individual | intertext | work | term | ts | location | emic_id | etym | sem | date | pg | flag | honorific | financial | legal | lang | ptr)* }
 
 div_type =
-    attribute type { "heading" | "marginalia" | "section" | "sentence" | "seal" }
+    attribute type { "elevatio" | "heading" | "marginalia" | "section" | "sentence" | "seal" }
 
 
 
