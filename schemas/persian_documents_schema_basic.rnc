@@ -1,4 +1,4 @@
-# BSASIC PERSIAN DOCUMENT SCHEMA
+# BASIC PERSIAN DOCUMENT SCHEMA
 # James Pickett
 
 # Schema follows some of the EpiDoc guidelines (http://www.stoa.org/epidoc/gl/latest/), and equivalencies are noted in comments.
@@ -6,7 +6,7 @@
 # Document always refers to the entire textual unit in question (which is sometimes subjective), no matter how many folios.
 
 start = document
-document = element document { serial, doc_div* }
+document = element document { serial, doc_div+ }
 
 # METADATA
 # Unique ID corresonds to metadata contained in relational database.
@@ -81,7 +81,7 @@ target = element target {text}
 # usually followed by a formula of greeting (salutatio)."
 
 ts = element ts { ts_type, empty }
-ts_type = attribute type { "salutatio" | "narratio" | "apprecatio" | "inscriptio" | "intitulatio" | "invocatio" }
+ts_type = attribute type { "rescript" | "salutatio" | "narratio" | "apprecatio" | "inscriptio" | "intitulatio" | "invocatio" | "tracking" }
 
 
 # __Transcription Annotation__
