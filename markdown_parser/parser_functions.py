@@ -48,16 +48,17 @@ def parse_md (input_file):
     conv = re.sub(r'(\*[^\*\n]+\*)', r'<flag>\1</flag>', conv)
     conv = re.sub(r'\*', r'', conv)
     conv = re.sub(r'^> (.*)$', r'<!-- \1 -->', conv, flags=re.MULTILINE)
+    if '</div>' in conv:
+        conv = '<div>' + conv + '</div>'
 
     body = '\n'.join([f'\t{s}' for s in conv.split('\n')])
     final = f"""
     <?xml-model href="../../../../../../Projects/xml_development_eurasia/schemas/persian_documents_schema_basic.rnc" type="application/relax-ng-compact-syntax"?>
-    <document serial ="{doc_serial}"><div>
+    <document serial ="{doc_serial}">
     {body}
-    </div></document>
+    </document>
     """.strip()
 
-    final = re.sub(r'</div>', '', final, count=1)
     final = re.sub (r'<document>', doc_serial_xml, final)
 
     return final
